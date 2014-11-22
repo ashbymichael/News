@@ -1,0 +1,3 @@
+After a wildly successful Summer Academy, we asked our top students to join us in San Francisco and pilot our Gap Year program. Over the past two months, our founding class has helped us shape the program’s curriculum and experience. They even teach each other new programming concepts during our weekly “lightning talks.”
+
+We believe that a great education comes in the shape of a dialogue, not a lecture. Together, we’re building the college experience we wished existed. One where our students love coming to school every day and are passionate about their work.
