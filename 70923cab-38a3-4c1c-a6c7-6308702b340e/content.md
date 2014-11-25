@@ -4,7 +4,7 @@ custom_slug: makegameswithus-is-now-makeschool
 category: other
 listed: false
 release_date: 2014-11-25 00:00:00.000000000 Z
-cover_photo_path: 
+cover_photo_path: https://cdn.rawgit.com/MakeSchool-Tutorials/News/2913570e803da24f0a4fa606bfc69e224474377e/70923cab-38a3-4c1c-a6c7-6308702b340e/cover_photo.jpeg
 
 ---
 Dear MakeGamesWithUs students, friends and fans,
