@@ -1,0 +1,1 @@
+The MakeSchool team and Gap Year students paired up to help give back to the community and spread holiday cheer at the MSC Homeless Shelter near our office. Everyone worked together to help make garlands and paint decorations. 
