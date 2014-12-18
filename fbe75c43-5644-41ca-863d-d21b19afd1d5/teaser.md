@@ -1,0 +1,1 @@
+MakeSchool students spent their Saturday demonstrating the games they built at the Summer Academy. One hundred twenty students in Silicon Valley and New York City gathered to show their games to recruiters and guests at the MakeSchool Demo Day.
