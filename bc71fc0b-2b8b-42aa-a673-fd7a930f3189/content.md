@@ -11,9 +11,9 @@ We’re looking for a rails developer to teach the web development portion of ou
 
 **What we’re looking for:**
 
- - Passion for teaching and teaching experience
- - Strong CS background and industry experience building real products (degree not required)
- - Significant experience with RoR/HTML/CSS/JS (bonus for having scaled a rails app)
+ - **Passion** for teaching and teaching experience
+ - **Strong** CS background and industry experience building real products (degree not required)
+ - **Significant** experience with RoR/HTML/CSS/JS (bonus for having scaled a rails app)
 
 
 
