@@ -1,0 +1,1 @@
+We’re looking for a developer to teach the CS theory portion of MakeSchool. You’ll be teaching students aged 18-25 about the fundamentals of Computer Science!
