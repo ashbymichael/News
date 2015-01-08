@@ -10,6 +10,7 @@ cover_photo_path:
 We're looking for someone to establish the design culture and identity of our company. Having strong design will be critical to building a high quality brand and improving the experience of our programs. You'll get to play in many areas of design and truly challenge your creative abilities. You'll be responsible for designing marketing pages on our website, designing physical marketing materials and swag, iterating on the UI/UX of our website and online courses, and designing the physical space of our programs. You'll also be creating a style guide for our course content (slides and projects) and building a mini design curriculum to teach developers about design.
 
 **What we're looking for:**
+
 - Good understanding of the development landscape
 - Bonus points for being able to code frontend or having a strong desire to learn
 - Good understanding of print design
