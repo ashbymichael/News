@@ -1,0 +1,1 @@
+We're looking for someone to build corporate partnerships for our program and get our students hired. It's critical for us to ensure strong outcomes for our students and enable them to work at their dream companies.
