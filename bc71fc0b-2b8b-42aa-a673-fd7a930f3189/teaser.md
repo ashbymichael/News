@@ -1,1 +1,1 @@
-We’re looking for a rails developer to teach the web development portion of our new gap year program. You’ll be teaching students aged 18-25 how to build and ship their first website!
+We're looking for someone to drive students to our in person programs. We'd like to let the world know that our programs exist and convey to them why it could be the greatest experience of their lives.
