@@ -1,18 +1,27 @@
 ---
-title: Mobile developer / instructor
-custom_slug: mobile-developer-instructor
+title: Growth Hacker
+custom_slug: growth-hacker
 category: job
 listed: true
-release_date: 2014-12-18 00:00:00.000000000 Z
+release_date: 2014-01-29 00:00:00.000000000 Z
 cover_photo_path: 
 
 ---
-We’re looking for an iOS developer to teach at our Summer Academy. You’ll be teaching students aged 13-25 how to build and ship their first product: an iPhone app or game! Our curriculum covers Objective-C, but also product design, prototyping, user testing, analytics, and more. The MakeSchool Summer Academy is where students go from having tinkered with CS to falling in love with it and your job will be to teach and mentor them throughout. You can teach in SF or NYC. Here's a taste of the students you'll be teaching: [Jacob Haff](https://www.crowdtilt.com/campaigns/help-a-cf-patient-fulfill-his-dream-of-coding/description), [Sam Jiminez](https://www.crowdtilt.com/campaigns/help-sam-design-and-program-an-iphone-game/description), [Harlan Kellaway](https://www.tilt.com/campaigns/help-me-become-a-dev-for-social-justice/description)
+We're looking for someone to build traffic to our tutorials and online courses. The online courses serve two purposes, they provides a more acccessible way for students around the world to learn to code and build products and they serve as a great funnel into our in person courses, 20% of last year's in person students got started on our website. So far we've had over 10,000 students participate in our online course and over 1 million students use our tutorials, but we haven't given the website enough love. We want you to own website growth, you'll be responsible for driving more students to our high quality content, working with devs to iterate on the product and improve engagement and optimizing the funnel into our in person courses.
 
-**What we’re looking for:**
+**What we're looking for:**
+- Good understanding of the development landscape
+- Bonus points for being able to code or having a strong desire to learn
+- Prior experience building traffic to websites
+- Strong understanding of SEO
+- Good UX sense
+- Creativity to come up with ideas to drive traffic and re-engage users
+- Analytical ability to look at metrics and suggest product improvements
+- High energy and lots of hustle
+- Passion for education
 
- - Passion for teaching and teaching experience
- - Strong CS background and industry experience building real products (degree not required)
- - Significant iOS experience
+**About MakeSchool:**
 
-You'll need to come to California (travel expenses covered) for 2 weeks of training in late May/early June, then you'll be in your location for a week of setup + the 8 weeks the program runs. If you're a good instructor and a good culture fit we'd look to bring you on board longer term and start giving you more responsibilities. Our team cares deeply about the problems in education we are trying to solve, and we'd love if you do too.
+MakeSchool is building a 2 year university replacement that teaches software engineering, computer science theory and better prepares students for a career as a software developer or startup founder. Our emphasis is on building real world products and equipping students with the technical skills and professional network they need to build a successful career in tech. Students have zero out of pocket cost for the program, they pay tuition through earnings during and after the program with no risk and no debt. We also run the Summer Academy, a 2 month program where high school and college students learn to build and ship their first product and Online Academy, an online course based off a simplified version of the Summer Academy.
+
+MakeSchool was founded in 2012, we’ve taught over 500 students through in person courses and over a million students through online tutorials. We’ve grown to 10 people who joined the company from Hawaii, Michigan, Boston, Ohio and Germany. We’ve previously worked at startups, small businesses, game companies and tech companies. We’ve lectured and taught at MIT, Carnegie Mellon, UC Berkeley, Stanford and INSEAD. We frequently volunteer to teach beginners coding basics and mentor entrepreneurs building companies. We see each other as a family and work to treat each other better everyday. Our culture is fast paced yet fun and forgiving. We care deeply about improving computer science education, and sparking passion in students to build real products. We’re always looking to add new and diverse perspectives to the team, if you’re passionate about computer science education we’d love to hear from you!
