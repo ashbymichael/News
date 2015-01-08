@@ -20,7 +20,7 @@ We're looking for someone to help build classroom software and admin tools to im
 - Good UX sense
 - Clear, simple thinking and creative problem solving ability
 - Ability to work well with others
-- Good development practices (TDD, version control, ?)
+- Good development practices (TDD, version control, design patterns, performance)
 - Ability to accurately set timelines
 - Ability to clearly define specifications
 - Passion for education
