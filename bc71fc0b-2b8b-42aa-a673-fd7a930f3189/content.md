@@ -1,21 +1,24 @@
 ---
-title: Rails developer / instructor
-custom_slug: rails-developer-instructor
+title: Sales and Marketing
+custom_slug: sales-and-marketing
 category: job
 listed: true
-release_date: 2015-01-07 00:00:00.000000000 Z
+release_date: 2014-01-25 00:00:00.000000000 Z
 cover_photo_path: 
 
 ---
-We’re looking for a rails developer to teach the web development portion of our new gap year program. You’ll be teaching students aged 18-25 how to build and ship their first website! Our curriculum will cover Ruby on Rails and HTML/CSS/JS, you’ll get to heavily influence the curriculum for this year and the future. You’ll also get to help guide the students' product ideas, help them understand how to effectively code on a team and prepare them to become professional developers or startup founders. Our students are some of the brightest in the nation, they’ve been coding for years, have already shipped iOS games and apps and have a passion for building great products. It’s an exciting opportunity to help inspire the next generation of makers and help define the future of CS education.
+We're looking for someone to drive students to our in person programs. Our students see our programs as a life changing experience and nothing else like them exists today. We'd like to let the rest of the world know that our programs exist and convey to them why it could be the greatest experience of their lives. Most of our students come from word of mouth and our online content but there are many sources of awesome students we haven't tapped. Your responsibility will be to build a pipeline of students and drive more applications than we can handle. You'll be working on messaging, cold calling teachers, pitching students at hackathons, building a campus rep program, and coming up with crazy ideas we haven't yet thought of. You'll also be responsible for improving yield to our programs once students have been admitted through info sessions, events and more.
 
-**What we’re looking for:**
+**What we're looking for:**
 
- - Passion for teaching and teaching experience
- - Strong CS background and industry experience building real products (degree not required)
- - Significant experience with RoR/HTML/CSS/JS (bonus for having scaled a rails app)
-
-The position would start mid-november at the latest, we’d be happy to have you start right away to help develop the curriculum. The teaching period will last 3 months, after which you would contribute to curriculum development, website development and a variety of other areas.
+- Good understanding of the devleopment landscape
+- Bonus points for being able to code or having a strong desire to learn
+- Ability to easily befriend developers and teachers
+- Prior experience in sales or marketing
+- Creativity to come up with fun and crazy ideas
+- Analytical ability to figure out which methods are most effective
+- High energy and lots of hustle
+- Passion for education
 
 **About MakeSchool:**
 
