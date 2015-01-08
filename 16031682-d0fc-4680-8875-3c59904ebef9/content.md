@@ -21,7 +21,7 @@ We’re looking for a iOS developer to teach the app development portion of Make
 - Basic python experience or ability to learn
 - Good understanding of CS principles (algorithms, data structures)
 - Good understanding of math principles (calculus, statistics)
-- Good understanding of development best practices (TDD, version control, ?)
+- Good understanding of development best practices (TDD, version control, design patterns, performance)
 - Ability to learn and assist in teaching non technical topics
 - Strong people skills
 - High energy and a big smile
