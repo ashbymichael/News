@@ -7,7 +7,7 @@ release_date: 2014-01-30 00:00:00.000000000 Z
 cover_photo_path: 
 
 ---
-We're looking for someone to help build classroom software and admin tools to improve educational outcomes and reduce administrative burden. We view software as the backbone of our classroom and are working to digitize our entire curriculum to build a better learning experience and allow instructors to focus on providing one on one help to students. This software backbone will allow us to scale our physical programs very efficiently. You'll be responsible for iterating on our Online Academy (the current curriculum delivery mechanism for both our in person and online courses) and adding new features like video lectures and in browser coding excercises<link to flappy>. You'll also be building student management, communication and evaluation tools and occasionally building tools to help the marketing team. 
+We're looking for someone to help build classroom software and admin tools to improve educational outcomes and reduce administrative burden. We view software as the backbone of our classroom and are working to digitize our entire curriculum to build a better learning experience and allow instructors to focus on providing one on one help to students. This software backbone will allow us to scale our physical programs very efficiently. You'll be responsible for iterating on our Online Academy (the current curriculum delivery mechanism for both our in person and online courses) and adding new features like video lectures and [in browser coding exercises](http://make.sc/flappy). You'll also be building student management, communication and evaluation tools and occasionally building tools to help the marketing team. 
 
 **What we're looking for:**
 
