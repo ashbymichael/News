@@ -7,7 +7,7 @@ release_date: 2014-01-28 00:00:00.000000000 Z
 cover_photo_path: 
 
 ---
-We're looking for someone to build corporate partnerships for our program and get our students hired. It's critical for us to ensure strong outcomes for our students and enable them to work at their dream companies. You'll be responsible for building relationships with the engineering and recruiting departments of the coolest tech startups in order to get them excited about our program, convince them to interview our students, and sell them on a formal partnership to fund our students' education. You'll also be using these relationships to recruit mentors and guest lecturers and collect feedback on how we can improve our teaching and curriculum.
+We're looking for someone to build corporate partnerships for our program and get our students hired. It's critical for us to ensure strong outcomes for our students and enable them to work at their dream companies. You'll be responsible for building relationships with the engineering and recruiting departments of the coolest tech startups to get them excited about our program, convince them to interview our students, and sell them on a formal partnership to fund our students' education. You'll also be using these relationships to recruit mentors and guest lecturers and collect feedback on how we can improve our teaching and curriculum.
 
 **What we're looking for:**
 
