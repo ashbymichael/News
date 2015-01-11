@@ -20,7 +20,7 @@ We’re looking for a developer to teach the CS theory portion of MakeSchool. Yo
 - Basic bash experience or ability to learn
 - Strong python experience
 - Strong understanding of CS principles (algorithms, data structures)
-- Strong understanding of [advanced CS concepts] (https://makegameswithus.hackpad.com/2-Year-Program-Curriculum-QtQkldMWDca)
+- Strong understanding of [advanced CS concepts] (https://makegameswithus.hackpad.com/Theory-Curriculum-ohXTaYA9RWP)
 - Strong understanding of math principles (calculus, statistics)
 - Strong understanding of development best practices (TDD, version control, design patterns, performance)
 - Ability to learn and assist in teaching non technical topics
