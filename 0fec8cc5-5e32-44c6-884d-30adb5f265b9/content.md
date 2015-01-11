@@ -7,7 +7,7 @@ release_date: 2014-01-29 00:00:00.000000000 Z
 cover_photo_path: 
 
 ---
-We're looking for someone to build traffic to our tutorials and online courses. The online courses serve two purposes, they provides a more acccessible way for students around the world to learn to code and build products and they serve as a great funnel into our in person courses, 20% of last year's in person students got started on our website. So far we've had over 10,000 students participate in our online course and over 1 million students use our tutorials, but we haven't given the website enough love. We want you to own website growth, you'll be responsible for driving more students to our high quality content, working with devs to iterate on the product and improve engagement and optimizing the funnel into our in person courses.
+We're looking for someone to build traffic to our tutorials and online courses. The online courses serve two purposes, they provides a more acccessible way for students around the world to learn to code and build products and they serve as a great funnel into our in person courses, 20% of last year's in person students got started on our website. So far we've had over 10,000 students participate in our online course and over 1 million students use our tutorials. We want you to own website growth, you'll be responsible for driving more students to our high quality content, working with devs to iterate on the product and improve engagement and optimizing the funnel into our in person courses.
 
 **What we're looking for:**
 
