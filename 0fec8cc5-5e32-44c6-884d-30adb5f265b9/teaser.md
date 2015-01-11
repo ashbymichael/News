@@ -1,1 +1,1 @@
-We're looking for someone to build traffic to our tutorials and online courses. So far we've had over 10,000 students participate in our online course and over 1 million students use our tutorials, but we haven't given the website enough love.
+We're looking for someone to build traffic to our tutorials and online courses. So far we've had over 10,000 students participate in our online course and over 1 million students use our tutorials.
