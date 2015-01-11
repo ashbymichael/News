@@ -1,26 +1,24 @@
 ---
-title: Software Engineer
-custom_slug: software-engineer
+title: Frontend Engineer
+custom_slug: frontend-engineer
 category: job
 listed: true
 release_date: 2014-01-30 00:00:00.000000000 Z
 cover_photo_path: 
 
 ---
-We're looking for someone to help build classroom software and admin tools to improve educational outcomes and reduce administrative burden. We view software as the backbone of our classroom and are working to digitize our entire curriculum to build a better learning experience and allow instructors to focus on providing one on one help to students. This software backbone will allow us to scale our physical programs very efficiently. You'll be responsible for iterating on our Online Academy (the current curriculum delivery mechanism for both our in person and online courses) and adding new features like video lectures and [in browser coding exercises](http://make.sc/flappy). You'll also be building student management, communication and evaluation tools and occasionally building tools to help the marketing team. 
+We're looking for someone to help build classroom software and admin tools to improve educational outcomes and reduce administrative burden. We view software as the backbone of our classroom and are working to digitize our entire curriculum to build a better learning experience and allow instructors to focus on providing one on one help to students. This software backbone will allow us to scale our physical programs very efficiently. You'll be responsible for iterating on our Online Academy (the current curriculum delivery mechanism for both our in person and online courses) and adding features like video lectures and [in browser coding exercises](http://make.sc/flappy). You'll also be helping build tools for student management, communication and evaluation tools.
 
 **What we're looking for:**
 
-- Backend and frontend development experience
-- Experience with a variety of programming languages, fairly language agnostic
-- Experience with Node.js, Git
-- Experience with or ability to learn CoffeeScript, SCSS
-- Ability to learn new languages and technologies quickly
-- Strong debugging and QA experience
-- Good UX sense
+- Strong frontend development experience in HTML/CSS
+- Experience with Git, Javascript, CoffeeScript, SCSS
+- Ability to build fast and learn quickly
+- Good debugging and QA experience
+- Strong UX sense and good design thinking
 - Clear, simple thinking and creative problem solving ability
 - Ability to work well with others
-- Good development practices (TDD, version control, design patterns, performance)
+- Good development practices and clean code
 - Ability to accurately set timelines
 - Ability to clearly define specifications
 - Passion for education
