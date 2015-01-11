@@ -19,7 +19,7 @@ We’re looking for a Ruby on Rails developer to teach the web development porti
 - Basic bash experience or ability to learn
 - Basic python experience or ability to learn
 - Good understanding of CS principles (algorithms, data structures)
-- Good understanding of [advanced CS concepts] (https://makegameswithus.hackpad.com/2-Year-Program-Curriculum-QtQkldMWDca)
+- Good understanding of [advanced CS concepts] (https://makegameswithus.hackpad.com/Theory-Curriculum-ohXTaYA9RWP)
 - Good understanding of math principles (calculus, statistics)
 - Good understanding of development best practices (TDD, version control, design patterns, performance)
 - Ability to learn and assist in teaching non technical topics
