@@ -7,7 +7,7 @@ release_date: 2014-01-24 00:00:00.000000000 Z
 cover_photo_path: 
 
 ---
-We're looking for someone to wear many hats and keep the wheels on the bus as we step on the gas. Having an awesome admin can be a huge force multiplier for a company. You'll be responsible for making sure everyone on the team is happy and productive and taking care of critical tasks that keep the company running. You'll be managing HR, employee onboarding and helping with hiring, taking care of revenue collection, billing and tracking expenses, coordinating trips to hackathons, and keeping the office organized. You'll also be in charge of ops for the programs, finding and setting up the physical space, coordinating logistics and events, and communicating with prospective students.
+We're looking for someone to wear many hats and keep the wheels on the bus as we step on the gas. Having an awesome admin can be a huge force multiplier for a company. You'll be responsible for taking care of critical tasks that keep the company running and making sure everyone on the team is happy and productive. You'll be managing HR, employee onboarding and helping with hiring, taking care of revenue collection, billing and tracking expenses, coordinating trips to hackathons, and keeping the office organized. You'll also be in charge of ops for the programs, finding and setting up the physical space, coordinating logistics and events, and communicating with prospective students.
 
 **What we're looking for:**
 
