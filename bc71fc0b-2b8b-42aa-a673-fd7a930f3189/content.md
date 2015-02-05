@@ -1,6 +1,6 @@
 ---
-title: Sales and Marketing
-custom_slug: sales-and-marketing
+title: Marketing
+custom_slug: marketing
 category: job
 listed: true
 release_date: 2014-01-25 00:00:00.000000000 Z
@@ -17,6 +17,8 @@ We're looking for someone to drive students to our in person programs. Our stude
 - Prior experience in sales or marketing
 - Creativity to come up with fun and crazy ideas
 - Analytical ability to figure out which methods are most effective
+- Good understanding of messaging
+- Concise and clear writing
 - High energy and lots of hustle
 - Passion for education
 
