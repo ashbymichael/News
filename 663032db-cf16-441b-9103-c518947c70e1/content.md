@@ -4,7 +4,7 @@ custom_slug: summer-academy-video
 category: summer_academy
 listed: true
 release_date: 2015-02-05 00:00:00.000000000 Z
-cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/cc909ce9b4fca0591d4dd769c60495088a0df806//663032db-cf16-441b-9103-c518947c70e1/cover_photo.jpeg
+cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/f744d331484d043a373ee2a33d63626c352255d4//663032db-cf16-441b-9103-c518947c70e1/cover_photo.jpeg
 
 ---
 **Make School launches its first Summer Academy video!**
