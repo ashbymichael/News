@@ -1,1 +1,1 @@
-We’re looking for a Ruby on Rails developer to teach the web development portion of MakeSchool. You’ll be teaching students aged 18-25 how to build and ship their first website!
+We’re looking for a Ruby on Rails developer to teach the web development portion of Make School. You’ll be teaching students aged 18-25 how to build and ship their first website!
