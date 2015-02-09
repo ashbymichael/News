@@ -7,7 +7,7 @@ release_date: 2014-01-22 00:00:00.000000000 Z
 cover_photo_path: 
 
 ---
-We’re looking for a iOS developer to teach the app development portion of MakeSchool. You’ll be teaching students aged 18-25 how to build and ship their first app! Our curriculum will cover iOS, Node.js and MongoDB, you’ll get to heavily influence the curriculum for this year and the future. You’ll also get to help guide the students' product ideas, help them understand how to effectively code on a team and prepare them to become professional developers or startup founders. Our students are some of the brightest in the nation, they’ve been coding for years, have already shipped iOS games and apps and have a passion for building great products. It’s an exciting opportunity to help inspire the next generation of makers and help define the future of CS education.
+We’re looking for a iOS developer to teach the app development portion of Make School. You’ll be teaching students aged 18-25 how to build and ship their first app! Our curriculum will cover iOS, Node.js and MongoDB, you’ll get to heavily influence the curriculum for this year and the future. You’ll also get to help guide the students' product ideas, help them understand how to effectively code on a team and prepare them to become professional developers or startup founders. Our students are some of the brightest in the nation, they’ve been coding for years, have already shipped iOS games and apps and have a passion for building great products. It’s an exciting opportunity to help inspire the next generation of makers and help define the future of CS education.
 
 **What we’re looking for:**
 
