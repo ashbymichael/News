@@ -3,7 +3,7 @@ title: Introducing Make School
 custom_slug: introducing-make-school
 category: other
 listed: true
-release_date: 2014-11-25 00:00:00.000000000 Z
+release_date: 2015-01-25 00:00:00.000000000 Z
 cover_photo_path: https://cdn.rawgit.com/MakeSchool-Tutorials/News/5486ee9046104519efeddefede39d38477c2ea9a/70923cab-38a3-4c1c-a6c7-6308702b340e/cover_photo.png
 
 ---
