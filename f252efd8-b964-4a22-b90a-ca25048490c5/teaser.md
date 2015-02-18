@@ -1,0 +1,1 @@
+Make School rocked HackGenY with a stellar opening talk, packed workshops, and a Summer Academy alumnus taking 1st place!!
