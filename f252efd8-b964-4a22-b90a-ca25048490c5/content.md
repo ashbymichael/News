@@ -1,7 +1,7 @@
 ---
 title: Fun at HackGenY
 custom_slug: fun-at-hackgeny
-category: summer_academy
+category: other
 listed: true
 release_date: 2015-02-17 00:00:00.000000000 Z
 cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/9bbee5c965466fb0ebb592f294144102c3fd5a9d//f252efd8-b964-4a22-b90a-ca25048490c5/cover_photo.jpeg
