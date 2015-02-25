@@ -1,6 +1,6 @@
 ---
-title: iOS Summer Intern
-custom_slug: ios-summer-intern
+title: iOS Summer Instructor
+custom_slug: ios-summer-instructor
 category: job
 listed: true
 release_date: 2014-01-20 00:00:00.000000000 Z
