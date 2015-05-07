@@ -3,7 +3,7 @@ title: iOS Summer Instructor
 custom_slug: ios-summer-instructor
 category: job
 listed: true
-release_date: 2014-01-20 00:00:00.000000000 Z
+release_date: 2014-01-31 00:00:00.000000000 Z
 cover_photo_path: 
 
 ---
