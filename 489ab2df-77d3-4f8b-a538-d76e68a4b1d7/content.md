@@ -3,7 +3,7 @@ title: Designer
 custom_slug: designer
 category: job
 listed: true
-release_date: 2014-01-27 00:00:00.000000000 Z
+release_date: 2014-01-01 00:00:00.000000000 Z
 cover_photo_path: 
 
 ---
