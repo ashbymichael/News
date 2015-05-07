@@ -2,7 +2,7 @@
 title: Community Manager
 custom_slug: community-manager
 category: job
-listed: true
+listed: false
 release_date: 2014-01-26 00:00:00.000000000 Z
 cover_photo_path: 
 
