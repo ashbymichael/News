@@ -2,7 +2,7 @@
 title: Admin and Operations
 custom_slug: admin-and-operations
 category: job
-listed: true
+listed: false
 release_date: 2014-01-24 00:00:00.000000000 Z
 cover_photo_path: 
 
