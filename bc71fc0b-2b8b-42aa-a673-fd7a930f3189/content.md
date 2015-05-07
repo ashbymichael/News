@@ -2,7 +2,7 @@
 title: Marketing
 custom_slug: marketing
 category: job
-listed: true
+listed: false
 release_date: 2014-01-25 00:00:00.000000000 Z
 cover_photo_path: 
 
