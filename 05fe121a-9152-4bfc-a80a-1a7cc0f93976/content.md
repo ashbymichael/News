@@ -14,7 +14,7 @@ We’re looking for an iOS developer to teach at our Summer Academy, an 8 week i
 - CS degree (or related) preferred, but not required<br>
 - iOS experience (Swift preferred, Objective-C okay if you are excited and able to learn Swift before the program starts)<br>
 - Strong people skills, comfortable speaking to large groups of people<br>
-- Based in San Francisco, Silicon Valley, or NYC (or are willing to relocate on your own terms)<br>
+- Based in San Francisco, Silicon Valley, or New York City (or are willing to relocate on your own terms)<br>
 - You eat, breathe, and sleep code - you simply cannot get enough!<br>
 - High energy and a gigantic smile!<br>
 <b>Bonus points</b> <br>
