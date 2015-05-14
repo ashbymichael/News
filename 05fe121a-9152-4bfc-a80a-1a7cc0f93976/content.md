@@ -27,9 +27,9 @@ We’re looking for an iOS developer to teach at our Summer Academy, an 8 week i
 - Help students work through bugs, crashes, and guide them towards best practices<br>
 
 <b>Become a Better Developer</b><br>
-- 2 week training before classes start led by the world's best iOS developers
-- Be involved in the development and launch of 10+ apps
-- Teaching is the path to mastery!
+- 2 week training before classes start led by the world's best iOS developers<br>
+- Be involved in the development and launch of 10+ apps<br>
+- Teaching is the path to mastery!<br>
 
 <b>Grow Your Professional Network</b><br>
 - A great launchpad into jobs at companies funded by Y-Combinator and Andreessen Horowitz<br>
