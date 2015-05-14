@@ -9,7 +9,7 @@ cover_photo_path:
 ---
 We’re looking for an iOS developer to teach at our Summer Academy, an 8 week intensive program where students age 13-25 design, code, and ship their original iPhone game or app in Swift. Our curriculum also covers product design, prototyping, user testing, analytics, and more. This is a Full Time position from mid-June to mid-August. 
 
-About you
+About you<br>
 - Passionate about teaching young developers
 - CS degree (or related) preferred, but not required
 - iOS experience (Swift preferred, Objective-C okay if you are excited and able to learn Swift before the program starts)
