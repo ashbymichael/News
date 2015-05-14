@@ -23,11 +23,12 @@ We’re looking for an iOS developer to teach at our Summer Academy, an 8 week i
 - Ability to learn and assist in teaching non technical topics<br>
 
 <b>Job Requirements</b><br>
+- Directly mentor a group of 10 students help manage their projects from brainstorm to App Store launch<br>
 - Lead group discussions on lecture topics<br>
 - Help students work through bugs, crashes, and technical challenges<br>
-- Monitor students progress and act as a project manager for several students<br>
 
 <b>Perks of being a Summer Instructor</b><br>
+- 
 - Hands on experience leading students through the entire development process<br>
 - A plug into our networks including Y-Combinator, Andreessen Horowitz, and Make School’s Corporate Partners<br>
 - Work in a fun and fast paced startup environment<br>
