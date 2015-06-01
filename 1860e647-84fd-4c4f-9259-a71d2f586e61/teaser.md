@@ -1,0 +1,1 @@
+We had a blast at Make Hacks -- and we hope you did too! Thanks to all participants for coming out and making the first Make Hacks such a success! 
