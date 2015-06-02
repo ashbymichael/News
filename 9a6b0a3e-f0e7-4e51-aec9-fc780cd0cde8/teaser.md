@@ -1,0 +1,1 @@
+We're excited to announce that we have finalized locations for our Summer Academy in New York and Silicon Valley! 
