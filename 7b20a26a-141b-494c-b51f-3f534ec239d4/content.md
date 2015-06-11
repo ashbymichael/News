@@ -10,12 +10,12 @@ cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/94b69d37c
 We’re looking for an UI/UX instructor to teach at our Summer Academy, an 8 week intensive program where 200+ students age 13-25 design, code, and ship their original iPhone game or app in Swift. Our curriculum also covers product design, prototyping, user testing, analytics, and more. The focus of this role is to provide students with product, design, and usability feedback. Additionally you will be tasked with producing original art and design for the best students. This is a full-time position from mid-June to mid-August. Locations: San Francisco, Sunnyvale (CA), or NYC.
 
 About you
-- Passionate about teaching
-- Mobile app UI/UX experienced
-- Strong people skills, comfortable speaking to large groups of people
-- Based in San Francisco, Silicon Valley, or New York City (or are willing to relocate on your own terms)
-- You eat, breathe, and sleep UI/UX - you simply cannot get enough!
-- High energy and a friendly personality!
+* Passionate about teaching
+* Mobile app UI/UX experienced
+* Strong people skills, comfortable speaking to large groups of people
+* Based in San Francisco, Silicon Valley, or New York City (or are willing to relocate on your own terms)
+* You eat, breathe, and sleep UI/UX - you simply cannot get enough!
+* High energy and a friendly personality!
 
 Bonus points 
 - Experience teaching in a classroom setting or managing a team of designers/developers
