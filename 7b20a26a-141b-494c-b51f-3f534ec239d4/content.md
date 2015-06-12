@@ -12,7 +12,7 @@ We’re looking for an UI/UX instructor to teach at our Summer Academy, an 8 wee
 **About you:**
 
 - Passionate about teaching
-- Mobile app UI/UX experienced
+- Mobile app UI/UX experience
 - Strong people skills, comfortable speaking to large groups of people
 - Based in San Francisco, Silicon Valley, or New York City (or are willing to relocate on your own terms)
 - You eat, breathe, and sleep UI/UX - you simply cannot get enough!
