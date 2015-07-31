@@ -13,7 +13,7 @@ The software revolution has brought the cost of shipping a product down to the p
 
 Gen Z was born with access to the internet in their pockets. This has dramatically accelerated their learning - though perhaps not by the standards we've used to measure learning in the past - and has greatly increased their awareness and desire to create social impact.
 
-Growing up with smartphones has given youth the perception that nearly every problem they see in the world can be partially solved or improved by an app. Through resources like Codecademy, Stack Overflow, hackathons and our Summer Academy, Gen Z has been equipped to start solving these problems while they're in high school, and they are doing so in droves. (provide examples?)
+Growing up with smartphones has given youth the perception that nearly every problem they see in the world can be partially solved or improved by an app. Through resources like Codecademy, Stack Overflow, hackathons and our Summer Academy, Gen Z has been equipped to start solving these problems while they're in high school, and they are doing so in droves.
 
 The software revolution has also had a dramatic impact on the footprint of companies. Software is eating the middle man - rote and repetitive jobs are being automated. Companies are creating more impact and value with far fewer employees. The future economy will distribute the working population over a much larger number of companies in a plethora of new industries. The jobs that will remain are the creatives - engineers, designers, etc.
 
