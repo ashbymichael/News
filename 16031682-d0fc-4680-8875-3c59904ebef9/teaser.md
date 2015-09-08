@@ -1,1 +1,1 @@
-We’re looking for a iOS developer to teach the app development portion of Make School. You’ll be teaching students aged 18-25 how to build and ship their first app!
+We’re looking for a iOS developer to teach the app development portion of Make School. You’ll teach students age 18-25 how to build and ship an app!
