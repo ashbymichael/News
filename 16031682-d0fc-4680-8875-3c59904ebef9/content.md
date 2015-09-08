@@ -14,12 +14,12 @@ Our students are some of the brightest in the nation. They’ve been coding for 
 
 - Strong CS background and industry experience building real products (degree not required)
 - Significant experience with iOS
-- Basic experience with (or ability to learn)
-     -Flask 
-     -Ruby on Rails 
-     -HTML/CSS/JS 
-     -Bash  
-     -Python 
+- Basic experience with (or ability to learn)<br>
+     Flask <br>
+     Ruby on Rails <br> 
+     HTML/CSS/JS <br>
+     Bash <br>
+     Python <br>
 - Good understanding of
      CS principles (algorithms, data structures)
      Advanced CS concepts
