@@ -8,23 +8,23 @@ cover_photo_path:
 
 ---
 We’re looking for a iOS developer to teach the app development portion of Make School. You’ll teach students age 18-25 how to build and ship an app! Our curriculum will cover iOS, Flask and MongoDB. You’ll heavily influence the curriculum for this year and the future. You’ll also help guide students' product ideas, help them understand how to effectively code on a team, and prepare them to become professional developers and startup founders.
-Our students are some of the brightest in the nation. They’ve been coding for years, have already shipped iOS games and apps, and have a passion for building great products. This is a unique opportunity to inspire the next generation of makers and define the future of CS education.
+<br>Our students are some of the brightest in the nation. They’ve been coding for years, have already shipped iOS games and apps, and have a passion for building great products. This is a unique opportunity to inspire the next generation of makers and define the future of CS education.
 
 <b>What we’re looking for</b>
 
 - Strong CS background and industry experience building real products (degree not required)
 - Significant experience with iOS
 - Basic experience with (or ability to learn)<br>
-     Flask <br>
-     Ruby on Rails <br> 
-     HTML/CSS/JS <br>
-     Bash <br>
-     Python <br>
+       Flask <br>
+       Ruby on Rails <br> 
+       HTML/CSS/JS <br>
+       Bash <br>
+       Python <br>
 - Good understanding of <br>
-     CS principles (algorithms, data structures) <br>
-     Advanced CS concepts <br>
-     Math principles (calculus, statistics) <br>
-     Development best practices (TDD, version control, design patterns, performance) <br>
+       CS principles (algorithms, data structures) <br>
+       Advanced CS concepts <br>
+       Math principles (calculus, statistics) <br>
+       Development best practices (TDD, version control, design patterns, performance) <br>
 - Passion for teaching and/or teaching experience 
 - Ability to learn and assist in teaching non technical topics 
 - You eat, breathe, and sleep code - you simply cannot get enough!
