@@ -7,7 +7,7 @@ release_date: 2014-01-22 00:00:00.000000000 Z
 cover_photo_path: 
 
 ---
-We’re looking for a iOS developer to teach the app development portion of Make School. You’ll teach students age 18-25 how to build and ship an app! Our curriculum will cover iOS, Flask and MongoDB. You’ll heavily influence the curriculum for this year and the future. You’ll also help guide students' product ideas, help them understand how to effectively code on a team, and prepare them to become professional developers and startup founders.
+We’re looking for a iOS developer to teach the app development portion of Make School. You’ll teach students how to build and ship an app! Our curriculum will cover iOS, Flask and MongoDB. You’ll heavily influence the curriculum for this year and the future. You’ll also help guide students' product ideas, help them understand how to effectively code on a team, and prepare them to become professional developers and startup founders.
 <br><br>Our students are some of the brightest in the nation. They’ve been coding for years, have already shipped iOS games and apps, and have a passion for building great products. This is a unique opportunity to inspire the next generation of makers and define the future of CS education.
 
 <b>What we’re looking for</b>
@@ -25,7 +25,7 @@ We’re looking for a iOS developer to teach the app development portion of Make
        Advanced CS concepts <br>
        Math principles (calculus, statistics) <br>
        Development best practices (TDD, version control, design patterns, performance) <br>
-- Passion for teaching and/or teaching experience 
+- Passion for teaching. Teaching experience is a bonus.
 - Ability to learn and assist in teaching non technical topics 
 - You eat, breathe, and sleep code - you simply cannot get enough!
 - Strong people skills
@@ -47,7 +47,7 @@ We’re looking for a iOS developer to teach the app development portion of Make
 <b>Grow Your Professional Network</b>
 
 - Networking opportunities with Make School's Corporate Partners including LinkedIn, Lyft, and MindBodyOnline
-- Our team is a family : join us for regular networking events, city outings, company game nights, etc
+- Our team is a family: join us for regular networking events, city outings, company game nights, etc.
 
 
 <b>About Make School</b>
