@@ -52,7 +52,6 @@ We’re looking for a iOS developer to teach the app development portion of Make
 
 
 <b>About Make School</b>
-
 Make School is building a 2 year university alternative that teaches software engineering, computer science theory and better prepares students for a career as a software developer or startup founder. Our emphasis is on building real world products and equipping students with the technical skills and professional network they need to build a successful career in tech. Students have zero out of pocket cost for the program, they pay tuition through earnings during and after the program with no risk and no debt. We also run the Summer Academy, a 2 month program where high school and college students learn to build and ship their first product as well as Online Academy, an online course based off a simplified version of the Summer Academy.
 
 
