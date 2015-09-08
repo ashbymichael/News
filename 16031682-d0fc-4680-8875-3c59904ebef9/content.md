@@ -20,36 +20,38 @@ Our students are some of the brightest in the nation. They’ve been coding for 
      HTML/CSS/JS <br>
      Bash <br>
      Python <br>
-- Good understanding of
-     CS principles (algorithms, data structures)
-     Advanced CS concepts
-     Math principles (calculus, statistics)
-     Development best practices (TDD, version control, design patterns, performance)
-- Passion for teaching and/or teaching experience
-- Ability to learn and assist in teaching non technical topics
+- Good understanding of <br>
+     CS principles (algorithms, data structures) <br>
+     Advanced CS concepts <br>
+     Math principles (calculus, statistics) <br>
+     Development best practices (TDD, version control, design patterns, performance) <br>
+- Passion for teaching and/or teaching experience 
+- Ability to learn and assist in teaching non technical topics 
 - You eat, breathe, and sleep code - you simply cannot get enough!
 - Strong people skills
 - High energy and a gigantic smile!
 
-Job Requirements
+<b>Job Requirements</b>
 
 - Lead group discussions on lecture topics
 - Provide product feedback to students
 - Help students work through bugs, crashes, and guide them towards best practices
 
-Become a Better Developer
+<b>Become a Better Developer</b>
 
 - Be involved in the development and launch of 30+ apps
 - Teaching is the path to mastery!
 - Contribute to open source projects
 - Explore the latest tools and technologies
 
-Grow Your Professional Network
+<b>Grow Your Professional Network</b>
 
 - Networking opportunities with Make School's Corporate Partners including LinkedIn, Lyft, and MindBodyOnline
 - Our team is a family : join us for regular networking events, city outings, company game nights, etc
-About Make School
 
+
+
+<b>About Make School</b>
 
 Make School is building a 2 year university alternative that teaches software engineering, computer science theory and better prepares students for a career as a software developer or startup founder. Our emphasis is on building real world products and equipping students with the technical skills and professional network they need to build a successful career in tech. Students have zero out of pocket cost for the program, they pay tuition through earnings during and after the program with no risk and no debt. We also run the Summer Academy, a 2 month program where high school and college students learn to build and ship their first product as well as Online Academy, an online course based off a simplified version of the Summer Academy.
 
