@@ -2,7 +2,7 @@
 title: UI/UX Summer Instructor
 custom_slug: uiux-summer-instructor
 category: job
-listed: true
+listed: false
 release_date: 2015-06-10 00:00:00.000000000 Z
 cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/94b69d37c3652447ed511d40d709a129f35553b3//7b20a26a-141b-494c-b51f-3f534ec239d4/cover_photo.png
 
