@@ -8,7 +8,7 @@ cover_photo_path:
 
 ---
 We’re looking for a iOS developer to teach the app development portion of Make School. You’ll teach students age 18-25 how to build and ship an app! Our curriculum will cover iOS, Flask and MongoDB. You’ll heavily influence the curriculum for this year and the future. You’ll also help guide students' product ideas, help them understand how to effectively code on a team, and prepare them to become professional developers and startup founders.
-<br>Our students are some of the brightest in the nation. They’ve been coding for years, have already shipped iOS games and apps, and have a passion for building great products. This is a unique opportunity to inspire the next generation of makers and define the future of CS education.
+<br><br>Our students are some of the brightest in the nation. They’ve been coding for years, have already shipped iOS games and apps, and have a passion for building great products. This is a unique opportunity to inspire the next generation of makers and define the future of CS education.
 
 <b>What we’re looking for</b>
 
