@@ -14,13 +14,13 @@ We’re looking for a iOS developer to teach the app development portion of Make
 
 - Strong CS background and industry experience building real products (degree not required)
 - Significant experience with iOS
-- Basic experience with (or ability to learn)<br>
+- Basic experience with (or ability to learn):<br>
        Flask <br>
        Ruby on Rails <br> 
        HTML/CSS/JS <br>
        Bash <br>
        Python <br>
-- Good understanding of <br>
+- Good understanding of: <br>
        CS principles (algorithms, data structures) <br>
        Advanced CS concepts <br>
        Math principles (calculus, statistics) <br>
