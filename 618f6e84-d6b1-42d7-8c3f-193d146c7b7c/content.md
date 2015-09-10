@@ -7,26 +7,42 @@ release_date: 2014-01-21 00:00:00.000000000 Z
 cover_photo_path: 
 
 ---
-We’re looking for a developer to teach the CS theory portion of Make School. You’ll be teaching students aged 18-25 about the fundamentals of Computer Science! Our curriculum will cover the basics of algorithms and data structures through advanced topics such as Machine Learning and AI, you’ll get to heavily influence the curriculum for this year and the future. You’ll also get to help guide the students' product ideas, help them understand how to effectively code on a team and prepare them to become professional developers or startup founders. Our students are some of the brightest in the nation, they’ve been coding for years, have already shipped iOS games and apps and have a passion for building great products. It’s an exciting opportunity to help inspire the next generation of makers and help define the future of CS education.
+Make School is building the Product University for aspiring software engineers and founders. Students spend two years learning computer science foundations, software engineering, and product development through a blend of individually paced, project-based learning and industry experience. Unlike traditional university, students have zero upfront cost for the program; they pay tuition through earnings.
 
-**What we’re looking for:**
+We're looking for a Computer Science Instructor to develop and teach the CS theory curriculum. Your work will serve as the foundation for the Make School educational experience as we scale from 50 students to 5,000 students and beyond. By joining our team, you’ll be creating the blueprint for the future of higher education.
 
-- Passion for teaching and teaching experience
-- Strong CS background and industry experience building real products (degree not required)
-- Basic iOS experience or ability to learn
-- Basic Node.js experience or ability to learn
-- Basic Ruby on Rails experience or ability to learn
-- Basic HTML/CSS/JS experience or ability to learn
-- Basic bash experience or ability to learn
-- Strong python experience
-- Strong understanding of CS principles (algorithms, data structures)
-- Strong understanding of [advanced CS concepts] (https://makegameswithus.hackpad.com/Theory-Curriculum-ohXTaYA9RWP)
-- Strong understanding of math principles (calculus, statistics)
-- Strong understanding of development best practices (TDD, version control, design patterns, performance)
-- Ability to learn and assist in teaching non technical topics
-- Strong people skills
-- High energy and a big smile
+Our curriculum will be open sourced - parts are already used by MIT and Carnegie Mellon as well as tens of thousands of students online. You’ll have the unique opportunity to engage and inspire young software engineers face to face as well as impacting those across the world.
 
-**About Make School**<br> Make School is building a 2 year university replacement that teaches software engineering, computer science theory and better prepares students for a career as a software developer or startup founder. Our emphasis is on building real world products and equipping students with the technical skills and professional network they need to build a successful career in tech. Students have zero out of pocket cost for the program, they pay tuition through earnings during and after the program with no risk and no debt. We also run the Summer Academy, a 2 month program where high school and college students learn to build and ship their first product and Online Academy, an online course based off a simplified version of the Summer Academy.
+<b>What you’ll do: </b><br>
 
-Make School was founded in 2012, we’ve taught over 500 students through in person courses and over a million students through online tutorials. We’ve grown to 10 people who joined the company from Hawaii, Michigan, Boston, Ohio and Germany. We’ve previously worked at startups, small businesses, game companies and tech companies. We’ve lectured and taught at MIT, Carnegie Mellon, UC Berkeley, Stanford and INSEAD. We frequently volunteer to teach beginners coding basics and mentor entrepreneurs building companies. We see each other as a family and work to treat each other better everyday. Our culture is fast paced yet fun and forgiving. We care deeply about improving computer science education, and sparking passion in students to build real products. We’re always looking to add new and diverse perspectives to the team, if you’re passionate about computer science education we’d love to hear from you!
+- Build and deliver the Make School's computer science curriculum 
+- Teach fundamental computer science concepts as well as more advanced topics (machine learning, AI) 
+- Spend 40% of your time time in the classroom, helping students with projects and identifying areas of need 
+- Spend 30% of your time working with the Curriculum team building and updating content 
+- Spend 30% of your time working on open source projects, attending hackathons, building internal tools, etc.
+
+<b>What we are looking for:</b><br>
+
+- Passion for teaching and mentoring developers 
+- A strongly held belief that students learn best through guided, hands on experience 
+- Good understanding of Math principles (Calculus & Statistics), CS principles (algorithms & data structures), and advanced CS concepts
+- Experience working with or teaching advanced CS concepts (machine learning, computer vision, artificial intelligence) 
+- A positive impact on the people around you
+
+<b>Become a better developer:</b><br>
+
+- Be involved in the development and launch of 30+ websites
+- Contribute to open source projects & attend hackathons for free
+- Explore the latest tools and technologies
+- Teaching is the path to mastery!
+
+<b>Grow your professional network:</b> <br>
+
+- Networking opportunities with Make School's Corporate Partners including LinkedIn, Lyft, and MindBodyOnline
+- Our team is a family: join us for regular networking events, city outings, company game nights, etc.
+
+<b>About Make School</b><br>Make School is building a university replacement for Computer Science.
+The program spans two years, divided by a six month internship at a tech startup. Students learn the CS theory covered by traditional universities paired with the practical experience of building and shipping products plus soft skills such as ethics, storytelling, and interpersonal communication.<br><br>
+Students network with successful founders and developers throughout the program, and are placed at a tech startup upon graduating. The program has no up front cost, students pay tuition through internship and post-grad job earnings. <br><br>
+Our pilot class kicked off last September with eleven students, two chose Make School over MIT. They shipped apps like Stitch News and Refuge Restrooms (featured in Buzzfeed) and received offers from Snapchat, Pandora, Edmodo, Dailymotion, Dr. Chrono and more. <br><br>
+We also run a two month Summer Academy teaching iOS development and our online curriculum powers courses at MIT and Carnegie Mellon.
