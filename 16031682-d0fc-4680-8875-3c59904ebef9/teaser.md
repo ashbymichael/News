@@ -1,1 +1,1 @@
-We’re looking for an iOS developer to teach the app development portion of Make School. You’ll teach students how to build and ship an app!
+We're looking for an iOS Instructor to develop and teach the iOS curriculum. 
