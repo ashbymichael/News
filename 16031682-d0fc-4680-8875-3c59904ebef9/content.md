@@ -14,6 +14,7 @@ We're looking for an iOS Instructor to develop and teach the iOS curriculum. You
 Our curriculum will be open sourced - parts are already used by MIT and Carnegie Mellon as well as tens of thousands of students online. You’ll have the unique opportunity to engage and inspire young software engineers face to face as well as impacting those across the world.
 
 What you’ll do: 
+
 - Deliver the Make School's iOS curriculum 
 - Teach core iOS mobile technologies (Swift, Objective-C) 
 - Spend 40% of your time time in the classroom, helping students with projects and identifying areas of need 
