@@ -42,7 +42,8 @@ Our curriculum will be open sourced - parts are already used by MIT and Carnegie
 - Our team is a family: join us for regular networking events, city outings, company game nights, etc.
 
 
-<b>About Make School:</b> <br>
+<b>About Make School:</b> 
+
 Make School is building a university replacement for Computer Science. <br>
 The program spans two years, divided by a six month internship at a tech startup. Students learn the CS theory covered by traditional universities paired with the practical experience of building and shipping products plus soft skills such as ethics, storytelling, and interpersonal communication.<br>
 Students network with successful founders and developers throughout the program, and are placed at a tech startup upon graduating. The program has no up front cost, students pay tuition through internship and post-grad job earnings. <br>
