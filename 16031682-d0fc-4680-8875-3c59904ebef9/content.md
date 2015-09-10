@@ -22,6 +22,7 @@ What you’ll do:
 - Spend 30% of your time working on open source projects, attending hackathons, building internal tools, etc.
 
 What we're looking for:
+
 - Passion for teaching and mentoring developers 
 - A strongly held belief that students learn best through guided, hands on experience 
 - Industry experience building and maintaining iOS apps, using either Objective-C or Swift 
@@ -29,12 +30,14 @@ What we're looking for:
 - A positive impact on the people around you
 
 Become a better developer:
+
 - Be involved in the development and launch of 30+ apps
 - Contribute to open source projects & attend hackathons for free
 - Explore the latest tools and technologies
 - Teaching is the path to mastery!
 
 Grow your professional network:
+
 - Networking opportunities with Make School's Corporate Partners including LinkedIn, Lyft, and MindBodyOnline
 - Our team is a family: join us for regular networking events, city outings, company game nights, etc.
 
