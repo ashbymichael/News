@@ -16,14 +16,14 @@ We're looking for someone to build corporate partnerships for our program and ge
 - Good understanding of the development landscape
 - Bonus points for being able to code or having a strong desire to learn
 - Prior experience in enterprise sales or technical recruiting
-- Resourcefulness to find ways to get meetings with the CTO/VP of Eng of any company our students want to apply to
+- Resourcefulness to find ways to get meetings with the CTO/VP of Engineering of any company our students want to apply to
 - Bonus points for already having a strong network of high level engineers at top startups
 - High energy and lots of hustle
 
 <b>Grow your professional network:</b> <br>
 
-Networking opportunities with Make School's Corporate Partners including LinkedIn, Lyft, and MindBodyOnline
-Our team is a family: join us for regular networking events, city outings, company game nights, etc.
+- Networking opportunities with Make School's Corporate Partners including LinkedIn, Lyft, and MindBodyOnline
+- Our team is a family: join us for regular networking events, city outings, company game nights, etc.
 
 
 
