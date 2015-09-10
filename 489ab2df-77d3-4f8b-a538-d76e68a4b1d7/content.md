@@ -7,6 +7,8 @@ release_date: 2014-01-01 00:00:00.000000000 Z
 cover_photo_path: 
 
 ---
+Make School is building the Product University for aspiring software engineers and founders. Students spend two years learning computer science foundations, software engineering, and product development through a blend of individually paced, project-based learning and industry experience. Unlike traditional university, students have zero upfront cost for the program; they pay tuition through earnings.
+
 We're looking for someone to establish the design culture and identity of our company. Having strong design will be critical to building a high quality brand and improving the experience of our programs. You'll get to play in many areas of design and truly challenge your creative abilities. You'll be responsible for designing marketing pages on our website, designing physical marketing materials and swag, iterating on the UI/UX of our website and online courses, and designing the physical space of our programs. You'll also be creating a style guide for our course content (slides and projects) and building a mini design curriculum to teach developers about design.
 
 **What we're looking for:**
@@ -25,6 +27,8 @@ We're looking for someone to establish the design culture and identity of our co
 - Ability and confidence to take ownership of projects
 - Passion for education
 
-**About Make School**<br> Make School is building a 2 year university replacement that teaches software engineering, computer science theory and better prepares students for a career as a software developer or startup founder. Our emphasis is on building real world products and equipping students with the technical skills and professional network they need to build a successful career in tech. Students have zero out of pocket cost for the program, they pay tuition through earnings during and after the program with no risk and no debt. We also run the Summer Academy, a 2 month program where high school and college students learn to build and ship their first product and Online Academy, an online course based off a simplified version of the Summer Academy.
-
-Make School was founded in 2012, we’ve taught over 500 students through in person courses and over a million students through online tutorials. We’ve grown to 10 people who joined the company from Hawaii, Michigan, Boston, Ohio and Germany. We’ve previously worked at startups, small businesses, game companies and tech companies. We’ve lectured and taught at MIT, Carnegie Mellon, UC Berkeley, Stanford and INSEAD. We frequently volunteer to teach beginners coding basics and mentor entrepreneurs building companies. We see each other as a family and work to treat each other better everyday. Our culture is fast paced yet fun and forgiving. We care deeply about improving computer science education, and sparking passion in students to build real products. We’re always looking to add new and diverse perspectives to the team, if you’re passionate about computer science education we’d love to hear from you!
+<b>About Make School</b><br>Make School is building a university replacement for Computer Science.
+The program spans two years, divided by a six month internship at a tech startup. Students learn the CS theory covered by traditional universities paired with the practical experience of building and shipping products plus soft skills such as ethics, storytelling, and interpersonal communication.<br><br>
+Students network with successful founders and developers throughout the program, and are placed at a tech startup upon graduating. The program has no up front cost, students pay tuition through internship and post-grad job earnings. <br><br>
+Our pilot class kicked off last September with eleven students, two chose Make School over MIT. They shipped apps like Stitch News and Refuge Restrooms (featured in Buzzfeed) and received offers from Snapchat, Pandora, Edmodo, Dailymotion, Dr. Chrono and more. <br><br>
+We also run a two month Summer Academy teaching iOS development and our online curriculum powers courses at MIT and Carnegie Mellon.
