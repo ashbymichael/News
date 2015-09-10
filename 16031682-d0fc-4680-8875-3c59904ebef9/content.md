@@ -15,7 +15,7 @@ Our curriculum will be open sourced - parts are already used by MIT and Carnegie
 
 <b>What you’ll do: </b>
 
-- Deliver the Make School's iOS curriculum 
+- Deliver Make School's iOS curriculum 
 - Teach core iOS mobile technologies (Swift, Objective-C) 
 - Spend 40% of your time time in the classroom, helping students with projects and identifying areas of need 
 - Spend 30% of your time working with the Curriculum team building and updating content 
