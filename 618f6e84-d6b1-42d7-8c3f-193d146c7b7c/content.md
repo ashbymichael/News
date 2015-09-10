@@ -15,8 +15,8 @@ Our curriculum will be open sourced - parts are already used by MIT and Carnegie
 
 <b>What you’ll do: </b><br>
 
-- Build and deliver the Make School's computer science curriculum 
-- Teach fundamental computer science concepts as well as more advanced topics (machine learning, AI) 
+- Build and deliver the Make School's Computer Science curriculum 
+- Teach fundamental Computer Science concepts as well as more advanced topics (machine learning, AI) 
 - Spend 40% of your time time in the classroom, helping students with projects and identifying areas of need 
 - Spend 30% of your time working with the Curriculum team building and updating content 
 - Spend 30% of your time working on open source projects, attending hackathons, building internal tools, etc.
@@ -31,7 +31,6 @@ Our curriculum will be open sourced - parts are already used by MIT and Carnegie
 
 <b>Become a better developer:</b><br>
 
-- Be involved in the development and launch of 30+ websites
 - Contribute to open source projects & attend hackathons for free
 - Explore the latest tools and technologies
 - Teaching is the path to mastery!
