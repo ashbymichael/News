@@ -14,6 +14,7 @@ We're looking for a Ruby on Rails Instructor to develop and teach the web develo
 Our curriculum will be open sourced - parts are already used by MIT and Carnegie Mellon as well as tens of thousands of students online. You’ll have the unique opportunity to engage and inspire young software engineers face to face as well as impacting those across the world.
 
 <b>What you’ll do: </b><br>
+
 - Build and deliver the Make School's web development curriculum 
 - Teach core web technologies (Ruby on Rails, databases, JavaScript, HTML, CSS) and development practices 
 - Spend 40% of your time time in the classroom, helping students with projects and identifying areas of need 
@@ -21,6 +22,7 @@ Our curriculum will be open sourced - parts are already used by MIT and Carnegie
 - Spend 30% of your time working on open source projects, attending hackathons, building internal tools, etc.
 
 <b>What we're looking for:</b><br>
+
 - Passion for teaching and mentoring developers 
 - A strongly held belief that students learn best through guided, hands on experience 
 - Experience building and maintaining apps using web development technologies, especially modern JavaScript and Ruby on Rails 
@@ -28,12 +30,14 @@ Our curriculum will be open sourced - parts are already used by MIT and Carnegie
 - A positive impact on the people around you
 
 <b>Become a better developer:</b><br>
+
 - Be involved in the development and launch of 30+ websites
 - Contribute to open source projects & attend hackathons for free
 - Explore the latest tools and technologies
 - Teaching is the path to mastery!
 
 <b>Grow your professional network:</b><br>
+
 - Networking opportunities with Make School's Corporate Partners including LinkedIn, Lyft, and MindBodyOnline
 - Our team is a family: join us for regular networking events, city outings, company game nights, etc.
 
