@@ -13,7 +13,7 @@ We're looking for an iOS Instructor to develop and teach the iOS curriculum. You
 
 Our curriculum will be open sourced - parts are already used by MIT and Carnegie Mellon as well as tens of thousands of students online. You’ll have the unique opportunity to engage and inspire young software engineers face to face as well as impacting those across the world.
 
-What you’ll do: 
+<b>What you’ll do: </b>
 
 - Deliver the Make School's iOS curriculum 
 - Teach core iOS mobile technologies (Swift, Objective-C) 
@@ -21,7 +21,7 @@ What you’ll do:
 - Spend 30% of your time working with the Curriculum team building and updating content 
 - Spend 30% of your time working on open source projects, attending hackathons, building internal tools, etc.
 
-What we're looking for:
+<b>What we're looking for:</b>
 
 - Passion for teaching and mentoring developers 
 - A strongly held belief that students learn best through guided, hands on experience 
@@ -29,19 +29,20 @@ What we're looking for:
 - Good understanding of development best practices (TDD, version control, design patterns, performance), Math principles (Calculus & Statistics), CS principles (algorithms & data structures), and advanced CS concepts
 - A positive impact on the people around you
 
-Become a better developer:
+<b>Become a better developer:</b>
 
 - Be involved in the development and launch of 30+ apps
 - Contribute to open source projects & attend hackathons for free
 - Explore the latest tools and technologies
 - Teaching is the path to mastery!
 
-Grow your professional network:
+<b>Grow your professional network:</b>
 
 - Networking opportunities with Make School's Corporate Partners including LinkedIn, Lyft, and MindBodyOnline
 - Our team is a family: join us for regular networking events, city outings, company game nights, etc.
 
-About Make School:
+
+<b>About Make School:</b>
 
 Make School is building a university replacement for Computer Science.
 The program spans two years, divided by a six month internship at a tech startup. Students learn the CS theory covered by traditional universities paired with the practical experience of building and shipping products plus soft skills such as ethics, storytelling, and interpersonal communication.
