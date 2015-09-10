@@ -7,51 +7,40 @@ release_date: 2014-01-22 00:00:00.000000000 Z
 cover_photo_path: 
 
 ---
-We’re looking for an iOS developer to teach the app development portion of Make School. You’ll teach students how to build and ship an app! Our curriculum will cover iOS, Flask and MongoDB. You’ll heavily influence the curriculum for this year and the future. You’ll also help guide students' product ideas, help them understand how to effectively code on a team, and prepare them to become professional developers and startup founders.
-<br><br>Our students are some of the brightest in the nation. They’ve been coding for years, have already shipped iOS games and apps, and have a passion for building great products. This is a unique opportunity to inspire the next generation of makers and define the future of CS education.
+Make School is building the Product University for aspiring software engineers and founders. Students spend two years learning computer science foundations, software engineering, and product development through a blend of individually paced, project-based learning and industry experience. Unlike traditional university, students have zero upfront cost for the program; they pay tuition through earnings.
 
-<b>What we’re looking for</b>
+We're looking for an iOS Instructor to develop and teach the iOS curriculum. Your work will serve as the foundation for the Make School educational experience as we scale from 50 students to 5,000 students and beyond. By joining our team, you’ll be creating the blueprint for the future of higher education.
 
-- Strong CS background and industry experience building real products (degree not required)
-- Significant experience with iOS
-- Basic experience with (or ability to learn):<br>
-       Flask <br>
-       Ruby on Rails <br> 
-       HTML/CSS/JS <br>
-       Bash <br>
-       Python <br>
-- Good understanding of: <br>
-       CS principles (algorithms, data structures) <br>
-       Advanced CS concepts <br>
-       Math principles (calculus, statistics) <br>
-       Development best practices (TDD, version control, design patterns, performance) <br>
-- Passion for teaching. Teaching experience is a bonus.
-- Ability to learn and assist in teaching non technical topics 
-- You eat, breathe, and sleep code - you simply cannot get enough!
-- Strong people skills
-- High energy and a gigantic smile!
+Our curriculum will be open sourced - parts are already used by MIT and Carnegie Mellon as well as tens of thousands of students online. You’ll have the unique opportunity to engage and inspire young software engineers face to face as well as impacting those across the world.
 
-<b>Job Requirements</b>
+What you’ll do: 
+- Deliver the Make School's iOS curriculum 
+- Teach core iOS mobile technologies (Swift, Objective-C) 
+- Spend 40% of your time time in the classroom, helping students with projects and identifying areas of need 
+- Spend 30% of your time working with the Curriculum team building and updating content 
+- Spend 30% of your time working on open source projects, attending hackathons, building internal tools, etc.
 
-- Lead group discussions on lecture topics
-- Provide product feedback to students
-- Help students work through bugs, crashes, and guide them towards best practices
+What we're looking for:
+- Passion for teaching and mentoring developers 
+- A strongly held belief that students learn best through guided, hands on experience 
+- Industry experience building and maintaining iOS apps, using either Objective-C or Swift 
+- Good understanding of development best practices (TDD, version control, design patterns, performance), Math principles (Calculus & Statistics), CS principles (algorithms & data structures), and advanced CS concepts
+- A positive impact on the people around you
 
-<b>Become a Better Developer</b>
-
+Become a better developer:
 - Be involved in the development and launch of 30+ apps
-- Teaching is the path to mastery!
-- Contribute to open source projects
+- Contribute to open source projects & attend hackathons for free
 - Explore the latest tools and technologies
+- Teaching is the path to mastery!
 
-<b>Grow Your Professional Network</b>
-
+Grow your professional network:
 - Networking opportunities with Make School's Corporate Partners including LinkedIn, Lyft, and MindBodyOnline
 - Our team is a family: join us for regular networking events, city outings, company game nights, etc.
 
+About Make School:
 
-<b>About Make School</b>
-
-Make School is building a 2 year university alternative that teaches software engineering, computer science theory and better prepares students for a career as a software developer or startup founder. Our emphasis is on building real world products and equipping students with the technical skills and professional network they need to build a successful career in tech. Students have zero out of pocket cost for the program, they pay tuition through earnings during and after the program with no risk and no debt. We also run the Summer Academy, a 2 month program where high school and college students learn to build and ship their first product as well as Online Academy, an online course based off a simplified version of the Summer Academy.
-
-Make School was founded in 2012, we’ve taught over 500 students through in person courses and over a million students through online tutorials. We’ve grown to 15 people who joined the company from Hawaii, Michigan, Boston, Ohio and Germany. We’ve previously worked at startups, small businesses, game companies and tech companies. We’ve lectured and taught at MIT, Carnegie Mellon, UC Berkeley, Stanford and INSEAD. We frequently volunteer to teach beginners coding basics and mentor entrepreneurs building companies. We see each other as a family and work to treat each other better everyday. Our culture is fast paced yet fun and forgiving. We care deeply about improving computer science education, and sparking passion in students to build real products. We’re always looking to add new and diverse perspectives to the team, if you’re passionate about computer science education we’d love to hear from you!
+Make School is building a university replacement for Computer Science.
+The program spans two years, divided by a six month internship at a tech startup. Students learn the CS theory covered by traditional universities paired with the practical experience of building and shipping products plus soft skills such as ethics, storytelling, and interpersonal communication.
+Students network with successful founders and developers throughout the program, and are placed at a tech startup upon graduating. The program has no up front cost, students pay tuition through internship and post-grad job earnings.
+Our pilot class kicked off last September with eleven students, two chose Make School over MIT. They shipped apps like Stitch News and Refuge Restrooms (featured in Buzzfeed) and received offers from Snapchat, Pandora, Edmodo, Dailymotion, Dr. Chrono and more.
+We also run a two month Summer Academy teaching iOS development and our online curriculum powers courses at MIT and Carnegie Mellon.
