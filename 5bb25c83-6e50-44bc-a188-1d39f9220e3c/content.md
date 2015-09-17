@@ -7,6 +7,8 @@ release_date: 2015-07-15 00:00:00.000000000 Z
 cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/b131077537a3744820abb5870508094fe91c5724//5bb25c83-6e50-44bc-a188-1d39f9220e3c/cover_photo.jpeg
 
 ---
+The Product University
+
 5 years ago I was the only student at my high school to have built a product. Today, there are around 50. 
 
 The software revolution has brought the cost of shipping a product down to the price of a laptop. It also has greatly reduced the amount of knowledge required to build a product that creates value for society. 
@@ -21,9 +23,9 @@ Traditional management structure is also being dismantled. We're trending away f
 
 In the short term, this transition will be painful for the older generation. As software eats a huge number of existing occupations we'll see an increase in the long term unemployed. But critics who think this trend will permanently put half of humanity out of work are as shortsighted as those who believe everything that can be invented has been invented. 
 
-There are no shortage of problems to solve in the world and no shortage of new ideas to create joy and wonder in our lives. This future excites me, I see a world filled with creatives, each working to solve a problem or create an experience that excites them. I see a world where people no longer see their job as a means to sustenance, they feel it as a passion and a purpose. I see a world where everyone is empowered to help create the future they believe in.
+There are no shortage of problems to solve in the world and no shortage of new ideas to create joy and wonder in our lives. This future excites me, I see a world filled with creatives, each working to solve a problem or create an experience that excites them. I see a world where people no longer see their job as a means to sustenance, they feel it as a passion and a purpose. I see a world where everyone is empowered to create the future they believe in.
 
-In order to accelerate this future I believe in, we need to better equip our youth to be creators and inventors. We need a new category of higher education - the Product University. 
+In order to accelerate this future, we need to better equip our youth to be creators and inventors. We need a new category of higher education - the Product University. 
 
 Historically, universities were created to be a community to further the world's knowledge - the Research University. The ecosystem and incentives of the traditional university system are primarily focused around research. Much of department funding comes from research grants, professors are hired and retained based on the papers they publish, and undergraduate curriculum prepares students for a career in academia.
 
@@ -35,8 +37,8 @@ We're choosing computer science as the toolset to teach the creation process, an
 
 We don't expect our students to be limited to solving the world's problems with software. Our education will equip students with the ability to acquire new toolsets to tackle new problems. While the toolsets in other problem spaces - hardware, biotech, clean energy, etc - are unique, the process of discovering ideas, acquiring domain specific expertise, breaking down barriers, and implementing solutions is largely the same.
 
-We also don't expect Make School to be limited to teaching computer science. We're already beginning to see other problem spaces eliminating resource limitations. Just as AWS made it dramatically cheaper for individuals to host and scale a server, Transcriptic is making it dramatically cheaper for individuals to do life science research. As these technologies mature in the next decade, we hope to offer new specializations allowing our students to explore various problem spaces before choosing a category to create solutions for. In every specialization, students will learn by making.
+We also don't expect Make School to be limited to teaching computer science. We're already beginning to see other problem spaces eliminating resource limitations. Just as AWS made it dramatically cheaper for individuals to host and scale a server, [Transcriptic](https://www.transcriptic.com) is making it dramatically cheaper for individuals to do life science research. As these technologies mature in the next decade, we hope to offer new specializations allowing our students to explore various problem spaces before choosing a category to create solutions for. In every specialization, students will learn by making.
 
 As technologies and industries change at an increasingly rapid pace, it's critical we avoid becoming resistant to change - the achilles heel of traditional universities. We aim to institutionalize change as a core tenet of Make School. We'll rely heavily on a feedback loop with the industry, enabling cutting edge employers to influence the toolset we teach, and providing our instructors time to play and create with the latest technologies. We'll also rely heavily on a feedback loop with our students, empowering them to influence their education and build products to improve their experience.
 
-We're entering a new era of innovation, the economy and the world will change faster than we can predict. It's time to change higher education to better prepare Gen Z for this future.
+We're entering a new era of innovation, the economy and the world will change faster than we can predict. It's time to change higher education to better prepare Gen Z for the future.
