@@ -41,4 +41,4 @@ We also don't expect Make School to be limited to teaching computer science. We'
 
 As technologies and industries change at an increasingly rapid pace, it's critical we avoid becoming resistant to change - the achilles heel of traditional universities. We aim to institutionalize change as a core tenet of Make School. We'll rely heavily on a feedback loop with the industry, enabling cutting edge employers to influence the toolset we teach, and providing our instructors time to play and create with the latest technologies. We'll also rely heavily on a feedback loop with our students, empowering them to influence their education and build products to improve their experience.
 
-We're entering a new era of innovation, the economy and the world will change faster than we can predict. It's time to change higher education to better prepare Gen Z for the future..
+We're entering a new era of innovation, the economy and the world will change faster than we can predict. It's time to change higher education to better prepare Gen Z for the future.
