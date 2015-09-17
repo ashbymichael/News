@@ -4,7 +4,7 @@ custom_slug: the-product-university
 category: gap_year
 listed: true
 release_date: 2015-07-15 00:00:00.000000000 Z
-cover_photo_path: 
+cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/b131077537a3744820abb5870508094fe91c5724//5bb25c83-6e50-44bc-a188-1d39f9220e3c/cover_photo.jpeg
 
 ---
 5 years ago I was the only student at my high school to have built a product. Today, there are around 50. 
