@@ -8,6 +8,7 @@ cover_photo_path:
 
 ---
 *A letter to our students about their role in shaping tomorrow*
+--------------------------------------------------------------
 
 **The world has just entered a renaissance of technology - the Software Revolution.** We're in an unprecedented era of innovation due to 3 driving factors.
 
