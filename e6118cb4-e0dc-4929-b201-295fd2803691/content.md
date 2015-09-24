@@ -4,7 +4,7 @@ custom_slug: state-of-the-future
 category: gap_year
 listed: true
 release_date: 2015-09-24 00:00:00.000000000 Z
-cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/e8aad19d2cf63c859a4c0cc586567149026ef2a4//e6118cb4-e0dc-4929-b201-295fd2803691/cover_photo.jpeg
+cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/ff12caf8e5154150f9d4453f8eef515528523939//e6118cb4-e0dc-4929-b201-295fd2803691/cover_photo.jpeg
 
 ---
 **A letter to our students about their role in shaping tomorrow**
@@ -17,8 +17,9 @@ Second, availability of economies of scale to small businesses. Services like Am
 
 Finally, the ubiquity of smartphones. In a few years, half of the world's population will be walking around with a supercomputer in our pockets. We have access to the world's information at our fingertips and the ability to communicate with people in all corners of the world. Smartphones are augmenting our brains and new types of intelligences are being valued. We're adapting to learn rapidly and excel at creative pursuits instead of rote tasks and memorization. The software on these devices is dramatically changing the way we live and interact with the world.
 
-The Software Revolution is driving much of the first world's economic growth. Software is the backbone for the future economy. Software creates efficiencies and leverage and enables companies to use fewer resources to deliver higher quality products and services. In the next decades, 50% of existing jobs will be replaced by software and automation.  
+The Software Revolution is driving much of the first world's economic growth. Software is the backbone for the future economy. Software creates efficiencies and leverage and enables companies to use fewer resources to deliver higher quality products and services. In the next decades, 50% of existing jobs will be replaced by software and automation.
 
+<br>
 
 San Francisco is the heart and soul of the Software Revolution. The streets of San Francisco today are akin to the streets of Florence in the 15th century - the epicenter of the world's creativity, ideas and innovation. There's a new land of opportunity where the American Dream is very much alive. The smartest people from all around the world are flocking to San Francisco to join the new gold rush. Here it doesn't matter who you are or where you come from - it matters what you can create.
 
