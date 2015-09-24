@@ -4,9 +4,11 @@ custom_slug: state-of-the-future
 category: gap_year
 listed: true
 release_date: 2015-09-24 00:00:00.000000000 Z
-cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/6c1bf353e55f42debdc85d154856ffe1663fb304//e6118cb4-e0dc-4929-b201-295fd2803691/cover_photo.jpeg
+cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/e9646d08b503fce2f47a9d1005aae21c5f507d82//e6118cb4-e0dc-4929-b201-295fd2803691/cover_photo.jpeg
 
 ---
+<br>
+
 **A letter to our students about their role in shaping tomorrow**
 
 <br>
