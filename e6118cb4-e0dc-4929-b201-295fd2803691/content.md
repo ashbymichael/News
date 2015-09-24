@@ -4,10 +4,10 @@ custom_slug: state-of-the-future
 category: gap_year
 listed: true
 release_date: 2015-09-24 00:00:00.000000000 Z
-cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/193b43c77b2b6695c972769fb440983b5f686832//e6118cb4-e0dc-4929-b201-295fd2803691/cover_photo.jpeg
+cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/829e09d012d8c1d9bd1eeb594b8e9059d929d13e//e6118cb4-e0dc-4929-b201-295fd2803691/cover_photo.jpeg
 
 ---
-**A letter to our students about their role in shaping tomorrow**
+**A letter to our students about their role in shaping tomorrow.**
 
 The world has just entered a renaissance of technology - the Software Revolution. We're in an unprecedented era of innovation due to 3 driving factors.
 
@@ -65,4 +65,4 @@ As the Software Revolution spreads throughout the world, the culture and values 
 
 **Welcome to your new home.** With your intellect, drive and passion for technology, you belong here. In the next two years you'll experience everything San Francisco has to offer. You'll absorb the energy of the city, learn from great minds, and discover inspiration and purpose. You have great potential to help write the future - to use your talents and abilities to create and do good for the world.
 
-You are blessed to have these opportunities, when others in the world aren't afforded any. It's your duty to the world to make the most of your potential and use your superpower to help others. From today on you will strive to make this world prosper. **This is the essence of Make School and the foundation of your future.**
+You are blessed to have these opportunities, when others in the world aren't afforded any. It's your duty to the world to make the most of your potential and use your superpower to help others. From today on you will strive to make this world prosper. This is the essence of Make School and the foundation of your future.
