@@ -4,7 +4,7 @@ custom_slug: state-of-the-future
 category: gap_year
 listed: true
 release_date: 2015-09-24 00:00:00.000000000 Z
-cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/ff12caf8e5154150f9d4453f8eef515528523939//e6118cb4-e0dc-4929-b201-295fd2803691/cover_photo.jpeg
+cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/549ddc50106b83afc3eeac8b71961b94d8b67e0d//e6118cb4-e0dc-4929-b201-295fd2803691/cover_photo.jpeg
 
 ---
 **A letter to our students about their role in shaping tomorrow**
@@ -25,7 +25,7 @@ San Francisco is the heart and soul of the Software Revolution. The streets of S
 
 The streets of San Francisco are buzzing with talk of the next hit app and the hot venture deals. But amidst all the fan fare and media frenzy, some of the world's biggest problems are being tackled and the future is being written - with both positive and negative ramifications. A few fascinating examples of how software is reshaping three critical industries.
 
-  
+<br>
 
 ###Transportation
 
@@ -35,7 +35,7 @@ The streets of San Francisco are buzzing with talk of the next hit app and the h
 
 [Zee.Aero](http://zee.aero) is building an electric flying car. While it looks more like a helicopter, it drives, fits in a standard parking spot and takes off and lands vertically.
 
-  
+<br>
 
 ###Food
 
@@ -45,7 +45,7 @@ The streets of San Francisco are buzzing with talk of the next hit app and the h
 
 [Soylent](https://www.soylent.com) is building a meal replacement engineered to provide all the nutrients your body needs. The drink is cheaper, healthier and easier to consume than normal food. In large swaths of America there exist food deserts where people have no access to a supermarket and fresh produce, resulting in a reliance on fast and frozen foods. Transportation and delivery of nutritious food is also a greater challenge than cost when fighting world hunger. Soylent and other meal replacements could prove invaluable to solving both obesity and hunger.
 
-  
+<br>
 
 ###Health
 
@@ -55,13 +55,13 @@ The streets of San Francisco are buzzing with talk of the next hit app and the h
 
 [Atomwise](http://www.atomwise.com) is building artificial intelligence to create new medicine. The platform can rapidly iterate on potential new formulas and simulate the effects without lab testing. This software has potential to reduce the time of drug discovery by an order of magnitude and dramatically increase the number of diseases we can combat.
 
-  
+<br>
 
 In addition to driving innovation, the tech industry is redefining corporations and paving the way for conscious capitalism. Forward thinking companies are flattening corporate hierarchies and giving employees more autonomy, ownership and purpose. Tech companies care about the impact they have on all stakeholders, not simply shareholders. They aim to more closely align income earned and value created in an effort to use capitalism as a sustainable vehicle to do good for the world. Companies are becoming the new religion, uniting their community of employees and customers to stand behind their vision of a brighter future.
 
 As the Software Revolution spreads throughout the world, the culture and values of San Francisco are spreading with it. Every country is desperate to train it's population to think in code and hopes to emulate the innovative spirit of Silicon Valley. San Francisco's thrilling growth is evident through the cranes that rule it's skyline as well as the culture it exports via bits running through the digital infrastructure it created.
 
-  
+<br>
 
 Welcome to your new home. With your intellect, drive and passion for technology, you belong here. In the next two years you'll experience everything San Francisco has to offer. You'll absorb the energy of the city, learn from great minds, and discover inspiration and purpose. You have great potential to help write the future - to use your talents and abilities to create and do good for the world.
 
