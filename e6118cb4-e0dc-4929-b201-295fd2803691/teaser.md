@@ -1,1 +1,1 @@
-The world has just entered a renaissance of technology - the Software Revolution. The streets of San Francisco today are akin to the streets of Florence in the 15th century - the epicenter of the world's creativity, ideas and innovation.
+A letter to our students about their role in shaping tomorrow. The world has just entered a renaissance of technology - the Software Revolution. The streets of San Francisco today are akin to the streets of Florence in the 15th century - the epicenter of the world's creativity, ideas and innovation.
