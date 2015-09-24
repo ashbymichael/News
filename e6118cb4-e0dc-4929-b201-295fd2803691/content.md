@@ -4,10 +4,10 @@ custom_slug: state-of-the-future
 category: gap_year
 listed: true
 release_date: 2015-09-24 00:00:00.000000000 Z
-cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/49d115a4b17cf69b1d5f11c4aca480b7950ff306//e6118cb4-e0dc-4929-b201-295fd2803691/cover_photo.jpeg
+cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/0ba9a8cb25275fb3f7cacbb1f0804906a617ccba//e6118cb4-e0dc-4929-b201-295fd2803691/cover_photo.jpeg
 
 ---
-###A letter to our students about their role in shaping tomorrow
+**A letter to our students about their role in shaping tomorrow**
 
 The world has just entered a renaissance of technology - the Software Revolution. We're in an unprecedented era of innovation due to 3 driving factors.
 
