@@ -7,8 +7,8 @@ release_date: 2015-09-24 00:00:00.000000000 Z
 cover_photo_path: 
 
 ---
-*A letter to our students about their role in shaping tomorrow*
---------------------------------------------------------------
+A letter to our students about their role in shaping tomorrow
+------------------------------------------------------------
 
 **The world has just entered a renaissance of technology - the Software Revolution.** We're in an unprecedented era of innovation due to 3 driving factors.
 
@@ -33,7 +33,8 @@ Transportation
 
 [Zee.Aero](http://zee.aero) is building an electric flying car. While it looks more like a helicopter, it drives, fits in a standard parking spot and takes off and lands vertically.
 
-**Food**
+Food
+-----
 
 [Momentum Machines](http://momentummachines.com) is building a burger flipping robot. Fast food will be faster, cheaper and more customizable as drive throughs become akin to vending machines.
 
@@ -41,7 +42,8 @@ Transportation
 
 [Soylent](https://www.soylent.com) is building a meal replacement engineered to provide all the nutrients your body needs. The drink is cheaper, healthier and easier to consume than normal food. In large swaths of America there exist food deserts where people have no access to a supermarket and fresh produce, resulting in a reliance on fast and frozen foods. Transportation and delivery of nutritious food is also a greater challenge than cost when fighting world hunger. Soylent and other meal replacements could prove invaluable to solving both obesity and hunger.
 
-**Health**
+Health
+-------
 
 [Enlitic](http://www.enlitic.com) is building computer doctors using deep learning and data science. The software will collect a patient's biological data and identify trends to diagnose the patient and suggest treatments.
 
