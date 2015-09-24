@@ -4,15 +4,9 @@ custom_slug: state-of-the-future
 category: gap_year
 listed: true
 release_date: 2015-09-24 00:00:00.000000000 Z
-cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/e9646d08b503fce2f47a9d1005aae21c5f507d82//e6118cb4-e0dc-4929-b201-295fd2803691/cover_photo.jpeg
+cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/fcdc0f30d13bce6a26629922d896cda7d545dda6//e6118cb4-e0dc-4929-b201-295fd2803691/cover_photo.jpeg
 
 ---
-<br>
-
-**A letter to our students about their role in shaping tomorrow**
-
-<br>
-
 The world has just entered a renaissance of technology - the Software Revolution. We're in an unprecedented era of innovation due to 3 driving factors.
 
 First, the open source movement. Open source software has enabled the world to collaborate more efficiently than ever and enabled individuals and businesses to build new products at a fraction of the time and cost. Just as the sharing of ideas led to the explosion of art and culture in the renaissance, the open source movement is driving an explosion of new technology.
