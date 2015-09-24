@@ -9,7 +9,7 @@ cover_photo_path:
 ---
 *A letter to our students about their role in shaping tomorrow*
 
-The world has just entered a renaissance of technology - the Software Revolution. We're in an unprecedented era of innovation due to 3 driving factors.
+**The world has just entered a renaissance of technology - the Software Revolution.** We're in an unprecedented era of innovation due to 3 driving factors.
 
 First, the open source movement. Open source software has enabled the world to collaborate more efficiently than ever and enabled individuals and businesses to build new products at a fraction of the time and cost. Just as the sharing of ideas led to the explosion of art and culture in the renaissance, the open source movement is driving an explosion of new technology.
 
@@ -19,11 +19,12 @@ Finally, the ubiquity of smartphones. In a few years, half of the world's popula
 
 The Software Revolution is driving much of the first world's economic growth. Software is the backbone for the future economy. Software creates efficiencies and leverage and enables companies to use fewer resources to deliver higher quality products and services. In the next decades, 50% of existing jobs will be replaced by software and automation.
 
-San Francisco is the heart and soul of the Software Revolution. The streets of San Francisco today are akin to the streets of Florence in the 15th century - the epicenter of the world's creativity, ideas and innovation. There's a new land of opportunity where the American Dream is very much alive. The smartest people from all around the world are flocking to San Francisco to join the new gold rush. Here it doesn't matter who you are or where you come from - it matters what you can create.
+San Francisco is the heart and soul of the Software Revolution. **The streets of San Francisco today are akin to the streets of Florence in the 15th century - the epicenter of the world's creativity, ideas and innovation.** There's a new land of opportunity where the American Dream is very much alive. The smartest people from all around the world are flocking to San Francisco to join the new gold rush. Here it doesn't matter who you are or where you come from - it matters what you can create.
 
 The streets of San Francisco are buzzing with talk of the next hit app and the hot venture deals. But amidst all the fan fare and media frenzy, some of the world's biggest problems are being tackled and the future is being written - with both positive and negative ramifications. A few fascinating examples of how software is reshaping three critical industries.
 
-**Transportation**
+Transportation
+---------------
 
 [Apple](http://www.apple.com) and [Google](https://www.google.com) are building self driving cars. This technology promises fewer accidents, improved traffic conditions, and hours of commute time saved. But there's also a dark side - significant job losses. In most states in America, the most common occupation is truck driver. The country will face a crisis as we hope to re-skill these workers for new careers.
 
@@ -47,10 +48,10 @@ The streets of San Francisco are buzzing with talk of the next hit app and the h
 
 [Atomwise](http://www.atomwise.com) is building artificial intelligence to create new medicine. The platform can rapidly iterate on potential new formulas and simulate the effects without lab testing. This software has potential to reduce the time of drug discovery by an order of magnitude and dramatically increase the number of diseases we can combat.
 
-In addition to driving innovation, the tech industry is redefining corporations and paving the way for conscious capitalism. Forward thinking companies are flattening corporate hierarchies and giving employees more autonomy, ownership and purpose. Tech companies care about the impact they have on all stakeholders, not simply shareholders. They aim to more closely align income earned and value created in an effort to use capitalism as a sustainable vehicle to do good for the world. Companies are becoming the new religion, uniting their community of employees and customers to stand behind their vision of a brighter future.
+**In addition to driving innovation, the tech industry is redefining corporations and paving the way for conscious capitalism.** Forward thinking companies are flattening corporate hierarchies and giving employees more autonomy, ownership and purpose. Tech companies care about the impact they have on all stakeholders, not simply shareholders. They aim to more closely align income earned and value created in an effort to use capitalism as a sustainable vehicle to do good for the world. Companies are becoming the new religion, uniting their community of employees and customers to stand behind their vision of a brighter future.
 
-As the Software Revolution spreads throughout the world, the culture and values of San Francisco are spreading with it. Every country is desperate to train it's population to think in code and hopes to emulate the innovative spirit of Silicon Valley. San Francisco's thrilling growth is evident through the cranes that rule it's skyline as well as the culture it exports via bits running through the digital infrastructure it created.
+As the Software Revolution spreads throughout the world, the culture and values of San Francisco are spreading with it. Every country is desperate to train it's population to think in code and hopes to emulate the innovative spirit of Silicon Valley. **San Francisco's thrilling growth is evident through the cranes that rule it's skyline as well as the culture it exports via bits running through the digital infrastructure it created.**
 
 Welcome to your new home. With your intellect, drive and passion for technology, you belong here. In the next two years you'll experience everything San Francisco has to offer. You'll absorb the energy of the city, learn from great minds, and discover inspiration and purpose. You have great potential to help write the future - to use your talents and abilities to create and do good for the world.
 
-You are blessed to have these opportunities, when others in the world aren't afforded any. It's your duty to the world to make the most of your potential and use your superpower to help others. From today on you will strive to make this world prosper. This is the essence of Make School and the foundation of your future.
+You are blessed to have these opportunities, when others in the world aren't afforded any. It's your duty to the world to make the most of your potential and use your superpower to help others. From today on you will strive to make this world prosper. **This is the essence of Make School and the foundation of your future.**
