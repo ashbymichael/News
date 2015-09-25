@@ -2,7 +2,7 @@
 title: State of the Future
 custom_slug: state-of-the-future
 category: gap_year
-listed: false
+listed: true
 release_date: 2015-09-24 00:00:00.000000000 Z
 cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/c8db9b647da5b6d338bd3ab7f90228ae923ab31a//e6118cb4-e0dc-4929-b201-295fd2803691/cover_photo.jpeg
 
@@ -13,7 +13,7 @@ The world has just entered a renaissance of technology - the Software Revolution
 
 First, the open source movement. Open source software has enabled the world to collaborate more efficiently than ever and enabled individuals and businesses to build new products at a fraction of the time and cost. Just as the sharing of ideas led to the explosion of art and culture in the renaissance, the open source movement is driving an explosion of new technology.
 
-Second, availability of economies of scale to small businesses. Services like Amazon Web Services deliver efficiencies to networks of individuals and small companies that were previously only available to large corporations. The costs of starting up are lower than ever and individuals and small teams can deliver software to millions of people.
+Second, availability of economies of scale to small businesses. Platforms like Amazon Web Services deliver efficiencies to networks of individuals and small companies that were previously only available to large corporations. The costs of starting up are lower than ever and individuals and small teams can deliver software to millions of people.
 
 Finally, the ubiquity of smartphones. In a few years, half of the world's population will be walking around with a supercomputer in our pockets. We have access to the world's information at our fingertips and the ability to communicate with people in all corners of the world. Smartphones are augmenting our brains and new types of intelligences are being valued. We're adapting to learn rapidly and excel at creative pursuits instead of rote tasks and memorization. The software on these devices is dramatically changing the way we live and interact with the world.
 
