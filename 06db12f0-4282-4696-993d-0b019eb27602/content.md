@@ -9,11 +9,8 @@ cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/358682f9e
 ---
 We are excited to announce that Make School is hosting CodeDay Bay Area on November 7-8, noon-noon. Join students in 24 cities nationwide, and build something awesome in 24 hours. You'll practice your skills, meet new people, and have fun.
 
-#What is CodeDay
+###What is CodeDay
 CodeDay a 24-hour event where students get together and build cool things together! You pitch ideas, form teams, and build a cool app or game in 24 hours. CodeDay is a place for people who are interested in learning something new and meeting new people. 
 
-![macbook hackathon](http://36.media.tumblr.com/9bd6ea478ef6c2a5393ce8e16653b138/tumblr_na06ugx0AA1tubinno1_1280.jpg "macbook hackathon")
-
-
-#Register Now
+###Register Now
 Space is limited, so get your tickets before they're gone! [Register here.](https://codeday.org/sv%20CodeDay%20registration)
