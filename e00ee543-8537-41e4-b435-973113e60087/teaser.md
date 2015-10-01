@@ -1,0 +1,1 @@
+We are excited to announce that Make School is hosting CodeDay Bay Area on November 7-8, noon-noon. Join students in 24 cities nationwide, and build something awesome in 24 hours. You'll practice your skills, meet new people, and have fun.
