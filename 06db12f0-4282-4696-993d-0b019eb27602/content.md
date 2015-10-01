@@ -1,9 +1,9 @@
 ---
-title: 'Join Us for CodeDay at MakeSchool HQ '
-custom_slug: makeschool-is-hosting-codeday-bay-area
+title: 'Join Us for CodeDay at Make School HQ '
+custom_slug: join-us-for-codeday-at-make-school-hq
 category: gap_year
 listed: true
-release_date: 2000-10-01 00:00:00.000000000 Z
+release_date: 2015-10-01 00:00:00.000000000 Z
 cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/358682f9e08fc941a7fcd86712336e113d5c9a22//06db12f0-4282-4696-993d-0b019eb27602/cover_photo.png
 
 ---
