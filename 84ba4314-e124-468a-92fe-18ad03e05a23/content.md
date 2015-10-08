@@ -2,9 +2,9 @@
 title: 'Student Profile: Unathi Chonco'
 custom_slug: student-profile-unathi-chonco
 category: gap_year
-listed: false
+listed: true
 release_date: 2014-09-08 00:00:00.000000000 Z
-cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/63eae68f73322596eb7af177b9762a81e0db6511//84ba4314-e124-468a-92fe-18ad03e05a23/cover_photo.jpeg
+cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/6e3c47c666905571a91b94044a2a2d599daca7e7//84ba4314-e124-468a-92fe-18ad03e05a23/cover_photo.jpeg
 
 ---
 Growing up in South Africa, I wasn't always exposed to the world as much as many people around here. South Africa, the Rainbow Nation, is a place that has been filled with an integration of cultures and people from all over the world. I believe this is why the move from to San Francisco has been a revitalizing culture shock pushing me forward rather than a scary one holding me back. I have always been a self motivated individual, inspired to continue on my journey by industry leaders and success stories, and truly pushed forward by doing what I am passionate about. Discovering my passion for programming leads back to realizing my ability to create something out of nothing, which sparked a fire that has only grown ever since. This burning desire to create, and conviction to change the world, impacting lives, is what makes me who I am: Not what I do, but what drives me to do that. Ultimately, who I am, and who I have become through personal development and experience, has brought me to [Make School](http://makeschool.com). 
