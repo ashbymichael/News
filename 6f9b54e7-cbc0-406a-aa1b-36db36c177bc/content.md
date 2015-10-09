@@ -9,10 +9,10 @@ cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/210b59dac
 ---
 Like Hackathons? You'll Love Make Hacks 
 ---------------------------------------------------------------------
-Like building, hacking, and making apps and games? We invite you to join us and 199 other hackers at Make Hacks on November 14-15.
+Like building, hacking, and making apps and games? We invite you to join us and 200 other hackers at Make Hacks on November 14-15.
 
 **What is Make Hacks?** 
-Make Hacks is Make School's 2nd Annual Hackathon, where we invite all makers to build their product, app, or game in 24 hours. 
+Make Hacks is Make School's 2nd Annual Hackathon, where we invite all makers to build their product, app, or game in 24 hours. Last year was pretty amazing. Check out the highlights [here](https://www.youtube.com/watch?v=A8cQEzLA2JI)
 
 **Who Should Attend?** 
 All makers! We welcome beginner, intermediate, and advanced developers. You'll also get a chance to meet the Make School community, including our founders, faculty, alumni and current students.
