@@ -17,7 +17,7 @@ Student hackers! All levels welcome. Collaborate with the Make School community,
 
 **Where:**
 Make School HQ
-1547 Mission
+1547 Mission,
 San Francisco, CA 
 
 **When:**
