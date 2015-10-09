@@ -25,4 +25,4 @@ San Francisco, CA
 **When:**
 November 14-15
 
-*Space is limited, so [register now](https://www.makeschool.com/hackathon#register)*
+*Space is limited, so [register now](http://bit.ly/1Nv5TAj)*
