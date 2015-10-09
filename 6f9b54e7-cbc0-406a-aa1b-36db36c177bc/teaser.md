@@ -1,1 +1,1 @@
-Builder? Hacker? Maker? Make School invites you to join 200 hackers at Make Hacks II on November 14-15!
+Builder? Hacker? Maker? Make School invites you to join 200 hackers at Make Hacks on November 14-15!
