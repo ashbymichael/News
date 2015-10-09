@@ -15,7 +15,7 @@ Make Hacks is Make School's 2nd Hackathon, where we invite all makers to build t
 **Who Should Attend?** 
 Student hackers! All levels welcome. Collaborate with the Make School community, including founders, faculty, alumni, and current students.
 
-**Where:**
+**Where:**<br>
 Make School HQ<br>
 1547 Mission<br>
 San Francisco, CA<br>
