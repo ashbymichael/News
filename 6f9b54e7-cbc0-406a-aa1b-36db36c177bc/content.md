@@ -1,6 +1,6 @@
 ---
-title: 'Like Hackathons? You''ll Love Make Hacks '
-custom_slug: hackathons-make-hacks
+title: Like Hackathons? You'll Love Make Hacks!
+custom_slug: like-hackathons-youll-love-make-hacks
 category: gap_year
 listed: true
 release_date: 2015-10-09 00:00:00.000000000 Z
