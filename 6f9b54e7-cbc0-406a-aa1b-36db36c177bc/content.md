@@ -2,7 +2,7 @@
 title: 'Like Hackathons? You''ll Love Make Hacks '
 custom_slug: hackathons-make-hacks
 category: gap_year
-listed: false
+listed: true
 release_date: 2014-10-09 00:00:00.000000000 Z
 cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/210b59dac345f9486a578d8b3ab0ba9e926a3b08//6f9b54e7-cbc0-406a-aa1b-36db36c177bc/cover_photo.jpeg
 
