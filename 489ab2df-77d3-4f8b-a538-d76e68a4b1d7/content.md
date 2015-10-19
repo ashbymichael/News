@@ -3,7 +3,7 @@ title: Designer
 custom_slug: designer
 category: job
 listed: true
-release_date: 2014-01-01 00:00:00.000000000 Z
+release_date: 2015-10-17 00:00:00.000000000 Z
 cover_photo_path: 
 
 ---
@@ -13,18 +13,17 @@ We're looking for someone to establish the design culture and identity of our co
 
 **What we're looking for:**
 
-- Good understanding of the development landscape
-- Bonus points for being able to code frontend or having a strong desire to learn
+- Strong experience with UX
 - Good understanding of print design
 - Empathy and good understanding of intent
 - Emphasis on function over form
 - Experience with branding and marketing
-- Experience with UI/UX
 - Desire to wear many hats and learn quickly
 - Ability to work fast and manage tradeoffs when faced with short deadlines
 - Ability to clearly communicate thought process
 - Ability to work well with developers
 - Ability and confidence to take ownership of projects
+- Bonus points for a good understanding of the development landscape
 - Passion for education
 
 <b>About Make School</b><br>Make School is building a university replacement for Computer Science.
