@@ -1,6 +1,6 @@
 ---
-title: Ruby on Rails Instructor
-custom_slug: ruby-on-rails-instructor
+title: Ruby on Rails Curriculum Engineer
+custom_slug: ruby-on-rails-curriculum-engineer
 category: job
 listed: true
 release_date: 2014-01-23 00:00:00.000000000 Z
@@ -9,7 +9,7 @@ cover_photo_path:
 ---
 Make School is building the Product University for aspiring software engineers and founders. Students spend two years learning computer science foundations, software engineering, and product development through a blend of individually paced, project-based learning and industry experience. Unlike traditional university, students have zero upfront cost for the program; they pay tuition through earnings.
 
-We're looking for a Ruby on Rails Instructor to develop and teach the web development curriculum. Your work will serve as the foundation for the Make School educational experience as we scale from 50 students to 5,000 students and beyond. By joining our team, you’ll be creating the blueprint for the future of higher education.
+We're looking for a Ruby on Rails Curriculum Engineer to develop and teach the web development curriculum. Your work will serve as the foundation for the Make School educational experience as we scale from 50 students to 5,000 students and beyond. By joining our team, you’ll be creating the blueprint for the future of higher education.
 
 Our curriculum will be open sourced - parts are already used by MIT and Carnegie Mellon as well as tens of thousands of students online. You’ll have the unique opportunity to engage and inspire young software engineers face to face as well as impacting those across the world.
 
