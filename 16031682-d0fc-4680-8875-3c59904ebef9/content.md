@@ -2,7 +2,7 @@
 title: iOS Instructor
 custom_slug: ios-instructor
 category: job
-listed: true
+listed: false
 release_date: 2014-01-22 00:00:00.000000000 Z
 cover_photo_path: 
 
