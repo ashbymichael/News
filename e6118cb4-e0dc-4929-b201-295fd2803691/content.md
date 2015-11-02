@@ -2,8 +2,8 @@
 title: State of the Future
 custom_slug: state-of-the-future
 category: gap_year
-listed: false
-release_date: 2015-09-24 00:00:00.000000000 Z
+listed: true
+release_date: 2015-11-02 00:00:00.000000000 Z
 cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/c8db9b647da5b6d338bd3ab7f90228ae923ab31a//e6118cb4-e0dc-4929-b201-295fd2803691/cover_photo.jpeg
 
 ---
