@@ -2,7 +2,7 @@
 title: 'Join Us for CodeDay at Make School HQ '
 custom_slug: old-code-day-article
 category: other
-listed: true
+listed: false
 release_date: 2014-10-01 00:00:00.000000000 Z
 cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/5594729df932e088ee88c2eb39202db01bdf7176//e00ee543-8537-41e4-b435-973113e60087/cover_photo.png
 
