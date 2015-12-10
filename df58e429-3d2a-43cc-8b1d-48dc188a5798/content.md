@@ -1,7 +1,6 @@
 ---
-title: 'Why Hour of Code Matters: Encouraging Computer Science Education the World
-  Over'
-custom_slug: why-hour-of-code-matters-encouraging-computer-science-education-the-world-over
+title: 'Why Hour of Code Matters: Encouraging Computer Science Education'
+custom_slug: why-hour-of-code-matters-encouraging-computer-science-education
 category: other
 listed: true
 release_date: 2015-12-08 00:00:00.000000000 Z
