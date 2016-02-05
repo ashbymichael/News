@@ -14,14 +14,15 @@ As we scale our programs around the world, it's critical we keep a strong filter
 **Responsibilities**
 
 Own the entire application process:
-<br><br>
+<br>
 
 - Manage and improve efficiency 
 - Perform quality assurance
 - Manage student and parent communications
 - Improve yield from admits to attendees
 - Develop a more scalable process
-<br><br>
+<br>
+
 - Arrange info sessions and site visits for students
 - Field customer service emails
 - Help with the student screening process
