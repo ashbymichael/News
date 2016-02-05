@@ -37,7 +37,7 @@ As we scale our programs around the world, it's critical we keep a strong filter
 - Recruiting / HR
 - Customer Service
 - Engineering Support
-<br><br>
+<br>
 
 - Strong analytical abilities
 - High-level of enjoyment of process design
@@ -46,9 +46,10 @@ As we scale our programs around the world, it's critical we keep a strong filter
 - Ability to communicate effectively and persuasively, in person and in writing, to many different audiences including parents, students, partners, high-profile personalities, executives and operational teams
 - Exceptionally resourceful; fearless in mining available knowledge bases to find answers
 - Passionate about education and computer science!
-<br><br>
+<br>
 
 Bonus:
+
 - Experience in university admissions
 - Experience building scalable processes
 
