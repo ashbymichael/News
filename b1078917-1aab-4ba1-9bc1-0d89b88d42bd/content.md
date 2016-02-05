@@ -19,7 +19,7 @@ As we scale our programs around the world, it's critical we keep a strong filter
 - Support partners in managing location specific admissions 
 - Identify applicant channels and support marketing
 - Apply learnings to instructor hiring process
-<br> **Own the entire application process:**
+<br><br> **Own the entire application process:**
 
 - Manage and improve efficiency 
 - Perform quality assurance
@@ -36,7 +36,7 @@ As we scale our programs around the world, it's critical we keep a strong filter
 - Ability to communicate effectively and persuasively, in person and in writing, to many different audiences including parents, students, partners, high-profile personalities, executives and operational teams
 - Exceptionally resourceful; fearless in mining available knowledge bases to find answers
 - Passionate about education and computer science!
-<br>2+ years experience in one or more of the following at a startup, tech company, or school:
+<br><br>**2+ years experience in one or more of the following at a startup, tech company, or school:**
 - Admissions
 - Sales
 - Marketing
