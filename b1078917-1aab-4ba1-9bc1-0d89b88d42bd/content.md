@@ -47,7 +47,6 @@ As we scale our programs around the world, it's critical we keep a strong filter
 - Exceptionally resourceful; fearless in mining available knowledge bases to find answers
 - Passionate about education and computer science!
 <br>
-
 Bonus:
 
 - Experience in university admissions
