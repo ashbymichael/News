@@ -21,7 +21,7 @@ As we scale our programs around the world, it's critical we keep a strong filter
 - Apply learnings to instructor hiring process
 
 Own the entire application process:
-<br>
+
 - Manage and improve efficiency 
 - Perform quality assurance
 - Manage student and parent communications
