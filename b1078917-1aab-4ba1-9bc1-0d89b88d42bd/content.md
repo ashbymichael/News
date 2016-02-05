@@ -1,6 +1,6 @@
 ---
 title: Admissions
-custom_slug: admissions4
+custom_slug: admissions
 category: job
 listed: true
 release_date: 2016-02-03 00:00:00.000000000 Z
