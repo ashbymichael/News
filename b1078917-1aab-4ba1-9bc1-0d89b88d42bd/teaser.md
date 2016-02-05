@@ -1,0 +1,1 @@
+The Make School community is the driving force in making our educational experience inspiring. Our students frequently share their experiences of exploring their passion for Computer Science on their own before finding a home at Make School. They see us as a community of hard working, like-minded peers and mentors who have the potential to use technology to change the world.
