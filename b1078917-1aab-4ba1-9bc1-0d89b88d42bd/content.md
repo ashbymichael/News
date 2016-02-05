@@ -30,6 +30,7 @@ As we scale our programs around the world, it's critical we keep a strong filter
 
 **Qualifications**
 <br>2+ years experience in one or more of the following at a startup, tech company, or school:
+
 - Admissions
 - Sales
 - Marketing
@@ -37,6 +38,7 @@ As we scale our programs around the world, it's critical we keep a strong filter
 - Customer Service
 - Engineering Support
 <br><br>
+
 - Strong analytical abilities
 - High-level of enjoyment of process design
 - Strong work ethic and high energy
@@ -45,6 +47,7 @@ As we scale our programs around the world, it's critical we keep a strong filter
 - Exceptionally resourceful; fearless in mining available knowledge bases to find answers
 - Passionate about education and computer science!
 <br><br>
+
 Bonus:
 - Experience in university admissions
 - Experience building scalable processes
