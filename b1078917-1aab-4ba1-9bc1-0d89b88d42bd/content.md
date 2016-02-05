@@ -19,7 +19,6 @@ As we scale our programs around the world, it's critical we keep a strong filter
 - Support partners in managing location specific admissions 
 - Identify applicant channels and support marketing
 - Apply learnings to instructor hiring process
-
 Own the entire application process:
 
 - Manage and improve efficiency 
