@@ -37,7 +37,7 @@ As we scale our programs around the world, it's critical we keep a strong filter
 - Recruiting / HR
 - Customer Service
 - Engineering Support
-<br>
+<br><br>
 
 - Strong analytical abilities
 - High-level of enjoyment of process design
