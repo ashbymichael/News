@@ -56,7 +56,7 @@ We're looking for someone to drive the expansion of the Summer Academy by buildi
 **Why our team loves working at Make School:**
 
 - We're surrounded by smart and driven people who strive for improvement every single day
- No micromanagement - freedom to work the way that works best for you, only being held accountable for the outcome of tasks and projects
+- No micromanagement - freedom to work the way that works best for you, only being held accountable for the outcome of tasks and projects
 - Ability to take ownership of things that are important to you and to discuss the overall company direction
 - High transparency and ability to influence decisions
 - Fast paced atmosphere and ability to work on multiple projects
