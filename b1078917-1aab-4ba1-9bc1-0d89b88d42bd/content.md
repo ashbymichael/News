@@ -12,12 +12,14 @@ The Make School community is the driving force in making our educational experie
 As we scale our programs around the world, it's critical we keep a strong filter to curate our community and maintain our high quality educational experience. We're looking to bring someone on the team who can design a scalable process that enables us to curate an even stronger community and brand all around the world.
 
 **Responsibilities**
+
 - Arrange info sessions and site visits for students
 - Field customer service emails
 - Help with the student screening process
 - Support partners in managing location specific admissions 
 - Identify applicant channels and support marketing
 - Apply learnings to instructor hiring process
+
 Own the entire application process:
 <br>
 - Manage and improve efficiency 
