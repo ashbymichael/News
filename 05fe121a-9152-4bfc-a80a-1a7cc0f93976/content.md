@@ -7,13 +7,15 @@ release_date: 2014-01-22 00:00:00.000000000 Z
 cover_photo_path: 
 
 ---
-We’re looking for iOS developers to teach at our Summer Academy, an 8 week intensive program where 600+ students of all ages will design, code, and ship their original iPhone game or app in Swift. Our curriculum also covers product design, prototyping, user testing, analytics, and more. This is a Full Time position from mid-June to mid-August. 
+We’re looking for iOS developers to teach at our Summer Academy, an 8 week intensive program where 600+ students of all ages will design, code, and ship their original iPhone game or app in Swift. Our curriculum also covers product design, prototyping, user testing, analytics, and more. 
+
+This is a Full Time position from mid-June to mid-August in either San Francisco, Sunnyvale, or New York City. 
 
 <b>About you</b><br>
 - Passionate about teaching young developers<br>
 - iOS experience (Swift preferred, Objective-C okay if you are excited and able to learn Swift before the program starts)<br>
 - Strong people skills, comfortable speaking to large groups of people<br>
-- Based in San Francisco, Silicon Valley, or New York City (or are willing to relocate on your own terms)<br>
+- Based in San Francisco, Sunnyvale, or New York City (or are willing to relocate on your own terms)<br>
 - You eat, breathe, and sleep code - you simply cannot get enough!<br>
 - High energy and a gigantic smile!<br>
 <b>Bonus points</b> <br>
