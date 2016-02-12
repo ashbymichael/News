@@ -2,7 +2,7 @@
 title: Testing Embed
 custom_slug: testing-embed
 category: gap_year
-listed: false
+listed: true
 release_date: 2016-02-10 00:00:00.000000000 Z
 cover_photo_path: 
 
