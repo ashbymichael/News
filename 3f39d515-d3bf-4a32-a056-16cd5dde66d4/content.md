@@ -16,8 +16,8 @@ cover_photo_path:
 * How to create your own learning plans on anything from guitar
 * Learning principles applied to character development
 * Why difficult learning is good for you
- 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/246453186&amp;color=009bdb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+<iframe class="mt4 mb4" width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/246453186&amp;color=009bdb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 This interview helped me get more clarity on how to save time learning and net fret over if I was take the right approach.
 
