@@ -9,7 +9,7 @@ cover_photo_path:
 ---
 Make School is building the Product University for aspiring software engineers and founders. Students spend two years learning computer science foundations, software engineering, and product development through a blend of individually paced, project-based learning and industry experience. Unlike traditional university, students have zero upfront cost for the program; they pay tuition through earnings.
 
-We're looking for a growth hacker to build traffic to our tutorials and online courses. The online courses serve two purposes, they provides a more acccessible way for students around the world to learn to code and they serve as a great funnel into our in person courses. So far we've had over 10,000 students participate in our online courses and over 1 million students use our tutorials. We want you to own website growth, you'll be responsible for driving more students to our high quality content, working with devs to iterate on the product and improve engagement and optimizing the funnel into our in person courses.
+We're looking for a growth hacker to build traffic to our tutorials and online courses. The online courses serve two purposes, they provides a more accessible way for students around the world to learn to code and they serve as a great funnel into our in person courses. So far we've had over 10,000 students participate in our online courses and over 1 million students use our tutorials. We want you to own website growth, you'll be responsible for driving more students to our high quality content, working with devs to iterate on the product and improve engagement and optimizing the funnel into our in person courses.
 
 **What we're looking for:**
 
