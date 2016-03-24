@@ -34,7 +34,7 @@ We're looking for someone to wear many hats and keep the wheels on the bus as we
 - High energy and a get it done attitude 
 - Passionate about education and computer science!
 
-<b>Bonus:</b>
+<br><b>Bonus:</b>
 
 - You know how to code or have a strong desire to learn (we'll teach you!)
 
