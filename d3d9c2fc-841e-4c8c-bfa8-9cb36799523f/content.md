@@ -1,6 +1,6 @@
 ---
 title: Office Administrator
-custom_slug: office-administrator
+custom_slug: office-administrator4
 category: job
 listed: true
 release_date: 2016-03-24 00:00:00.000000000 Z
@@ -34,7 +34,7 @@ We're looking for someone to wear many hats and keep the wheels on the bus as we
 - High energy and a get it done attitude 
 - Passionate about education and computer science!
 
-<br><b>Bonus:</b>
+<b>Bonus:</b>
 
 - You know how to code or have a strong desire to learn (we'll teach you!)
 
