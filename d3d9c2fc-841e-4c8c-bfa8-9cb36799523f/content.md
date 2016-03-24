@@ -1,9 +1,9 @@
 ---
 title: Office Administrator
-custom_slug: office-administrator4
+custom_slug: office-administrator
 category: job
 listed: true
-release_date: 2016-03-24 00:00:00.000000000 Z
+release_date: 2016-03-25 00:00:00.000000000 Z
 cover_photo_path: 
 
 ---
