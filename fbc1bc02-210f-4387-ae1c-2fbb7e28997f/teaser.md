@@ -1,0 +1,1 @@
+Make School Students will be working on President Obama’s ConnectALL Initiative, which aims to provide low-income Americans with greater access to broadband—along with the training and tools to become digitally literate.
