@@ -12,11 +12,13 @@ President Obama recently unveiled the national service initiative ConnectALL, wh
 I’m proud to announce that The White House has asked Make School to support their push towards digital literacy. As part of ConnectALL, our students will be building a tool to show underserved, low-income individuals how to leverage the Internet to gain skills, find jobs, connect with loved ones and more. I’m inspired to see our students use their time at Make School to help tackle the digital divide — one of the most important issues facing our country.
 
 <b>The Need for Digital Literacy</b>
+
 In today’s hyper-fast technological climate, digital literacy is a necessity as more and more jobs require the understanding and use of technology. An estimated 30% of households remain without access to broadband services at home, despite the fact that 98% of the American population live in areas that are connected.
 
 This means that one third of our country does not have the knowledge or resources to address their basic online needs such as communicating with loved ones, finding a job or finding a home. The ConnectALL initiative is designed to address this gap, with a goal to increase access and ensure that 20 million more Americans can begin to enjoy the benefits of the Internet by 2020.
 
 <b>Implementing Change</b>
+
 The White House plans to reach its goal by enlisting public and private organizations to:
 1. Make broadband services more accessible and affordable
 2. Boost digital literacy through training and education
