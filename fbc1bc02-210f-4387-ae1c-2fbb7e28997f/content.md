@@ -26,10 +26,10 @@ The White House plans to reach its goal by enlisting public and private organiza
 2. Boost digital literacy through training and education
 3. Increase access to digital devices
 
-Make School will lend its efforts and expertise towards the second pillar of the initiative, helping to guide new users of the Internet towards a basic understanding of its benefits and how to use it. The goal is to create an educational entry point to the Internet to be hosted in libraries and community centers around the nation. As we build this tool, we’ll work closely with local San Francisco organizations — like social services agency St. Anthony’s and the San Francisco Public Library — to better understand the needs of our users and design the best experience.
+Make School will lend its efforts and expertise towards the second pillar of the initiative, helping to guide new users of the Internet towards a basic understanding of its benefits and how to use it. The goal is to create an educational entry point to the Internet to be hosted in libraries and community centers around the nation. As we build this tool, we’ll work closely with local San Francisco organizations — like social services agency [St. Anthony’s] (https://www.stanthonysf.org/) and the [San Francisco Public Library ] (http://sfpl.org/)— to better understand the needs of our users and design the best experience.
 
 Our vision for Make School entails students gaining knowledge through creation and impact. We’re deeply honored to be a part of this national service initiative to tackle a crucial issue facing individuals far removed from the Silicon Valley bubble. We hope our tool — paired with ConnectALL’s commitment to delivering broadband and digital devices — can provide avenues for learning and access to opportunities that will enable upward mobility and strengthen the foundation of the American Dream.
 
-Interested in learning more about ConnectALL? Read The White House Fact Sheet!
+Interested in learning more about ConnectALL? Read [The White House Fact Sheet] (http://make.sc/whitehouse)!
 
-<i>(Statistics taken from Exploring the Digital Nation: America’s Emerging Online Experience, NTIA, 2013).</i>
+<i>(Statistics taken from [Exploring the Digital Nation: America’s Emerging Online Experience](https://www.ntia.doc.gov/files/ntia/publications/exploring_the_digital_nation_-_americas_emerging_online_experience.pdf), NTIA, 2013).</i>
