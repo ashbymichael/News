@@ -2,7 +2,7 @@
 title: Office Administrator
 custom_slug: office-administrator
 category: job
-listed: true
+listed: false
 release_date: 2016-03-24 00:00:00.000000000 Z
 cover_photo_path: 
 
