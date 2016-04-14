@@ -3,7 +3,7 @@ title: Create Your Own Job!
 custom_slug: create-your-own-job
 category: job
 listed: true
-release_date: 2016-04-13 00:00:00.000000000 Z
+release_date: 2014-01-21 00:00:00.000000000 Z
 cover_photo_path: 
 
 ---
