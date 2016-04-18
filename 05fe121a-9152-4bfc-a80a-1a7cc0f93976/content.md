@@ -11,8 +11,7 @@ We’re looking for iOS developers to teach at our Summer Academy, an 8 week int
 
 This is a Full Time position from mid-June to mid-August in San Francisco, Sunnyvale, Los Angeles, New York City, or Singapore.  
 
-What is it like to be a Summer Academy Instructor? Read all about the experience here: <br>
-https://medium.com/make-school/transforming-computer-science-education-7de9f34e24a3#.e89dxzv9e
+The Summer Academy Instructor position is a highly unique and rewarding role. Read more about the experience here: https://medium.com/make-school/transforming-computer-science-education-7de9f34e24a3#.e89dxzv9e
 
 <b>About you</b><br>
 - Passionate about teaching young developers<br>
