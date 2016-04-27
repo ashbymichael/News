@@ -1,1 +1,3 @@
 This Spring’s Demo Night is a Spotlight on Civic Tech
+
+At Make School, the educational experience is driven by one commandment — to design and ship products that can make the world a better place. In the last three months, the students in our two-year Product Academy have been collaborating on projects that do just that. And this Thursday at 6pm, during the Make School Demo Night & Intern Fair<a href="http://bit.ly/1VSKK77">link</a>, our students will present the work they’ve been doing. The five products highlight the different tastes, sensibilities, and backgrounds of their creators — ultimately, though, the products all contain a thread of civic responsibility. Here’s a sneak preview of this semester’s projects...
