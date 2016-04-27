@@ -7,7 +7,7 @@ release_date: 2016-04-26 00:00:00.000000000 Z
 cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/3312ca878c0549b04f5964828cfcc8436b81d85c//9ce655c3-26be-465b-acb0-45db12385c5d/cover_photo.jpeg
 
 ---
-At Make School, the educational experience is driven by one commandment — to design and ship products that can make the world a better place. In the last three months, the students in our two-year Product Academy have been collaborating on projects that do just that. And this Thursday at 6pm, during the Make School Demo Night & Intern Fair<a href="http://bit.ly/1VSKK77">link</a>, our students will present the work they’ve been doing. The five products highlight the different tastes, sensibilities, and backgrounds of their creators — ultimately, though, the products all contain a thread of civic responsibility. Here’s a sneak preview of this semester’s projects.
+At Make School, the educational experience is driven by one commandment — to design and ship products that can make the world a better place. In the last three months, the students in our two-year Product Academy have been collaborating on projects that do just that. And this Thursday at 6pm, during the <a href="http://bit.ly/1VSKK77">Make School Demo Night & Intern Fair</a>, our students will present the work they’ve been doing. The five products highlight the different tastes, sensibilities, and backgrounds of their creators — ultimately, though, the products all contain a thread of civic responsibility. Here’s a sneak preview of this semester’s projects.
 
 <strong>ConnectALL Initiative</strong>
 
