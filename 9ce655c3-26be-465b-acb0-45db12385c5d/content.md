@@ -29,6 +29,6 @@ Give With Us is a platform for people to make a big difference with small donati
 
 FoundVisa is TurboTax for the O-1 visa: An online platform that automates and digitizes the visa application to make the process simpler and less expensive. FoundVisa is the brainchild of Ryan Kim, who himself has had to navigate the complexities (and the exorbitant prices) of the visa and immigration process in the United States. Kim realized there was a great opportunity to create a tool to help bring relief to other overwhelmed filers. So he, along with team member Eliel Gordon, used iOS/Swift, Ruby on Rails, AngularJS, JavaScript, HTML, and CSS to create a robust platform for O-1 visa filing.
 
-We’re incredibly proud of the hard work, dedication, and collaborative effort all these teams have displayed and are very excited to showcase their work. Come watch our students demo these impressive products at Demo Night on Thursday, April 28th! You can RSVP here<a href="http://bit.ly/1VSKK77">link</a>.
+We’re incredibly proud of the hard work, dedication, and collaborative effort all these teams have displayed and are very excited to showcase their work. Come watch our students demo these impressive products at Demo Night on Thursday, April 28th! You can RSVP <a href="http://bit.ly/1VSKK77">here</a>.
 
-And if you’re interested in solving complex problems through technology, apply now <a href="http://bit.ly/1VSKeWH">link</a> to become a Make School Student!
+And if you’re interested in solving complex problems through technology, <a href="http://bit.ly/1VSKeWH">apply now</a> to become a Make School Student!
