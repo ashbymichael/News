@@ -2,7 +2,7 @@
 title: Make School Students are Building Software to Drive Progress
 custom_slug: make-school-students-are-building-software-to-drive-progress
 category: other
-listed: false
+listed: true
 release_date: 2016-04-26 00:00:00.000000000 Z
 cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/3312ca878c0549b04f5964828cfcc8436b81d85c//9ce655c3-26be-465b-acb0-45db12385c5d/cover_photo.jpeg
 
