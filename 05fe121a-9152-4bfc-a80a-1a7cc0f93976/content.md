@@ -7,7 +7,7 @@ release_date: 2014-01-22 00:00:00.000000000 Z
 cover_photo_path: 
 
 ---
-<b>Positions available in San Francisco, Sunnyvale, and New York City</b>
+<b>Positions available in San Francisco, Sunnyvale, Los Angeles, and New York City</b>
 
 This summer, 600+ students of all ages with gather at Make School Summer Academy locations across the United States and Asia. In 8 short weeks they will design, code, and ship an original iPhone game or app in Swift while also learning about crucial product development topics including prototyping, user testing, analytics, growth marketing, and more.
 
@@ -15,7 +15,7 @@ This summer, 600+ students of all ages with gather at Make School Summer Academy
 
 The Summer Academy curriculum is built by our in-house Curriculum team. Your job as an Instructor is to guide students through our curriculum as they progress through the product development lifecycle, from refining a game idea to submitting a finished game to the App Store. You will be directly responsible for the success of a group of 10-15 students and will also help other students at your location with their games as needed. 
 
-This is a Full Time position from June 6 - August 18th in San Francisco, Sunnyvale, New York City, or Los Angeles. 
+This is a Full Time position from June 6 - August 18th in San Francisco, Sunnyvale, Los Angeles, or New York City. 
 
 The Summer Academy Instructor position is a highly unique and rewarding role. Read more about the experience from past Instructors: https://www.makeschool.com/blog/transforming-computer-science-education-one-instructor-at-a-time
 
