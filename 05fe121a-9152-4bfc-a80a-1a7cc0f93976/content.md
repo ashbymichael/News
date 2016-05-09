@@ -20,6 +20,7 @@ This is a Full Time position from June 6 - August 18th in San Francisco, Sunnyva
 The Summer Academy Instructor position is a highly unique and rewarding role. Read more about the experience from past Instructors: https://www.makeschool.com/blog/transforming-computer-science-education-one-instructor-at-a-time
 
 About you
+
 - Passionate about teaching programming
 - Experience shipping iOS games (preferably in Swift, Objective-C admissible if you are excited about learning Swift on your own before the program starts)
 - Experience using SpriteKit or Cocos2D
