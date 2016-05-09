@@ -3,7 +3,7 @@ title: iOS Summer Games Instructor
 custom_slug: ios-summer-instructor
 category: job
 listed: true
-release_date: 2014-01-22 00:00:00.000000000 Z
+release_date: 2017-05-15 00:00:00.000000000 Z
 cover_photo_path: 
 
 ---
