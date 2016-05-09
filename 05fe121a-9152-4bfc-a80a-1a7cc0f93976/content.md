@@ -3,11 +3,11 @@ title: iOS Summer Games Instructor
 custom_slug: ios-summer-instructor
 category: job
 listed: true
-release_date: 2016-05-08 00:00:00.000000000 Z
+release_date: 2014-01-22 00:00:00.000000000 Z
 cover_photo_path: 
 
 ---
-<br>Positions available in San Francisco, Sunnyvale, and New York City</br>
+<b>Positions available in San Francisco, Sunnyvale, and New York City</b>
 
 This summer, 600+ students of all ages with gather at Make School Summer Academy locations across the United States and Asia. In 8 short weeks they will design, code, and ship an original iPhone game or app in Swift while also learning about crucial product development topics including prototyping, user testing, analytics, growth marketing, and more.
 
