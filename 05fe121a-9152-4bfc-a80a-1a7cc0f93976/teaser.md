@@ -1,1 +1,1 @@
-We’re looking for iOS developers to teach at our Summer Academy. You’ll be teaching students of all ages how to build and ship their first product: an iPhone app or game!
+This summer, 600+ students of all ages with gather at Make School Summer Academy locations across the United States and Asia. In 8 short weeks they will design, code, and ship an original iPhone game or app in Swift while also learning about crucial product development topics including prototyping, user testing, analytics, growth marketing, and more.
