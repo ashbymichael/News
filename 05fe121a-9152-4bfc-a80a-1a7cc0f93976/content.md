@@ -34,17 +34,20 @@ Bonus points
 - Ability to learn and assist in teaching non technical topics
 
 Job Requirements
+
 - Directly mentor a group of 10-15 students and manage their projects from brainstorm to App Store launch
 - Occasionally give lectures to the entire class
 - Lead group discussions on lecture topics
 - Help students work through bugs, crashes, and guide them towards best practices
 
 Become a Better iOS Developer
+
 - 2 week training before classes start led by top iOS developers
 - Be involved in the development and launch of 10+ apps
 - Teaching is the path to mastery 
 
 Grow Your Professional Network
+
 - A great launchpad into jobs at companies funded by Y-Combinator and Andreessen Horowitz
 - Networking opportunities with Make School's Corporate Partners including LinkedIn, Lyft, and MindBodyOnline
 - Our team is a family - join us for regular networking events, city outings, company game nights, etc
