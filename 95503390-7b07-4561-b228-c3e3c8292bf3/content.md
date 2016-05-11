@@ -7,9 +7,14 @@ release_date: 2016-05-11 00:00:00.000000000 Z
 cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/29d051ed19836a403812a45a5db83e6ad62c511d//95503390-7b07-4561-b228-c3e3c8292bf3/cover_photo.jpeg
 
 ---
-At Make School, we are very committed to our mission of empowering students to build products that will change the world. And today, we’re proud to announce a partnership with LATISM, an organization that has demonstrated its dedication to the same mission Make School holds dear. Through the hackathons LATISM has thrown and the encouragement it has provided to the Latino community, LATISM continually encourages community members ‘to use their creativity and programming skills [to improve the lives of others]’.
+At Make School, we are very committed to our mission of empowering students to build products that will change the world. And today, we’re proud to announce a partnership with LATISM, an organization that has demonstrated its dedication to the same mission Make School holds dear. Through the hackathons they’ve thrown and the encouragement they’ve provided to the Latino community, LATISM has continually encouraged community members ‘to use their creativity and programming skills [to improve the lives of others]’. Together, Make School and LATISM will be providing access to programming in order to encourage ‘Latino leaders to leverage technology and innovation’.
 
-Together, Make School and LATISM will be providing access to programming in order to encourage ‘Latino leaders to leverage technology and innovation’. And in honor of this extraordinary partnership, Make School is offering FIVE full-tuition scholarships for the Summer Academy to the LATISM community.
+In their post about this exciting partnership, LATISM explains:
+>”[W]e are proud to partner with another organization [that, like LATISM,] is leading the way in providing access to programming for everyone. Make School is a place where everyone is trying to change the world with technology. At Make School, education is focused on building apps and websites that improve the lives of those around you. Students learn the underlying computer science theory, development best practices and design principles that enable them to ship polished products.
+
+>This partnership is in alignment with LATISM’s commitment to educate and empower our Latino leaders to leverage technology and innovation to drive the changes that are needed in our community.
+
+>As part of this amazing partnership, Make School is offering FIVE full-tuition scholarships for the Summer Academy to our LATISM community! That’s a generous $7,000 scholarship per LATISM applicant.”
 
 You can read LATISM’s post about the partnership [here](http://latism.org/bringing-the-power-of-programming-to-latino-students-with-make-school/).
 
@@ -21,10 +26,10 @@ And if you’d like to engage further with both Make School and LATISM, please j
 
 <strong>Details:</strong>
 
->The Power of Programming: Weekly @LATISM Twitter Chat with @MAKESCHOOL #LATISM #MAKESCHOOL
-> 
->We will celebrate our partnership and discuss the power of being the creators of technology this Thursday night, May 12th at 9 p.m. EST. We invite you to join us! Come ask @MakeSchool any questions you may have about their programs. Engage in the conversation around Latino leadership in creating using technology to improve the lives of others.
->
+The Power of Programming: Weekly @LATISM Twitter Chat with @MAKESCHOOL #LATISM #MAKESCHOOL
+
+We will celebrate our partnership and discuss the power of being the creators of technology this Thursday night, May 12th at 9 p.m. EST. We invite you to join us! Come ask @MakeSchool any questions you may have about their programs. Engage in the conversation around Latino leadership in creating using technology to improve the lives of others.
+
 >When: Thursday, May 12th at 9 p.m. EST
 >Where: Follow the hashtags #LATISM #MAKESCHOOL on Twitter
 >Co-Hosts: @LATISM @MakeSchool
