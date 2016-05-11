@@ -1,0 +1,1 @@
+We’re proud to announce a partnership with LATISM, an organization that champions the Latino community through technology innovation and social media.
