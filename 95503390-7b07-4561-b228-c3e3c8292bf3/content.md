@@ -29,11 +29,9 @@ And if you’d like to engage further with both Make School and LATISM, please j
 <br>
 
 <strong>About the Make School Summer Academy</strong>
-
 The Make School Summer Academy is designed to teach product development to high school and college students passionate about technology. In the Intro Track, students learn Swift and programming fundamentals. In the Games and Apps tracks, students expand their knowledge of programming and ship their own original iPhone app to the App Store.
 <br>
 <br>
 
 <strong>About LATISM</strong>
-
 Latinos in Tech Innovation and Social Media (LATISM) is a nonprofit, nonpartisan organization dedicated to advancing the social, civic and economic status of the Latino community through technology innovation and social media.
