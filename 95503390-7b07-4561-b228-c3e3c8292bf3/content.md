@@ -31,8 +31,11 @@ The Power of Programming: Weekly @LATISM Twitter Chat with @MAKESCHOOL #LATISM #
 We will celebrate our partnership and discuss the power of being the creators of technology this Thursday night, May 12th at 9 p.m. EST. We invite you to join us! Come ask @MakeSchool any questions you may have about their programs. Engage in the conversation around Latino leadership in creating using technology to improve the lives of others.
 
 >When: Thursday, May 12th at 9 p.m. EST
+
 >Where: Follow the hashtags #LATISM #MAKESCHOOL on Twitter
+
 >Co-Hosts: @LATISM @MakeSchool
+
 >Moderator: @mendezgonzales
 <br>
 <br>
