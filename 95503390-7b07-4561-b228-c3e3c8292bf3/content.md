@@ -11,7 +11,9 @@ At Make School, we are very committed to our mission of empowering students to b
 
 Together, Make School and LATISM will be providing access to programming in order to encourage ‘Latino leaders to leverage technology and innovation’. And in honor of this extraordinary partnership, Make School is offering FIVE full-tuition scholarships for the Summer Academy to the LATISM community.
 
-You can read LATISM’s post about the partnership [here](http://latism.org/bringing-the-power-of-programming-to-latino-students-with-make-school/). If you are a member of the LATISM community, you may apply to the Make School Summer Academy [here](http://make.sc/latism). The deadline for scholarship applicants is May 31, 2016.
+You can read LATISM’s post about the partnership [here](http://latism.org/bringing-the-power-of-programming-to-latino-students-with-make-school/).
+
+If you are a member of the LATISM community, you may apply to the Make School Summer Academy [here](http://make.sc/latism). The deadline for scholarship applicants is May 31, 2016.
 <br>
 <br>
 
