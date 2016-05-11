@@ -17,7 +17,7 @@ You can read LATISM’s post about the partnership [here](http://latism.org/brin
 
 And if you’d like to engage further with both Make School and LATISM, please join our joint Twitter chat this Thursday, May 12 at 9pm EST:
 
->The Power of Programming: Weekly @LATISM Twitter Chat with @MAKESCHOOL #LATISM #MAKESCHOOL
+><strong>The Power of Programming: Weekly @LATISM Twitter Chat with @MAKESCHOOL #LATISM #MAKESCHOOL</strong>
 > 
 >We will celebrate our partnership and discuss the power of being the creators of technology this Thursday night, May 12th at 9 p.m. EST. We invite you to join us! Come ask @MakeSchool any questions you may have about their programs. Engage in the conversation around Latino leadership in creating using technology to improve the lives of others.
 >
