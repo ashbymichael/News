@@ -2,7 +2,7 @@
 title: Make School and LATISM are Bringing the Power of Programming to Latino Students
 custom_slug: make-school-and-latism-are-bringing-the-power-of-programming-to-latino-students
 category: summer_academy
-listed: false
+listed: true
 release_date: 2016-05-11 00:00:00.000000000 Z
 cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/29d051ed19836a403812a45a5db83e6ad62c511d//95503390-7b07-4561-b228-c3e3c8292bf3/cover_photo.jpeg
 
