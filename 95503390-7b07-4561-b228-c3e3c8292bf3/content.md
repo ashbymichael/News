@@ -2,7 +2,7 @@
 title: Make School and LATISM are Bringing the Power of Programming to Latino Students
 custom_slug: make-school-and-latism-are-bringing-the-power-of-programming-to-latino-students
 category: summer_academy
-listed: false
+listed: true
 release_date: 2016-05-11 00:00:00.000000000 Z
 cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/29d051ed19836a403812a45a5db83e6ad62c511d//95503390-7b07-4561-b228-c3e3c8292bf3/cover_photo.jpeg
 
@@ -17,7 +17,9 @@ You can read LATISM’s post about the partnership [here](http://latism.org/brin
 
 And if you’d like to engage further with both Make School and LATISM, please join our joint Twitter chat this Thursday, May 12 at 9pm EST:
 
-><strong>The Power of Programming: Weekly @LATISM Twitter Chat with @MAKESCHOOL #LATISM #MAKESCHOOL</strong>
+<strong>Details:</strong>
+
+>The Power of Programming: Weekly @LATISM Twitter Chat with @MAKESCHOOL #LATISM #MAKESCHOOL
 > 
 >We will celebrate our partnership and discuss the power of being the creators of technology this Thursday night, May 12th at 9 p.m. EST. We invite you to join us! Come ask @MakeSchool any questions you may have about their programs. Engage in the conversation around Latino leadership in creating using technology to improve the lives of others.
 >
