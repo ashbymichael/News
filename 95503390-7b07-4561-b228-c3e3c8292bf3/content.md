@@ -16,7 +16,7 @@ In their post about this exciting partnership, LATISM explains:
 
 >As part of this amazing partnership, Make School is offering FIVE full-tuition scholarships for the Summer Academy to our LATISM community! That’s a generous $7,000 scholarship per LATISM applicant.”
 
-You can read LATISM’s post about the partnership [here](http://latism.org/bringing-the-power-of-programming-to-latino-students-with-make-school/).
+You can read LATISM’s full post about the partnership [here](http://latism.org/bringing-the-power-of-programming-to-latino-students-with-make-school/).
 
 If you are a member of the LATISM community, you may apply to the Make School Summer Academy [here](http://make.sc/latism). The deadline for scholarship applicants is May 31, 2016.
 <br>
