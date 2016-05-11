@@ -14,6 +14,7 @@ Together, Make School and LATISM will be providing access to programming in orde
 You can read LATISM’s post about the partnership [here](http://latism.org/bringing-the-power-of-programming-to-latino-students-with-make-school/). If you are a member of the LATISM community, you may apply to the Make School Summer Academy [here](http://make.sc/latism). The deadline for scholarship applicants is May 31, 2016.
 <br>
 <br>
+
 And if you’d like to engage further with both Make School and LATISM, please join our joint Twitter chat this Thursday, May 12 at 9pm EST:
 
 >The Power of Programming: Weekly @LATISM Twitter Chat with @MAKESCHOOL #LATISM #MAKESCHOOL
@@ -26,11 +27,13 @@ And if you’d like to engage further with both Make School and LATISM, please j
 >Moderator: @mendezgonzales
 <br>
 <br>
+
 <strong>About the Make School Summer Academy</strong>
 
 The Make School Summer Academy is designed to teach product development to high school and college students passionate about technology. In the Intro Track, students learn Swift and programming fundamentals. In the Games and Apps tracks, students expand their knowledge of programming and ship their own original iPhone app to the App Store.
 <br>
 <br>
+
 <strong>About LATISM</strong>
 
 Latinos in Tech Innovation and Social Media (LATISM) is a nonprofit, nonpartisan organization dedicated to advancing the social, civic and economic status of the Latino community through technology innovation and social media.
