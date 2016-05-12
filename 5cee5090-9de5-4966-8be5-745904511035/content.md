@@ -1,6 +1,6 @@
 ---
-title: iOS Summer Intro Instructor - London
-custom_slug: instructor-london
+title: iOS Summer Intro Instructor - UK
+custom_slug: instructor-uk
 category: job
 listed: true
 release_date: 2016-05-10 00:00:00.000000000 Z
@@ -9,7 +9,7 @@ cover_photo_path:
 ---
 We’re looking for iOS developers to teach our <b>Intro Summer Academy</b> track, an 4 week intensive program where students learn the fundamentals of object-oriented programming and how to code and build games using the Swift programming language. Our curriculum also covers product design, prototyping, user testing, analytics, and more. This is a Full Time position from late July to mid August.
 
-<b>This position is only open to those currently authorized to work in the United Kingdom.</b>
+<b>This position is only open to those currently authorized to work in the EU.</b>
 
 About you:
 
