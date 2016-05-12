@@ -20,13 +20,13 @@ In its post about this exciting partnership, LATISM explains:
 <br>
 <br>
 
-And if you’d like to engage further with both Make School and LATISM, please join our joint Twitter chat this Thursday, May 12 at 9pm EST.
+<strong>And if you’d like to engage further with both Make School and LATISM, please join our joint Twitter chat this Thursday, May 12 at 9pm EST.</strong>
 
-####Details:####
+#####Details:#####
 
 <strong>The Power of Programming: Weekly @LATISM Twitter Chat with @MAKESCHOOL #LATISM #MAKESCHOOL</strong>
 
-<strong>We will celebrate our partnership and discuss the power of being the creators of technology this Thursday night, May 12th at 9 p.m. EST. We invite you to join us! Come ask @MakeSchool any questions you may have about their programs. Engage in the conversation around Latino leadership in creating using technology to improve the lives of others.</strong>
+We will celebrate our partnership and discuss the power of being the creators of technology this Thursday night, May 12th at 9 p.m. EST. We invite you to join us! Come ask @MakeSchool any questions you may have about their programs. Engage in the conversation around Latino leadership in creating using technology to improve the lives of others.
 
 ><strong>When: Thursday, May 12th at 9 p.m. EST</strong>
 
