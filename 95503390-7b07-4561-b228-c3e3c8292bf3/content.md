@@ -30,9 +30,9 @@ We will celebrate our partnership and discuss the power of being the creators of
 
 ><strong>Where: Follow the hashtags #LATISM #MAKESCHOOL on Twitter</strong>
 
-><strong>Co-Hosts: [https://twitter.com/LATISM](@LATISM) [https://twitter.com/MakeSchool](@MakeSchool)</strong>
+><strong>Co-Hosts: [@LATISM](https://twitter.com/LATISM)[@MakeSchool](https://twitter.com/MakeSchool)</strong>
 
-><strong>Moderator: [https://twitter.com/mendezgonzales](@mendezgonzales)</strong>
+><strong>Moderator: [@mendezgonzales](https://twitter.com/mendezgonzales)</strong>
 <br>
 <br>
 
