@@ -20,9 +20,7 @@ In its post about this exciting partnership, LATISM explains:
 <br>
 <br>
 
-<strong>And if you’d like to engage further with both Make School and LATISM, please join our joint Twitter chat this Thursday, May 12 at 9pm EST.</strong>
-
-#####Details:#####
+#####And if you’d like to engage further with both Make School and LATISM, please join our joint Twitter chat this Thursday, May 12 at 9pm EST:#####
 
 <strong>The Power of Programming: Weekly @LATISM Twitter Chat with @MAKESCHOOL #LATISM #MAKESCHOOL</strong>
 
