@@ -22,11 +22,11 @@ In its post about this exciting partnership, LATISM explains:
 
 And if you’d like to engage further with both Make School and LATISM, please join our joint Twitter chat this Thursday, May 12 at 9pm EST.
 
-<strong>Details:</strong>
+####Details:####
 
-The Power of Programming: Weekly @LATISM Twitter Chat with @MAKESCHOOL #LATISM #MAKESCHOOL
+<strong>The Power of Programming: Weekly @LATISM Twitter Chat with @MAKESCHOOL #LATISM #MAKESCHOOL</strong>
 
-We will celebrate our partnership and discuss the power of being the creators of technology this Thursday night, May 12th at 9 p.m. EST. We invite you to join us! Come ask @MakeSchool any questions you may have about their programs. Engage in the conversation around Latino leadership in creating using technology to improve the lives of others.
+<strong>We will celebrate our partnership and discuss the power of being the creators of technology this Thursday night, May 12th at 9 p.m. EST. We invite you to join us! Come ask @MakeSchool any questions you may have about their programs. Engage in the conversation around Latino leadership in creating using technology to improve the lives of others.</strong>
 
 ><strong>When: Thursday, May 12th at 9 p.m. EST</strong>
 
@@ -38,10 +38,10 @@ We will celebrate our partnership and discuss the power of being the creators of
 <br>
 <br>
 
-<strong>About the Make School Summer Academy</strong>
+####About the Make School Summer Academy####
 <p>The Make School Summer Academy is designed to teach product development to high school and college students passionate about technology. In the Intro Track, students learn Swift and programming fundamentals. In the Games and Apps tracks, students expand their knowledge of programming and ship their own original iPhone app to the App Store.
 <br>
 <br>
 
-<strong>About LATISM</strong>
+####About LATISM####
 <p>Latinos in Tech Innovation and Social Media (LATISM) is a nonprofit, nonpartisan organization dedicated to advancing the social, civic and economic status of the Latino community through technology innovation and social media.
