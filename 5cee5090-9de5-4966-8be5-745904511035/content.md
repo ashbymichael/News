@@ -2,7 +2,7 @@
 title: iOS Summer Intro Instructor - United Kingdom
 custom_slug: instructor-united-kingdom
 category: job
-listed: true
+listed: false
 release_date: 2016-05-10 00:00:00.000000000 Z
 cover_photo_path: 
 
