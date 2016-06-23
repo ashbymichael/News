@@ -2,7 +2,7 @@
 title: iOS Summer Games Instructor - Multiple Locations
 custom_slug: ios-summer-games-instructor-multiple-locations
 category: job
-listed: true
+listed: false
 release_date: 2017-05-15 00:00:00.000000000 Z
 cover_photo_path: 
 
