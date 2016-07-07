@@ -2,7 +2,7 @@
 title: Ruby on Rails Curriculum Engineer
 custom_slug: ruby-on-rails-curriculum-engineer
 category: job
-listed: false
+listed: true
 release_date: 2014-01-23 00:00:00.000000000 Z
 cover_photo_path: 
 
