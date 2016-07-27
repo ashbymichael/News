@@ -1,1 +1,1 @@
-We're looking for an iOS Instructor to develop and teach the iOS curriculum. 
+We're looking for an iOS Instructor & Curriculum Engineer to develop and teach the iOS curriculum for our Product Academy. 
