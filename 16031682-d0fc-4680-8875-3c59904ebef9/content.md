@@ -28,7 +28,7 @@ Our curriculum will be open sourced -- parts are already used by MIT and Carnegi
 - Passion for teaching and mentoring developers 
 - A strongly held belief that students learn best through guided, hands-on experience 
 - Industry experience building and maintaining iOS apps, using either Objective-C or Swift 
-- Good understanding of development best practices (TDD, version control, design patterns, performance), Math principles (Calculus & Statistics), CS principles (algorithms & data structures), and advanced CS concepts
+- Strong understanding of development best practices (TDD, version control, design patterns, performance), math principles (calculus and statistics), CS principles (algorithms and data structures), and advanced CS concepts
 - A positive impact on the people around you
 
 
