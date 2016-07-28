@@ -11,7 +11,7 @@ We're looking for an iOS Instructor & Curriculum Engineer to develop and teach t
 
 Make School’s Product Academy is a 2-year higher education program for aspiring software engineers and founders. Students spend two years learning computer science foundations, software engineering, and product development through a blend of project-based learning and industry experience. Unlike traditional university, students have zero upfront cost for the program; instead they pay tuition through earnings.
 
-This iOS developer will help to extend, develop, and teach the iOS curriculum. Your work will serve as the foundation for the Make School educational experience as we scale from 50 students to 5,000 students and beyond. By joining our team, you’ll be creating the blueprint for the future of higher education.
+Your work will serve as the foundation for the Make School educational experience as we scale from 50 students to 5,000 students and beyond. By joining our team, you’ll be creating the blueprint for the future of higher education.
 
 Our curriculum will be open sourced -- parts are already used by MIT and Carnegie Mellon as well as by tens of thousands of students online. You’ll have the unique opportunity to engage and inspire young software engineers face-to-face as well as to impact those across the world.
 
