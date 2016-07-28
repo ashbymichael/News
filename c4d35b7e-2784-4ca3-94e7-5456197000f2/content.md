@@ -14,6 +14,8 @@ Make School’s Product Academy is a 2-year higher education program for aspirin
 Your work will serve as the foundation for the Make School educational experience as we scale from 50 students to 5,000 students and beyond. By joining our team, you’ll be creating the blueprint for the future of higher education.
 
 Our curriculum will be open sourced -- parts are already used by MIT and Carnegie Mellon as well as by tens of thousands of students online. You’ll have the unique opportunity to engage and inspire young software engineers face-to-face as well as to inspire those across the world.
+
+
 <b>What you’ll do: </b><br>
 
 - Build and deliver Make School's web development curriculum 
