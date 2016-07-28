@@ -36,7 +36,7 @@ Our curriculum will be open sourced -- parts are already used by MIT and Carnegi
 
 - Receive expert training in research-driven teaching techniques
 - Be involved in the development and launch of 50+ apps
-- Contribute to open source projects & attend hackathons for free
+- Contribute to open source projects and attend hackathons for free
 - Explore the latest tools and technologies
 - Teaching is the path to mastery!
 
