@@ -1,6 +1,6 @@
 ---
-title: iOS Instructor/Curriculum Engineer
-custom_slug: ios-instructor
+title: iOS Instructor and Curriculum Engineer
+custom_slug: ios-instructor-and-curriculum-engineer
 category: job
 listed: true
 release_date: 2016-07-27 00:00:00.000000000 Z
