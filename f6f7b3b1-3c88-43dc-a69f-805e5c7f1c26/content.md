@@ -47,4 +47,4 @@ Ultimately, being an iOS Summer Instructor is about a commitment to computer sci
 
 It’s only through the commitment of these instructor cohorts that Make School has been able to fulfill our mission. We believe that it’s critical to construct a future where all kinds of students are motivated to create products that will change the world. We strive every year to bring in new, diverse voices to the fold to impart this motivating message to both students and instructors.
 
-If you’re interested in shaping the future of computer science education, [apply now](https://www.makeschool.com/jobs/ios-summer-instructor) to become an iOS Summer Instructor for the 2016 Summer Academy.
+If you’re interested in shaping the future of computer science education, [apply now](https://www.makeschool.com/jobs) to become an iOS Summer Instructor for the 2016 Summer Academy.
