@@ -7,9 +7,7 @@ release_date: 2016-09-26 00:00:00.000000000 Z
 cover_photo_path: 
 
 ---
-The Make School community is the driving force in making our educational experience inspiring. Our students frequently share their experiences of exploring their passion for Computer Science on their own before finding a home at Make School. They see us as a community of hard-working, like-minded peers and mentors who have the potential to use technology to change the world.
-
-As we scale our programs around the world, we need an energetic, organized, and bright self-starter who can be the front-line advocate for our students and help coordinate all aspects of their Make School experience. 
+The Make School community is the driving force in making our educational experience inspiring. Our students frequently share their experiences of exploring their passion for Computer Science on their own before finding a home at Make School. They see us as a community of hard-working, like-minded peers and mentors who have the potential to use technology to change the world.  As we scale our programs around the world, we need an energetic, organized, and bright self-starter who can be the front-line advocate for our students and help coordinate all aspects of their Make School experience. 
 
 
 What You’ll Do:
@@ -36,6 +34,7 @@ What We’re Looking For:
 - High emotional intelligence and empathy
 
 About Make School
+
 Make School is an accelerated college replacement program for students who want a hands-on and product-oriented educational experience. The program spans two years, divided by a six month internship at a tech startup. Students learn the CS theory covered by traditional universities paired with the practical experience of building and shipping products plus soft skills such as ethics, storytelling, and interpersonal communication.  Students network with successful founders and developers throughout the program, and are placed at a tech startup upon graduating. The program has no up front cost, and instead students pay tuition through internship and post-grad job earnings. 
 
 We also run a two month Summer Academy program teaching iOS development, and our online curriculum powers courses at MIT and Carnegie Mellon.
