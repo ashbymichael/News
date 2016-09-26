@@ -1,1 +1,3 @@
-We're looking for someone to wear many hats and keep the wheels on the bus as we step on the gas. Having an awesome admin can be a huge force multiplier for a company.
+The Make School community is the driving force in making our educational experience inspiring. Our students frequently share their experiences of exploring their passion for Computer Science on their own before finding a home at Make School. They see us as a community of hard-working, like-minded peers and mentors who have the potential to use technology to change the world.
+
+As we scale our programs around the world, we need an energetic, organized, and bright self-starter who can be the front-line advocate for our students and help coordinate all aspects of their Make School experience. 
