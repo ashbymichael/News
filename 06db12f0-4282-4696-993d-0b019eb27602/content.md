@@ -13,4 +13,6 @@ We are excited to announce that Make School is hosting CodeDay Bay Area on Novem
 CodeDay a 24-hour event where students get together and build cool things together! You pitch ideas, form teams, and build a cool app or game in 24 hours. CodeDay is a place for people who are interested in learning something new and meeting new people. 
 
 ###Register Now
-Space is limited, so get your tickets before they're gone! Protip: use HACK for 20% off. [Register here.](https://codeday.org/sv)
+Space is limited, so get your tickets before they're gone! Protip: use HACK for 20% off.
+
+ _Registration now closed_
