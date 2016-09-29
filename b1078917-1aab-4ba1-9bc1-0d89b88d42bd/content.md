@@ -7,9 +7,7 @@ release_date: 2016-09-29 00:00:00.000000000 Z
 cover_photo_path: 
 
 ---
-The Make School community is the driving force in making our educational experience inspiring. Our students frequently share their experiences of exploring their passion for Computer Science on their own before finding a home at Make School. They see us as a community of hard-working, like-minded peers and mentors who have the potential to use technology to change the world.
-
-As we scale our programs around the world, it's critical we keep a strong filter to curate our community and maintain our high quality educational experience. We're looking to bring someone on the team who can design a scalable process that enables us to curate an even stronger community and brand all around the world.
+The Make School community is the driving force in making our educational experience inspiring. Our students frequently share their experiences of exploring their passion for Computer Science on their own before finding a home at Make School. They see us as a community of hard-working, like-minded peers and mentors who have the potential to use technology to change the world.  As we scale our programs around the world, it's critical we keep a strong filter to curate our community and maintain our high quality educational experience. We're looking to bring someone on the team who can design a scalable process that enables us to curate an even stronger community and brand all around the world.
 
 
 <b>What You'll Do</b>:
