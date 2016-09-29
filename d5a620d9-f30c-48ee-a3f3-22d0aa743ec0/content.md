@@ -10,7 +10,7 @@ cover_photo_path:
 The Make School community is the driving force in making our educational experience inspiring. Our students frequently share their experiences of exploring their passion for Computer Science on their own before finding a home at Make School. They see us as a community of hard-working, like-minded peers and mentors who have the potential to use technology to change the world.  As we scale our programs around the world, we need an energetic, organized, and bright self-starter who can be the front-line advocate for our students and help coordinate all aspects of their Make School experience. 
 
 
-What You’ll Do:
+<b>What You’ll Do</b>:
 
 - Student Support - Handle all student inquiries and deliver outstanding student support.  Check in with all students regularly to ensure issues and feedback are quickly addressed.
 - Student Housing - Find and secure student housing partners, and be the point of escalation for RAs and building manager.
@@ -23,7 +23,7 @@ What You’ll Do:
 - Swag - Maintain supply of student swag (shirts, stickers, notebooks, etc.) 
 
 
-What We’re Looking For:
+<b>What We’re Looking For</b>:
 
 - A self starter with a keen attention to detail
 - 1-2 years experience (preferably in education, teaching, or customer service role)
@@ -33,7 +33,8 @@ What We’re Looking For:
 - Strong verbal and written communication skills
 - High emotional intelligence and empathy
 
-About Make School
+
+<b>About Make School</b>
 
 Make School is an accelerated college replacement program for students who want a hands-on and product-oriented educational experience. The program spans two years, divided by a six month internship at a tech startup. Students learn the CS theory covered by traditional universities paired with the practical experience of building and shipping products plus soft skills such as ethics, storytelling, and interpersonal communication.  Students network with successful founders and developers throughout the program, and are placed at a tech startup upon graduating. The program has no up front cost, and instead students pay tuition through internship and post-grad job earnings. 
 
