@@ -10,6 +10,7 @@ cover_photo_path:
 We're looking for a Web and Marketing Designer to establish the design culture and identity of our company.  Design is a critical component to building a high quality brand and improving the experience of our programs.  This is an ideal role for someone who enjoys playing in many areas of design and who is looking for a position to truly challenge one’s creative abilities. Your time will be split between both the Engineering and Marketing teams.
 
 <b>What You’ll Do</b>:
+
 - Iterate on the UI/UX of our website and online courses
 - Maintain our company style guide
 - Create and design all marketing pages on our website
@@ -17,6 +18,7 @@ We're looking for a Web and Marketing Designer to establish the design culture a
 
 
 <b>What We’re Looking For</b>:
+
 - Extensive experience with UX and ability to work well with developers (including using tools such as Zeplin, Invision, Balsamiq)
 - A “mobile-first” mindset towards responsive design 
 - Good understanding of print design
@@ -25,7 +27,6 @@ We're looking for a Web and Marketing Designer to establish the design culture a
 - Ability to clearly communicate your thought process
 - Ability and confidence to take ownership of projects
 - Passion for education
-
 
 <b>About Make School</b>
 
