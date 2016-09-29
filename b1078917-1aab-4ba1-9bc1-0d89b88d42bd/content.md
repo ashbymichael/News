@@ -13,26 +13,28 @@ As we scale our programs around the world, it's critical we keep a strong filter
 
 
 <b>What You'll Do<b/b>:
--Own the entire application process from beginning to end
--Manage and improve efficiency, and develop a scalable operation
--Improve yield from admits to attendees
--Collaborate with the team to arrange informational sessions and site visits for students
--Field customer service emails, calls, and online inquiries
--Manage student and parent communications
--Assist with the initial student screening process
--Support both our domestic and international partners in managing location-specific admissions procedures
--Identify applicant channels and support marketing growth
--Apply learnings to assist in instructor hiring process
+
+- Own the entire application process from beginning to end	
+- Manage and improve efficiency, and develop a scalable operation  	
+- Improve yield from admits to attendees
+- Collaborate with the team to arrange informational sessions and site visits for students
+- Field customer service emails, calls, and online inquiries 
+- Manage student and parent communications
+- Assist with the initial student screening process
+- Support both our domestic and international partners in managing location-specific admissions procedures
+- Identify applicant channels and support marketing growth
+- Apply learnings to assist in instructor hiring process
 
 
 <b>What We're Looking For<b/b>:
--Strong work ethic and high energy
--A “can do” attitude and someone who will work to identify opportunities, build a plan, and remove roadblocks in order to see a project through launch and beyond
--High-level of enjoyment of process design and experience building scalable processes
--Ability to communicate effectively and persuasively, both verbal and written, to many different audiences including parents, students, partners, high-profile personalities, executives, and operational teams
--Exceptionally resourceful; fearless in mining available knowledge bases to find answers
--Passionate about education and computer science!
--3+ years experience in one or more of the following at a startup, tech company, or school: Admissions, Sales, Marketing, Recruiting/HR
+
+- Strong work ethic and high energy
+- A “can do” attitude and someone who will work to identify opportunities, build a plan, and remove roadblocks in order to see a project through launch and beyond
+- High-level of enjoyment of process design and experience building scalable processes
+- Ability to communicate effectively and persuasively, both verbal and written, to many different audiences including parents, students, partners, high-profile personalities, executives, and operational teams
+- Exceptionally resourceful; fearless in mining available knowledge bases to find answers
+- Passionate about education and computer science!
+- 3+ years experience in one or more of the following at a startup, tech company, or school: Admissions, Sales, Marketing, Recruiting/HR
 
 
 <b>About Make School<b/b>
