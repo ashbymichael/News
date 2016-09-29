@@ -13,9 +13,8 @@ As we scale our programs around the world, it's critical we keep a strong filter
 
 
 <b>What You'll Do<b/b>:
-
 -Own the entire application process from beginning to end
--Manage and improve efficiency, and develop a scalable operation  	
+-Manage and improve efficiency, and develop a scalable operation
 -Improve yield from admits to attendees
 -Collaborate with the team to arrange informational sessions and site visits for students
 -Field customer service emails, calls, and online inquiries
@@ -27,7 +26,6 @@ As we scale our programs around the world, it's critical we keep a strong filter
 
 
 <b>What We're Looking For<b/b>:
-
 -Strong work ethic and high energy
 -A “can do” attitude and someone who will work to identify opportunities, build a plan, and remove roadblocks in order to see a project through launch and beyond
 -High-level of enjoyment of process design and experience building scalable processes
@@ -37,9 +35,7 @@ As we scale our programs around the world, it's critical we keep a strong filter
 -3+ years experience in one or more of the following at a startup, tech company, or school: Admissions, Sales, Marketing, Recruiting/HR
 
 
-
 <b>About Make School<b/b>
-
 Make School is an accelerated college replacement program for students who want a hands-on and product-oriented educational experience.  The program spans two years, divided by a six month internship at a tech startup. Students learn the CS theory covered by traditional universities paired with the practical experience of building and shipping products plus soft skills such as ethics, storytelling, and interpersonal communication.  Students network with successful founders and developers throughout the program, and are placed at a tech startup upon graduating. The program has no up front cost, and instead students pay tuition through internship and post-grad job earnings. 
 
 We also run a two month Summer Academy program teaching iOS development, and our online curriculum powers courses at MIT and Carnegie Mellon.
