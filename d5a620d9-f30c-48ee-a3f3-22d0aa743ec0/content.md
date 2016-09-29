@@ -1,6 +1,6 @@
 ---
-title: Student Experience Coordinator
-custom_slug: student-experience-coordinator
+title: Student Experience Lead
+custom_slug: student-experience-lead
 category: job
 listed: true
 release_date: 2016-09-26 00:00:00.000000000 Z
