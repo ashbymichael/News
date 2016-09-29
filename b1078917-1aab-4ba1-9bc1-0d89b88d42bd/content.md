@@ -38,6 +38,7 @@ As we scale our programs around the world, it's critical we keep a strong filter
 
 
 <b>About Make School</b>
+
 Make School is an accelerated college replacement program for students who want a hands-on and product-oriented educational experience.  The program spans two years, divided by a six month internship at a tech startup. Students learn the CS theory covered by traditional universities paired with the practical experience of building and shipping products plus soft skills such as ethics, storytelling, and interpersonal communication.  Students network with successful founders and developers throughout the program, and are placed at a tech startup upon graduating. The program has no up front cost, and instead students pay tuition through internship and post-grad job earnings. 
 
 We also run a two month Summer Academy program teaching iOS development, and our online curriculum powers courses at MIT and Carnegie Mellon.
