@@ -1,33 +1,34 @@
 ---
-title: Designer
-custom_slug: designer
+title: Web and Marketing Designer
+custom_slug: web-and-marketing-designer
 category: job
-listed: false
-release_date: 2015-10-17 00:00:00.000000000 Z
+listed: true
+release_date: 2016-09-29 00:00:00.000000000 Z
 cover_photo_path: 
 
 ---
-Make School is building the Product University for aspiring software engineers and founders. Students spend two years learning computer science foundations, software engineering, and product development through a blend of individually paced, project-based learning and industry experience. Unlike traditional university, students have zero upfront cost for the program; they pay tuition through earnings.
+We're looking for a Web and Marketing Designer to establish the design culture and identity of our company.  Design is a critical component to building a high quality brand and improving the experience of our programs.  This is an ideal role for someone who enjoys playing in many areas of design and who is looking for a position to truly challenge one’s creative abilities. Your time will be split between both the Engineering and Marketing teams.
 
-We're looking for someone to establish the design culture and identity of our company. Having strong design will be critical to building a high quality brand and improving the experience of our programs. You'll get to play in many areas of design and truly challenge your creative abilities. You'll be responsible for designing marketing pages on our website, designing physical marketing materials and swag, iterating on the UI/UX of our website and online courses, and designing the physical space of our programs. You'll also be creating a style guide for our course content (slides and projects) and building a mini design curriculum to teach developers about design.
+<b>What You’ll Do</b>:
+- Iterate on the UI/UX of our website and online courses
+- Maintain our company style guide
+- Create and design all marketing pages on our website
+- Design our physical marketing materials and swag, including t-shirts, brochures, flyers, etc.
 
-**What we're looking for:**
 
-- Strong experience with UX
+<b>What We’re Looking For</b>:
+- Extensive experience with UX and ability to work well with developers (including using tools such as Zeplin, Invision, Balsamiq)
+- A “mobile-first” mindset towards responsive design 
 - Good understanding of print design
-- Empathy and good understanding of intent
-- Emphasis on function over form
-- Experience with branding and marketing
-- Desire to wear many hats and learn quickly
-- Ability to work fast and manage tradeoffs when faced with short deadlines
-- Ability to clearly communicate thought process
-- Ability to work well with developers
+- Emphasis on function over form, and experience with branding and marketing
+- Ability to work fast and manage trade-offs when faced with short deadlines
+- Ability to clearly communicate your thought process
 - Ability and confidence to take ownership of projects
-- Bonus points for a good understanding of the development landscape
 - Passion for education
 
-<b>About Make School</b><br>Make School is building a university replacement for Computer Science.
-The program spans two years, divided by a six month internship at a tech startup. Students learn the CS theory covered by traditional universities paired with the practical experience of building and shipping products plus soft skills such as ethics, storytelling, and interpersonal communication.<br><br>
-Students network with successful founders and developers throughout the program, and are placed at a tech startup upon graduating. The program has no up front cost, students pay tuition through internship and post-grad job earnings. <br><br>
-Our pilot class kicked off last September with eleven students, two chose Make School over MIT. They shipped apps like Stitch News and Refuge Restrooms (featured in Buzzfeed) and received offers from Snapchat, Pandora, Edmodo, Dailymotion, Dr. Chrono and more. <br><br>
-We also run a two month Summer Academy teaching iOS development and our online curriculum powers courses at MIT and Carnegie Mellon.
+
+<b>About Make School</b>
+
+Make School is an accelerated college replacement program for students who want a hands-on and product-oriented educational experience.  The program spans two years, divided by a six month internship at a tech startup. Students learn the CS theory covered by traditional universities paired with the practical experience of building and shipping products plus soft skills such as ethics, storytelling, and interpersonal communication.  Students network with successful founders and developers throughout the program, and are placed at a tech startup upon graduating. The program has no up front cost, and instead students pay tuition through internship and post-grad job earnings. 
+
+We also run a two month Summer Academy program teaching iOS development, and our online curriculum powers courses at MIT and Carnegie Mellon.
