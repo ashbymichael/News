@@ -1,0 +1,3 @@
+The Make School Summer Academy is an eight week program where students of all ages build and ship their own iOS app or VR experience. Locations have included San Francisco, Sunnyvale, Los Angeles, New York City, Singapore, Taipei, Hong Kong, and Tokyo.
+
+We’re looking for iOS developers to teach at our Summer Academy. You'll teach Swift fundamentals plus product design, prototyping, user testing, analytics, and more. This is a contract position in 2017 from mid-June to mid-August.
