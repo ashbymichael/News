@@ -1,7 +1,7 @@
 ---
 title: City Manager - Los Angeles
-custom_slug: city-manager-los-angeles
-category: gap_year
+custom_slug: city-manager-los-angeles1
+category: job
 listed: true
 release_date: 2016-09-30 00:00:00.000000000 Z
 cover_photo_path: 
