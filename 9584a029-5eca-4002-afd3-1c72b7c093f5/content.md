@@ -11,13 +11,13 @@ The Make School Summer Academy is an eight week program where students of all ag
 
 We’re looking for iOS developers to teach at our Summer Academy. You'll teach Swift fundamentals plus product design, prototyping, user testing, analytics, and more. This is a contract position in 2017 from mid-June to mid-August. 
 
-<b>What you'll do:</b>
+<b>What You'll Do:</b>
 
 - Directly mentor a group of 10-15 students and manage their projects from brainstorm to App Store launch
 - Lead group discussions on lecture topics
 - Help students work through bugs, crashes, and guide them towards best practices
 
-<b>What we're looking for: </b>
+<b>What We're Looking For: </b>
 
 - Passionate about teaching young developers
 - iOS experience (Swift preferred, Objective-C okay if you are excited and able to learn 
@@ -27,13 +27,13 @@ We’re looking for iOS developers to teach at our Summer Academy. You'll teach 
 - You eat, breathe, and sleep code - you simply cannot get enough!
 - High energy and a gigantic smile!
 
-<b>Bonus points:</b>
+<b>Bonus Points:</b>
 
 - Experience teaching in a classroom setting or managing a team of developers
 - Industry experience building real products
 - Ability to learn and assist in teaching non technical topics
 
-<b>Become a better developer: </b>
+<b>Become a Better Developer: </b>
 
 - 2 week training on Swift concepts and Make School pedagogy at our headquarters in San Francisco
 - Be involved in the development and launch of 10+ apps
