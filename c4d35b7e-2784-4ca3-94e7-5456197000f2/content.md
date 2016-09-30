@@ -16,7 +16,7 @@ Your work will serve as the foundation for the Make School educational experienc
 Our curriculum will be open sourced -- parts are already used by MIT and Carnegie Mellon as well as by tens of thousands of students online. You’ll have the unique opportunity to engage and inspire young software engineers face-to-face as well as to inspire those across the world.
 
 
-<b>What you’ll do: </b><br>
+<b>What You’ll Do: </b><br>
 
 - Build and deliver Make School's web development curriculum 
 - Teach mastery of core web technologies and development practices
@@ -24,7 +24,7 @@ Our curriculum will be open sourced -- parts are already used by MIT and Carnegi
 - Spend 30% of your time working with the Curriculum Team building and updating content 
 - Spend 30% of your time working on open source projects, attending hackathons, building internal tools, etc.
 
-<b>What we're looking for:</b><br>
+<b>What We're Looking For:</b><br>
 
 - Passion for teaching and mentoring developers 
 - A strongly held belief that students learn best through guided, hands-on experience 
@@ -34,14 +34,14 @@ Our curriculum will be open sourced -- parts are already used by MIT and Carnegi
 - We are open to applicants with expertise in at least two major languages and frameworks on: Python, Flask, Ruby, Sinatra, Rails, Node, SQL & NoSQL databases, JS Frameworks, HTML/CSS
 
 
-<b>Become a better developer and teacher:</b><br>
+<b>Become a Better Developer and Teacher:</b><br>
 
 - Receive expert training in research-driven teaching techniques
 - Contribute to open source projects and attend hackathons for free
 - Explore the latest tools and technologies
 - Teaching is the path to mastery!
 
-<b>Grow your professional network:</b><br>
+<b>Grow Your Professional Network:</b><br>
 
 - Networking opportunities with Make School's Corporate Partners including LinkedIn, Lyft, and MindBodyOnline
 - Our team is a family: join us for regular networking events, city outings, company game nights, etc.
