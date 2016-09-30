@@ -1,6 +1,6 @@
 ---
 title: iOS Summer Academy Instructor
-custom_slug: ios-summer-academy-instructor6
+custom_slug: ios-summer-academy-instructor
 category: job
 listed: true
 release_date: 2016-09-14 00:00:00.000000000 Z
