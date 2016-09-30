@@ -7,27 +7,26 @@ release_date: 2016-09-30 00:00:00.000000000 Z
 cover_photo_path: 
 
 ---
-The Make School Summer Academy is an eight week program where students of all ages build and ship their own iOS app or VR experience. Locations have included San Francisco, Sunnyvale, Los Angeles, New York City, Singapore, Taipei, Hong Kong, and Tokyo. 
+The Make School Summer Academy is an 8 week program targeting 13-25 year old students who spend their summer with us learning to design, code, and ship their own app or game. Last summer students came from over 30 countries with 21% of the student body belonging to a minority group underrepresented in tech. Alums who attended while in high school have gone on to study computer science at Stanford, MIT, Harvard, UC Berkeley, and other top schools. Alums who attended while in college have gone on to land internships at Apple, Google, Facebook, Tesla, and other top companies. Locations have included San Francisco, Sunnyvale, Los Angeles, New York City, Singapore, Taipei, Hong Kong, and Tokyo. 
 
-New York City is one of our highest growth potential locations. We are looking for a local City Manager to fully plan and execute our next NYC Summer Academy. You will have full autonomy to create a stellar program and experience, while communicating with our Expansion team for guidance and support. 
+New York City is one of our highest growth potential locations. We are looking for a City Manager to start immediately, part time or full time, to ensure the success of our 2017 NYC Summer Academy. Make School has developed numerous resources to support you including marketing materials and strategy, an admissions team, full curriculum, and instructor training.
 
 <b>What You'll Do:</b>
 
-- Start-to-finish ownership of the Summer Academy in New York City - including student & instructor recruitment, identifying and signing classroom space, budgeting, etc
-- Grow a sustainable NYC program by increasing enrollment while maintaining student happiness and reducing burn 
-- Be the leader and face of Make School NYC
-- Find and attend local tech & education events, hackathons, etc. 
-- Engage with the Make School HQ Expansion team 
-- Identify and execute relevant partnerships with local companies
+- Be the face of Make School in New York City
+- Reach potential applicants through school visits, hackathons, events, partnerships, and other local marketing efforts
+- Support HQ's initiatives to increase the diversity of our applicant pool through local events and partnerships 
+- Manage budget and expenses
+- Identify and negotiate classroom space
+- Identify relevant partnership opportunities with local companies
+- Assist HQ in sourcing local instructor candidates
 
 <b>What We're Looking For:</b>
 
 - Comfortable in an autonomous position and communicating remotely with the core team
 - A strong local network and pulse on the tech and/or education community
-- 3+ years experience in Growth, Marketing, or Operations 
-- Experience bringing new products/experiences to New York City
-- Strong communicator, both written and verbal
 - A strong passion for education, Computer Science focused a plus
+- Start date & duration are negotiable
 
 <b>About Make School</b>
 
