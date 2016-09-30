@@ -11,7 +11,7 @@ The Make School Summer Academy is an eight week program where students of all ag
 
 Los Angeles is one of our highest growth potential locations. We are looking for a local City Manager to fully plan and execute our next LA Summer Academy. You will have full autonomy to create a stellar program and experience, while communicating with our Expansion team for guidance and support. 
 
-<b>What you'll do</b>
+<b>What you'll do:</b>
 
 - Start-to-finish ownership of the Summer Academy in Los Angeles - including student & instructor recruitment, identifying and signing classroom space, budgeting, etc
 - Grow a sustainable Los Angeles program by increasing enrollment while maintaining student happiness and reducing burn 
@@ -20,7 +20,7 @@ Los Angeles is one of our highest growth potential locations. We are looking for
 - Engage with the Make School HQ Expansion team 
 - Identify and execute relevant partnerships with local companies
 
-<b>What we're looking for</b>
+<b>What we're looking for:</b>
 
 - Comfortable in an autonomous position and communicating remotely with the core team
 - A strong local network and pulse on the tech and/or education community
@@ -29,8 +29,16 @@ Los Angeles is one of our highest growth potential locations. We are looking for
 - Strong communicator, both written and verbal
 - A strong passion for education, Computer Science focused a plus
 
+
 <b>About Make School</b>
 
-Make School is an accelerated college replacement program for students who want a hands-on and product-oriented educational experience. The program spans two years, divided by a six-month internship at a tech startup. Students learn the Computer Science theory covered by traditional universities paired with the practical experience of building and shipping products, plus soft skills such as ethics, storytelling, and interpersonal communication. Students network with successful founders and developers throughout the program, and are placed at a tech startup upon graduating. The program has no up front cost, and instead students pay tuition through internship and post-grad job earnings.
+Make School was founded in 2012 to empower students to build and ship products that impact their communities. Our core products include:
 
-We also run a two month Summer Academy program teaching iOS development, and our online curriculum powers courses at MIT and Carnegie Mellon.
+
+-  <b>Product Academy -</b> An accelerated college replacement program for students who want a hands-on and product-oriented educational experience. The program spans two years, divided by a six-month internship at a tech startup. Students learn the Computer Science theory covered by traditional universities paired with the practical experience of building and shipping products, plus soft skills such as ethics, storytelling, and interpersonal communication. The program has no up front cost, and instead students pay tuition through internship and post-grad earnings.
+
+
+-  <b>Summer Academy -</b> An eight week program where students of all ages build and ship their own iOS app or VR experience. Locations include San Francisco, Sunnyvale, Los Angeles, New York City, Singapore, Taipei, Hong Kong, and Tokyo. 
+
+
+-  <b>Swift CSP - </b> Free Computer Science curriculum that teaches iOS development designed for College Board's AP Computer Science Principles course framework. Swift CSP is currently being used by high school teachers and computer science clubs around the world.
