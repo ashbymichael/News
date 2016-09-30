@@ -11,7 +11,7 @@ The Make School Summer Academy is an eight week program where students of all ag
 
 New York City is one of our highest growth potential locations. We are looking for a local City Manager to fully plan and execute our next NYC Summer Academy. You will have full autonomy to create a stellar program and experience, while communicating with our Expansion team for guidance and support. 
 
-<b>What you'll do:</b>
+<b>What You'll Do:</b>
 
 - Start-to-finish ownership of the Summer Academy in New York City - including student & instructor recruitment, identifying and signing classroom space, budgeting, etc
 - Grow a sustainable NYC program by increasing enrollment while maintaining student happiness and reducing burn 
@@ -20,7 +20,7 @@ New York City is one of our highest growth potential locations. We are looking f
 - Engage with the Make School HQ Expansion team 
 - Identify and execute relevant partnerships with local companies
 
-<b>What we're looking for:</b>
+<b>What We're Looking For:</b>
 
 - Comfortable in an autonomous position and communicating remotely with the core team
 - A strong local network and pulse on the tech and/or education community
