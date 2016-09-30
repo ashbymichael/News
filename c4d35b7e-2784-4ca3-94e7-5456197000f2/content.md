@@ -46,9 +46,16 @@ Our curriculum will be open sourced -- parts are already used by MIT and Carnegi
 - Networking opportunities with Make School's Corporate Partners including LinkedIn, Lyft, and MindBodyOnline
 - Our team is a family: join us for regular networking events, city outings, company game nights, etc.
 
-<b>About Make School</b><br>
-Make School is building a university replacement for Computer Science.
-The program spans two years, divided by a six month internship at a tech startup. Students learn the CS theory covered by traditional universities paired with the practical experience of building and shipping products plus soft skills such as ethics, storytelling, and interpersonal communication.<br><br>
-Students network with successful founders and developers throughout the program, and are placed at a tech startup upon graduating. The program has no up front cost, and instead students pay tuition through internship and post-grad job earnings. <br><br>
-Our pilot class kicked off September 2014 with eleven students, two of whom chose Make School over MIT. They shipped apps like Stitch News and Refuge Restrooms (featured in Buzzfeed) and received offers from Snapchat, Pandora, Edmodo, Dailymotion, Dr. Chrono and more. <br><br>
-We also run a two month Summer Academy program teaching iOS development, and our online curriculum powers courses at MIT and Carnegie Mellon.
+
+<b>About Make School</b>
+
+Make School was founded in 2012 to empower students to build and ship products that impact their communities. Our core products include:
+
+
+-  <b>Product Academy -</b> An accelerated college replacement program for students who want a hands-on and product-oriented educational experience. The program spans two years, divided by a six-month internship at a tech startup. Students learn the Computer Science theory covered by traditional universities paired with the practical experience of building and shipping products, plus soft skills such as ethics, storytelling, and interpersonal communication. The program has no up front cost, and instead students pay tuition through internship and post-grad earnings.
+
+
+-  <b>Summer Academy -</b> An eight week program where students of all ages build and ship their own iOS app or VR experience. Locations include San Francisco, Sunnyvale, Los Angeles, New York City, Singapore, Taipei, Hong Kong, and Tokyo. 
+
+
+-  <b>Swift CSP - </b> Free Computer Science curriculum that teaches iOS development designed for College Board's AP Computer Science Principles course framework. Swift CSP is currently being used by high school teachers and computer science clubs around the world.
