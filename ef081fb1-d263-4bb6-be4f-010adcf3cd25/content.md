@@ -9,7 +9,9 @@ cover_photo_path:
 ---
 The Make School Summer Academy is an 8 week program targeting 13-25 year old students who spend their summer with us learning to design, code, and ship their own app or game. Last summer students came from over 30 countries with 21% of the student body belonging to a minority group underrepresented in tech. Alums who attended while in high school have gone on to study computer science at Stanford, MIT, Harvard, UC Berkeley, and other top schools. Alums who attended while in college have gone on to land internships at Apple, Google, Facebook, Tesla, and other top companies. Locations have included San Francisco, Sunnyvale, Los Angeles, New York City, Singapore, Taipei, Hong Kong, and Tokyo. 
 
-New York City is one of our highest growth potential locations. We are looking for a City Manager to start immediately, part time or full time, to ensure the success of our 2017 NYC Summer Academy. Make School has developed numerous resources to support you including marketing materials and strategy, an admissions team, full curriculum, and instructor training.
+New York City is one of our highest growth potential locations. We are looking for a City Manager to start immediately to ensure the success of our 2017 NYC Summer Academy. Make School has developed numerous resources to support you including marketing materials and strategy, an admissions team, full curriculum, and instructor training.
+
+This position may be full-time, part-time, or contract-to-hire.
 
 <b>What You'll Do:</b>
 
