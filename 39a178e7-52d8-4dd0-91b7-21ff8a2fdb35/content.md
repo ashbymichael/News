@@ -11,6 +11,9 @@ The Make School Summer Academy is an 8 week program targeting 13-25 year old stu
 
 Los Angeles is one of our highest growth potential locations. We are looking for a City Manager to start immediately to ensure the success of our 2017 Los Angeles Summer Academy. Make School has developed numerous resources to support you including marketing materials and strategy, an admissions team, full curriculum, and instructor training.
 
+This position may be full-time, part-time, or contract-to-hire.
+
+
 <b>What You'll Do:</b>
 
 - Be the face of Make School in Los Angeles
@@ -26,8 +29,7 @@ Los Angeles is one of our highest growth potential locations. We are looking for
 - Comfortable in an autonomous position and communicating remotely with the core team
 - A strong local network and pulse on the tech and/or education community
 - A strong passion for education, Computer Science focused a plus
-
-This position may be full-time, part-time, or contract-to-hire.
+- Start date & duration are negotiable
 
 
 <b>About Make School</b>
