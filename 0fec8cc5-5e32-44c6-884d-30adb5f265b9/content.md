@@ -15,7 +15,8 @@ The Make School community is the driving force in making our educational experie
 - Own all website growth and be responsible for driving traffic to our tutorials and online courses
 - Devise and drive the vision, strategy, roadmap, and implementation for growth-related projects
 - Grow new leads by converting site traffic through calls-to-action, landing pages, social media campaigns, etc.
-- Conduct research and discovery activities to define key target audienceCollaborate with developers to iterate on the product, and improve engagement to optimize the funnel into our in-person courses
+- Conduct research and discovery activities to define key target audience
+- Collaborate with developers to iterate on the product, and improve engagement to optimize the funnel into our in-person courses
 - Evaluate new partners, new technology, and outreach opportunities
 - Regularly report on progress to founders and collaborate with key stakeholders to both identify gaps and optimize systems
 - Track all progress and measure KPIs to evaluate outcomes
