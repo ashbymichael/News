@@ -1,6 +1,6 @@
 ---
-title: Web and Marketing Designer
-custom_slug: web-and-marketing-designer
+title: UI/UX Designer
+custom_slug: uiux-designer
 category: job
 listed: true
 release_date: 2016-09-29 00:00:00.000000000 Z
