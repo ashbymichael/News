@@ -1,5 +1,5 @@
 ---
-title: City Manager - New York City
+title: City Manager - New York City Summer Academy
 custom_slug: city-manager-new-york-city
 category: job
 listed: true
