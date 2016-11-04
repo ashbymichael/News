@@ -7,8 +7,9 @@ release_date: 2016-11-04 00:00:00.000000000 Z
 cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/027f80668ccbafc5da23d6e5cfd251a00809251f//480404d1-d0ba-4067-a1b7-a7b0c0528c96/cover_photo.jpeg
 
 ---
-Make School recently hosted the San Francisco EdSurge Career Fair and had the opportunity to hold a Q&A session with our co-founder and co-CEO, Ashu Desai, and our Head of People Operations, Sarah Hass. They touched on topics that included Make School’s current [hiring push] (https://www.makeschool.com/jobs) and where the company is headed in the next year or two. Here’s a full recap!
+---
 
+Make School recently hosted the San Francisco EdSurge Career Fair and had the opportunity to hold a Q&A session with our co-founder and co-CEO, Ashu Desai, and our Head of People Operations, Sarah Hass. They touched on topics that included Make School’s current [hiring push] (https://www.makeschool.com/jobs) and where the company is headed in the next year or two. Here’s a full recap!
 
 ---
 
@@ -31,14 +32,23 @@ Sarah: We’re a diverse group — we have people here from Fortune 500 comp
 ---
 
 **If you’re passionate about shaping the future of computer science education**, we’re interested in hearing from you. We’re interviewing candidates for the following positions:
+
 * City Manager — Los Angeles
+
 * City Manager — New York City
+
 * Full Stack Web Instructor and Curriculum Engineer
+
 * Growth Hacker
+
 * Head of Admissions
+
 * iOS Summer Academy Instructor
+
 * Ruby on Rails Engineer
+
 * Student Experience Lead
+
 * Web and Marketing Designer
 
 **Check out our [jobs page] (https://www.makeschool.com/jobs) to learn more and apply. We’re excited to meet you!**
