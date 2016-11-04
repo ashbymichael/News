@@ -1,5 +1,5 @@
 ---
-title: City Manager - Los Angeles
+title: City Manager - Los Angeles Summer Academy
 custom_slug: city-manager-los-angeles
 category: job
 listed: true
