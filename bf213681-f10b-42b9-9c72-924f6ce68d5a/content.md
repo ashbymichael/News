@@ -29,7 +29,7 @@ We're looking for a Ruby on Rails Engineer to help design and build the applicat
 - Passion for education
 - Bonus points for experience with React & JavaScript
 
-This position can be remote or based in our headquarters in San Francisco.
+This position can be remote or based in our headquarters in San Francisco.  If remote, candidates must be available between the hours of 11am-3pm PST.
 
 
 <b>About Make School</b>
