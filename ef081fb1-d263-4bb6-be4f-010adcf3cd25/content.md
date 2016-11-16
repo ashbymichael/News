@@ -2,7 +2,7 @@
 title: City Manager - New York City Summer Academy
 custom_slug: city-manager-new-york-city
 category: job
-listed: true
+listed: false
 release_date: 2016-09-30 00:00:00.000000000 Z
 cover_photo_path: 
 
