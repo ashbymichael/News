@@ -1,13 +1,16 @@
 ---
-title: Head of Admissions
-custom_slug: head-of-admissions
+title: Head of Admissions, Sales, and Marketing
+custom_slug: head-of-admissions-sales-and-marketing
 category: job
 listed: true
 release_date: 2016-09-29 00:00:00.000000000 Z
 cover_photo_path: 
 
 ---
-The Make School community is the driving force in making our educational experience inspiring. Our students frequently share their experiences of exploring their passion for Computer Science on their own before finding a home at Make School. They see us as a community of hard-working, like-minded peers and mentors who have the potential to use technology to change the world.  As we scale our programs around the world, it's critical we keep a strong filter to curate our community and maintain our high quality educational experience. We're looking for a Head of Admissions who can design a scalable process that enables us to curate an even stronger community and brand all around the world.
+The Make School community is the driving force in making our educational experience inspiring. Our students frequently share their experiences of exploring their passion for Computer Science on their own before finding a home at Make School. They see us as a community of hard-working, like-minded peers and mentors who have the potential to use technology to change the world.
+
+
+As we scale our programs around the world, it's critical we keep a strong filter to curate our community and maintain our high quality educational experience. We're looking to bring someone on the team who is interested in owning and driving the entire admissions, sales, and marketing funnel.
 
 
 <b>What You'll Do</b>:
@@ -31,8 +34,8 @@ The Make School community is the driving force in making our educational experie
 - High-level of enjoyment of process design and experience building scalable processes
 - Ability to communicate effectively and persuasively, both verbal and written, to many different audiences including parents, students, partners, high-profile personalities, executives, and operational teams
 - Exceptionally resourceful; fearless in mining available knowledge bases to find answers
-- Passionate about education and computer science!
-- 3+ years experience in one or more of the following at a startup, tech company, or school: Admissions, Sales, Marketing, Recruiting/HR
+- Passionate about education and computer science, and a desire to learn how to code
+- 5+ years experience in one or more of the following at a startup, tech company, or school: Admissions, Sales, Marketing
 
 
 
