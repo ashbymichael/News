@@ -9,7 +9,7 @@ cover_photo_path:
 ---
 This is a part time remote position starting immediately, with base pay and commission.
 
-As the Boston Summer Academy Lead Ambassador, your main objectives will be filling the Boston classroom with the next generation of Makers by driving quality applications to Seattle and ensuring top admits convert into attendees. We will provide you with all necessary materials and training and you will work closely with Make School HQ to define and achieve goals.
+As the Boston Summer Academy Lead Ambassador, your main objectives will be filling the Boston classroom with the next generation of Makers by driving quality applications to Boston and ensuring top admits convert into attendees. We will provide you with all necessary materials and training and you will work closely with Make School HQ to define and achieve goals.
 
 The Make School Summer Academy is an 8 week program targeting 13-25 year old students who spend their summer with us learning to design, code, and ship their own app or game. Last summer students came from over 30 countries with 21% of the student body belonging to a minority group underrepresented in tech. Alums who attended while in high school have gone on to study Computer Science at Stanford, MIT, Harvard, UC Berkeley, and other top schools. Alums who attended while in college have gone on to land internships at Apple, Google, Facebook, Tesla, and other top companies. Past Summer Academy locations have included San Francisco, Sunnyvale, Los Angeles, New York City, Singapore, Taipei, Hong Kong, and Tokyo.
 
