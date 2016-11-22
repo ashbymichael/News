@@ -1,6 +1,6 @@
 ---
 title: Washington D.C. Lead Ambassador
-custom_slug: washington-dc-lead-ambassador1
+custom_slug: washington-dc-lead-ambassador
 category: job
 listed: true
 release_date: 2016-11-21 00:00:00.000000000 Z
