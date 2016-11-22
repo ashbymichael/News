@@ -1,6 +1,6 @@
 ---
 title: Seattle Lead Ambassador
-custom_slug: seattle-lead-ambassador2
+custom_slug: seattle-lead-ambassador
 category: job
 listed: true
 release_date: 2016-11-21 00:00:00.000000000 Z
