@@ -1,6 +1,6 @@
 ---
 title: Dallas Lead Ambassador
-custom_slug: dallas-lead-ambassador3
+custom_slug: dallas-lead-ambassador
 category: job
 listed: true
 release_date: 2016-11-21 00:00:00.000000000 Z
