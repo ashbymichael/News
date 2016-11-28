@@ -2,7 +2,7 @@
 title: UI/UX Designer
 custom_slug: uiux-designer
 category: job
-listed: true
+listed: false
 release_date: 2016-09-29 00:00:00.000000000 Z
 cover_photo_path: 
 
