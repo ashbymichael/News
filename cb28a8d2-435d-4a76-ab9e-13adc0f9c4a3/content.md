@@ -1,6 +1,6 @@
 ---
-title: Atlanta Lead Ambassador
-custom_slug: atlanta-lead-ambassador
+title: Atlanta Summer Academy Lead
+custom_slug: atlanta-summer-academy-lead
 category: job
 listed: true
 release_date: 2016-11-21 00:00:00.000000000 Z
@@ -9,11 +9,11 @@ cover_photo_path:
 ---
 This is a part time remote position starting immediately, with base pay and commission.
 
-As the Atlanta Summer Academy Lead Ambassador, your main objectives will be filling the Atlanta classroom with the next generation of Makers by driving quality applications to Atlanta and ensuring top admits convert into attendees. We will provide you with all necessary materials and training and you will work closely with Make School HQ to define and achieve goals.
+As the Atlanta Summer Academy Lead, your main objectives will be filling the Atlanta classroom with the next generation of Makers by driving quality applications to Atlanta and ensuring top admits convert into attendees. We will provide you with all necessary materials and training and you will work closely with Make School HQ to define and achieve goals.
 
 The Make School Summer Academy is an 8 week program targeting 13-25 year old students who spend their summer with us learning to design, code, and ship their own app or game. Last summer students came from over 30 countries with 21% of the student body belonging to a minority group underrepresented in tech. Alums who attended while in high school have gone on to study Computer Science at Stanford, MIT, Harvard, UC Berkeley, and other top schools. Alums who attended while in college have gone on to land internships at Apple, Google, Facebook, Tesla, and other top companies. Past Summer Academy locations have included San Francisco, Sunnyvale, Los Angeles, New York City, Singapore, Taipei, Hong Kong, and Tokyo.
 
-We aim to spread the Summer Academy experience around the country, and our growth goals are aggressive. This year we are piloting U.S. programs in Seattle, Chicago, Dallas, Washington DC, Boston, and Atlanta, while doubling our reach in the Bay Area, Los Angeles, and New York City. We are looking for a Lead Ambassador in each city to ensure the success of all 2017 Summer Academy locations.
+We aim to spread the Summer Academy experience around the country, and our growth goals are aggressive. This year we are piloting U.S. programs in Seattle, Chicago, Dallas, Washington DC, Boston, and Atlanta, while doubling our reach in the Bay Area, Los Angeles, and New York City. We are looking for a Lead in each city to ensure the success of all 2017 Summer Academy locations.
 
 <b>What You'll Do:</b>
 
