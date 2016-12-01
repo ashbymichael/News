@@ -2,14 +2,14 @@
 title: iOS Instructor and Curriculum Engineer
 custom_slug: ios-instructor-and-curriculum-engineer
 category: job
-listed: false
-release_date: 2016-07-27 00:00:00.000000000 Z
+listed: true
+release_date: 2016-11-30 00:00:00.000000000 Z
 cover_photo_path: 
 
 ---
-We're looking for an iOS Instructor & Curriculum Engineer to develop and teach the iOS curriculum for our Product Academy. 
+We're looking for an iOS Instructor & Curriculum Engineer to develop and teach the iOS curriculum for our Product College. 
 
-Make School’s Product Academy is a 2-year higher education program for aspiring software engineers and founders. Students spend two years learning computer science foundations, software engineering, and product development through a blend of project-based learning and industry experience. Unlike traditional university, students have zero upfront cost for the program; instead they pay tuition through earnings.
+Make School’s Product College is a 2-year higher education program for aspiring software engineers and founders. Students spend two years learning computer science foundations, software engineering, and product development through a blend of project-based learning and industry experience. Unlike traditional university, students have zero upfront cost for the program; instead they pay tuition through earnings.
 
 Your work will serve as the foundation for the Make School educational experience as we scale from 50 students to 5,000 students and beyond. By joining our team, you’ll be creating the blueprint for the future of higher education.
 
