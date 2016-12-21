@@ -7,7 +7,7 @@ release_date: 2016-11-21 00:00:00.000000000 Z
 cover_photo_path: 
 
 ---
-This is a part time remote position starting immediately, with base pay and commission.
+This is a part time remote position starting immediately.
 
 As the Washington D.C. Summer Academy Lead, your main objectives will be filling the Washington D.C. classroom with the next generation of Makers by driving quality applications to Washington D.C. and ensuring top admits convert into attendees. We will provide you with all necessary materials and training and you will work closely with Make School HQ to define and achieve goals.
 
