@@ -1,6 +1,6 @@
 ---
-title: Head of Admissions, Sales, and Marketing
-custom_slug: head-of-admissions-sales-and-marketing
+title: Head of Admissions & Marketing
+custom_slug: head-of-admissions-marketing
 category: job
 listed: true
 release_date: 2016-09-29 00:00:00.000000000 Z
