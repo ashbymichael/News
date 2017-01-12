@@ -35,9 +35,11 @@ Our curriculum will be open sourced -- parts are already used by MIT and Carnegi
 <b>Become a better developer and teacher:</b><br>
 
 - Receive expert training in research-driven teaching techniques
+- Teaching is an excellent way to go from a junior developer to a senior developer
 - Be involved in the development and launch of 50+ apps
 - Contribute to open source projects and attend hackathons for free
 - Explore the latest tools and technologies
+- Enjoy a flexible schedule based on the academic school year
 - Teaching is the path to mastery!
 
 
