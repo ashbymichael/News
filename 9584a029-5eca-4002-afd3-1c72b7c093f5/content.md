@@ -7,9 +7,9 @@ release_date: 2016-09-14 00:00:00.000000000 Z
 cover_photo_path: 
 
 ---
-The Make School Summer Academy is an eight week program where students of all ages build and ship their own iOS app or VR experience. Locations have included San Francisco, Sunnyvale, Los Angeles, New York City, Singapore, Taipei, Hong Kong, and Tokyo.
+The Make School Summer Academy is an eight week program where students of all ages build and ship their own iOS app or VR experience. 
 
-We’re looking for iOS developers to teach at our Summer Academy. You'll teach Swift fundamentals plus product design, prototyping, user testing, analytics, and more. This is a contract position in 2017 from mid-June to mid-August. 
+We’re looking for iOS developers to teach at our Summer Academy. You'll teach Swift fundamentals plus product design, prototyping, user testing, analytics, and more. This is a contract position in 2017 from mid-June to mid-August.  Locations include San Francisco, Oakland, Silicon Valley, San Jose, Los Angeles, Seattle, Chicago, Dallas, Boston, Washington D.C., Atlanta, New York City, Beijing, Hong Kong, and Tokyo.  
 
 <b>What You'll Do:</b>
 
@@ -44,7 +44,7 @@ We’re looking for iOS developers to teach at our Summer Academy. You'll teach 
 Make School was founded in 2012 to empower students to build and ship products that impact their communities. Our core products include:
 
 
--  <b>Product Academy -</b> An accelerated college replacement program for students who want a hands-on and product-oriented educational experience. The program spans two years, divided by a six-month internship at a tech startup. Students learn the Computer Science theory covered by traditional universities paired with the practical experience of building and shipping products, plus soft skills such as ethics, storytelling, and interpersonal communication. The program has no up front cost, and instead students pay tuition through internship and post-grad earnings.
+-  <b>Product College -</b> An accelerated tech college for students who want a hands-on and product-oriented educational experience. The program spans two years, divided by a six-month internship at a tech startup. Students learn the Computer Science theory covered by traditional universities paired with the practical experience of building and shipping products, plus soft skills such as ethics, storytelling, and interpersonal communication. The program has no up front cost, and instead students pay tuition through internship and post-grad earnings.
 
 
 -  <b>Summer Academy -</b> An eight week program where students of all ages build and ship their own iOS app or VR experience. Locations include San Francisco, Sunnyvale, Los Angeles, New York City, Singapore, Taipei, Hong Kong, and Tokyo. 
