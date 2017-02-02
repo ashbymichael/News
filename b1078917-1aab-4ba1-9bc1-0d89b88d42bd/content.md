@@ -2,7 +2,7 @@
 title: Head of Admissions & Marketing
 custom_slug: head-of-admissions-marketing
 category: job
-listed: true
+listed: false
 release_date: 2016-09-29 00:00:00.000000000 Z
 cover_photo_path: 
 
