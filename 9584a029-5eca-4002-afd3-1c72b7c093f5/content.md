@@ -37,7 +37,7 @@ We’re looking for iOS developers to teach at our Summer Academy. You'll teach 
 - 2 week training on Swift concepts and Make School pedagogy at our headquarters in San Francisco
 - Be involved in the development and launch of 10+ apps
 - Teaching is the path to mastery!
-- This is a great opportunity for developers who want to try out teaching, and also for college students looking for internships
+- This is a great opportunity for developers who want to try out teaching, for college students looking for internships, and for iOS contractors between assignments
 
 <b>About Make School</b>
 
