@@ -1,6 +1,6 @@
 ---
 title: Bay Area Summer Academy Lead
-custom_slug: bay-area-summer-academy-lead1
+custom_slug: bay-area-summer-academy-lead
 category: job
 listed: true
 release_date: 2017-02-09 00:00:00.000000000 Z
