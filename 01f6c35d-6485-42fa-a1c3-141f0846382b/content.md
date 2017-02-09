@@ -7,7 +7,7 @@ release_date: 2016-11-21 00:00:00.000000000 Z
 cover_photo_path: 
 
 ---
-This is a part time remote position starting immediately.
+This is a part time position in Chicago starting immediately.
 
 As the Chicago Summer Academy Lead, your main objectives will be filling the Chicago classroom with the next generation of Makers by driving quality applications to Chicago and ensuring top admits convert into attendees. We will provide you with all necessary materials and training and you will work closely with Make School HQ to define and achieve goals.
 
