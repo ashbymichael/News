@@ -7,7 +7,7 @@ release_date: 2016-11-21 00:00:00.000000000 Z
 cover_photo_path: 
 
 ---
-This is a part time remote position starting immediately.
+This is a part time position in Boston starting immediately.
 
 As the Boston Summer Academy Lead, your main objectives will be filling the Boston classroom with the next generation of Makers by driving quality applications to Boston and ensuring top admits convert into attendees. We will provide you with all necessary materials and training and you will work closely with Make School HQ to define and achieve goals.
 
