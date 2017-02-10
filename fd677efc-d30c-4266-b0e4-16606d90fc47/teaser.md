@@ -1,0 +1,1 @@
+We're looking for talented members of the developer/hacker community to help represent Make School at events. If you love going to hackathons, teaching workshops, and building community, this is the position for you!  
