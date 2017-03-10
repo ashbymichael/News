@@ -13,23 +13,31 @@ Make School is looking for someone to wear many hats and keep the wheels on the 
 <b>What You’ll Do:</b>
 
 People Operations:
+
 - Source and screen instructor candidates for Make School’s Summer Academy (SA)
 - Manage interview scheduling and funneling in the recruiting pipeline
 - Prepare and administer agreements for SA instructors, contractors, and new hires
 - Assist in SA instructor onboarding and offboarding 
 
+
 Business Operations:
+
 - Maintain and update our internal institutional knowledge and policies
 - Assist in creating our compliance and operational processes
 - Perform strategic analyses to support the business (e.g., operational improvements, strategy and planning, partnerships)
 
+
 Finance:
+
 - Aid in account reconciliation and receipt management (familiarity with Expensify or bill.com a plus)
 - Assist in AP/AR
 
+
 Administrative:
+
 - Serve as point of contact for and maintain all office needs (e.g. restocking of snacks, supplies, ordering team lunch, etc.)
 - Coordinate and schedule team members’ flights and housing for events
+
 
 <b>What We’re Looking For:</b>
 
