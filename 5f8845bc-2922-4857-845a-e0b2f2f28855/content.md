@@ -2,7 +2,7 @@
 title: Dallas Summer Academy Lead
 custom_slug: dallas-summer-academy-lead
 category: job
-listed: false
+listed: true
 release_date: 2016-11-21 00:00:00.000000000 Z
 cover_photo_path: 
 
