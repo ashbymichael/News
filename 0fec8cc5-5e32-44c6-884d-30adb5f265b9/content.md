@@ -1,61 +1,43 @@
 ---
-title: Operations Associate
-custom_slug: operations-associate
+title: VR Instructor
+custom_slug: vr-instructor
 category: job
-listed: false
-release_date: 2017-03-10 00:00:00.000000000 Z
+listed: true
+release_date: 2017-02-10 00:00:00.000000000 Z
 cover_photo_path: 
 
 ---
-Make School is looking for someone to wear many hats and keep the wheels on the bus running as we step on the gas. You'll be responsible for making sure our office runs smoothly and projects are on track. You’ll handle everything we throw your way with grace and a smile: from maintaining spreadsheets to making sure our office is stocked with everything we need. 
+The Make School Summer Academy is an eight week program where students of all ages build and ship their own VR experience. We’re looking for Unity VR developers to teach at our Summer Academy. You'll teach C# and Unity fundamentals plus product design, prototyping, user testing, analytics, and more. This is a contract position in 2017 from early-June to mid-August in San Francisco.
 
 
 <b>What You’ll Do:</b>
 
-People Operations:
-
-- Source and screen instructor candidates for Make School’s Summer Academy (SA)
-- Manage interview scheduling and funneling in the recruiting pipeline
-- Prepare and administer agreements for SA instructors, contractors, and new hires
-- Assist in SA instructor onboarding and offboarding 
-
-
-Business Operations:
-
-- Maintain and update our internal institutional knowledge and policies
-- Assist in creating our compliance and operational processes
-- Perform strategic analyses to support the business (e.g., operational improvements, strategy and planning, partnerships)
-
-
-Finance:
-
-- Aid in account reconciliation and receipt management (familiarity with Expensify or bill.com a plus)
-- Assist in AP/AR
-
-
-Administrative:
-
-- Serve as point of contact for and maintain all office needs (e.g. restocking of snacks, supplies, ordering team lunch, etc.)
-- Coordinate and schedule team members’ flights and housing for events
+- Directly mentor a group of 10-15 students and manage their projects from brainstorm to launch
+- Lead group discussions on lecture topics
+- Help students work through bugs, crashes, and guide them towards best practices
 
 
 <b>What We’re Looking For:</b>
 
-- Experience in HR/Operations/Program Management at a startup or educational institution
-- Excellent organization skills with high attention to detail and time management
-- Ability to take on new tasks and responsibilities as the need arises
-- High energy and a “get-it-done” attitude
-- Passionate about education and computer science!
-- Bonus: You know how to code or have a strong desire to learn (we'll teach you!)
+- Passionate about teaching young developers a VR experience (Unity, C#, Oculus Rift with Touch controllers)
+- Strong people skills, comfortable speaking to large groups of people
+- Based in the United States and willing to relocate to San Francisco for the summer
+- You eat, breathe, and sleep code - you simply cannot get enough!
+- High energy and a gigantic smile!
 
-This is a 6 month position with the opportunity to extend.
+<b> Bonus Points:</b>
 
-<b>Benefits:</b>
+- Experience teaching in a classroom setting or managing a team of developers
+- Industry experience building real products
+- Ability to learn and assist in teaching non-technical topics
 
-- Competitive salary
-- Health, vision, and dental insurance
-- 401k with matching
-- Networking opportunities with our Corporate Partners including LinkedIn, Lyft, and MindBodyOnline
+
+<b> Become a Better Developer:</b>
+
+- 1 week training on C#/Unity and Make School pedagogy at our headquarters in San Francisco
+- Be involved in the development and launch of 10+ VR experiences
+- Teaching is the path to mastery!
+- This is a great opportunity for developers who want to try out teaching, for college students looking for internships, and for VR contractors between assignments
 
 
 
