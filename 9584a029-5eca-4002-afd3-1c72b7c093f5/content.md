@@ -2,7 +2,7 @@
 title: iOS Summer Academy Instructor - Multiple Locations
 custom_slug: ios-summer-academy-instructor-multiple-locations
 category: job
-listed: true
+listed: false
 release_date: 2016-09-14 00:00:00.000000000 Z
 cover_photo_path: 
 
