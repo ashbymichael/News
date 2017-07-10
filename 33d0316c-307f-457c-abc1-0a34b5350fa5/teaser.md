@@ -1,0 +1,1 @@
+Want to develop more willpower and empathy? The mission of The Positivity Podcast - created by Make School and Positivity Dan - is to empower people to develop their character traits: willpower, empathy, honesty, forgiveness, inclusion, deliberate practice, productivity, love, and more.
