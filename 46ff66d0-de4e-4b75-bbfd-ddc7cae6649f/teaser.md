@@ -1,0 +1,1 @@
+Roman Krznaric helps us develop empathy, design our own "empathy bootcamp", break barriers between people and bring these tactics to organizations. You'll also hear stories of how empathy brought about some of the greatest innovations of the last century.
