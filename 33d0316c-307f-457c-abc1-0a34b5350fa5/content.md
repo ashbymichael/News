@@ -2,7 +2,7 @@
 title: Positivity Podcast
 custom_slug: positivity-podcast
 category: podcast
-listed: false
+listed: true
 release_date: 2017-07-25 00:00:00.000000000 Z
 cover_photo_path: 
 
@@ -10,8 +10,6 @@ cover_photo_path:
 Want to develop more willpower and empathy?
 
 The Positivity Podcast will help you think about character development the way you think about professional development--with strategies, advice, best practices, and tools to help you grow. The series covers essential topics like Empathy (#2), Talent (#7), Honesty (#9), Meditation (#6), and Forgiveness (#5), from experts that range from academics to best-selling authors--all of whom have actionable tips to help you become a better, happier, more effective version of yourself. Follow on [iTunes](https://itunes.apple.com/us/podcast/positivity-podcast-with-make-school/id1090239384?mt=2) or a [web player](https://soundcloud.com/positivity-dan).
-
-We wrote a couple of blog posts about the Lack of Adult Character Development Resources [(article)](https://www.edsurge.com/news/2016-02-16-what-s-missing-in-edtech-character-development) that went viral and we've had an incredible amount of interest from teachers, EdTech entrepreneurs, university professors, HR leaders, students and professionals trying to push their personal growth. People wanted to go deeper so we made a podcast.
 
 
 ## Links to all episodes:
