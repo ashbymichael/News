@@ -2,7 +2,7 @@
 title: Empathy - Roman Krznaric on the extreme sport of understanding others
 custom_slug: empathy-roman-krznaric-on-the-extreme-sport-of-understanding-others
 category: podcast
-listed: false
+listed: true
 release_date: 2017-07-24 00:00:00.000000000 Z
 cover_photo_path: 
 
@@ -19,6 +19,8 @@ And he claims we should develop empathy like an extreme sport, a boot camp. In t
 * How to break barriers between people
 * Stories on how empathy brought about some of the greatest innovations of the last century.
  
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/246456347&amp;auto_play=false&amp;hide_related=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 His tactics are super practical.
 
 If you want to apply these insights to your own life here are some exercises to get you going… Action:
