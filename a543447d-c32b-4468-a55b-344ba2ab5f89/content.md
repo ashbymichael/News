@@ -1,6 +1,6 @@
 ---
 title: HR Associate
-custom_slug: hr-associate1
+custom_slug: hr-associate
 category: job
 listed: true
 release_date: 2017-07-17 00:00:00.000000000 Z
