@@ -9,6 +9,8 @@ cover_photo_path:
 ---
 Make School is looking for someone to help shape our employee experience and development as we grow. You'll be working with the leadership team to to develop and execute exciting people operations strategies and programs that support our business objectives and evolve, develop and grow our culture. You naturally bring out the best in people and a master of managing chaos.
 
+We will be responding to candidates by August 7th, 2017 with the next steps.
+
 <b>What You’ll Do:</b>
 
 - Work cross‐functionally to deliver People programs at Make School that foster employee engagement, happiness, productivity and retention
